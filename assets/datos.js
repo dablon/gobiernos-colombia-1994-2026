@@ -9,7 +9,7 @@ window.DATA = {
       {pre:"Santos I",      i:2010, f:2014, pibIni:1.14, pibFin:4.50, pibpcIni:6398.30, pibpcFin:8187.21, infIni:2.27, infFin:2.90, desIni:11.15, desFin:8.80, gini:53.6, deuIni:27.7, deuFin:30.7, trm:2001.11},
       {pre:"Santos II",     i:2014, f:2018, pibIni:5.13, pibFin:2.56, pibpcIni:8187.21, pibpcFin:6816.97, infIni:2.90, infFin:3.24, desIni:8.80, desFin:9.36, gini:51.6, deuIni:30.7, deuFin:40.7, trm:2955.70},
       {pre:"Duque",         i:2018, f:2022, pibIni:1.36, pibFin:7.33, pibpcIni:6816.97, pibpcFin:6680.45, infIni:3.24, infFin:10.18, desIni:9.36, desFin:10.54, gini:54.8, deuIni:40.7, deuFin:54.9, trm:4256.19},
-      {pre:"Petro (parc.)", i:2022, f:2026, pibIni:10.80, pibFin:2.60, pibpcIni:6680.45, pibpcFin:null, infIni:10.18, infFin:5.10, desIni:10.54, desFin:8.29, gini:54.4, deuIni:54.9, deuFin:58.5, trm:4052.86}
+      {pre:"Petro (parc.)", i:2022, f:2026, pibIni:10.80, pibFin:2.60, pibpcIni:6680.45, pibpcFin:null, infIni:10.18, infFin:5.10, desIni:10.54, desFin:8.29, gini:54.4, deuIni:54.9, deuFin:58.5, trm:4052.86, trmSpot:3572.85}
     ],
     smmlvRealAcum: [
       {pre:"Samper",     val:-18.1},
