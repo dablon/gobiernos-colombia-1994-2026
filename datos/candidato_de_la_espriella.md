@@ -323,4 +323,77 @@
 | Votantes de derecha radicales | Aceptan plataformas extremas. Riesgo: que se desmovilicen si De la Espriella negocia con el "establishment" tras ganar. | Análisis periodístico |
 
 ### 3. Riesgos de gobernabilidad
-- **Congreso sin mayoría:** 4 curules no son mayoría en 108 senadores. Necesitaría tejer
+- **Congreso sin mayoría:** 4 curules no son mayoría en 108 senadores. Necesitaría tejer coaliciones rápidas con el establecimiento que dice combatir. Riesgo de contradicción que active una "coalición anti-De la Espriella" heterogénea.
+- **Centro Democrático fracturado:** El uribismo no se unificaría en torno a él. Paloma Valencia y Vicky Dávila mantienen lealtades propias.
+- **Conflictos previsibles:**
+  - **Paz Total:** si De la Espriella la cierra unilateralmente, los grupos en proceso (ELN, disidencias, Segunda Marquetalia, Clan del Golfo) retornarían a la confrontación abierta. Riesgo: recrudecimiento de violencia en zonas estratégicas.
+  - **Reforma constitucional sobre aborto:** choca con la jurisprudencia de la Corte Constitucional (Sentencia C-355/2006 y otras).
+  - **Cierre o reforma de la JEP:** el Acuerdo de Paz con FARC de 2016 está blindado internacionalmente.
+  - **Glifosato y fumigación:** choca con la Sentencia T-236/2017 y compromisos internacionales.
+  - **Reforma pensional y laboral aprobadas:** derogarlas o modificarlas implica renegociar con sectores ya incorporados al debate.
+  - **Relación con FF.MM.:** hay que distinguir respaldo retórico del estamento. Los militares colombianos son institucionalistas; algunos se han opuesto a las Fuerzas Armadas como "actor político" (caso del exdirector de la JEP, de generales en retiro con declaraciones cruzadas).
+- **Crisis de seguridad en regiones:** Cauca, Catatumbo, Putumayo, Nariño. Riesgo: si cierra los diálogos, se reactiva el conflicto.
+- **Déficit fiscal:** De la Espriella propone bajar impuestos y mantener gasto militar — el déficit podría agravarse. Las calificadoras internacionales reaccionarían.
+- **Confianza inversionista:** Aunque promete un "alineamiento" con el capital, las propuestas de romper el Acuerdo de Paz pueden afectar la inversión europea (UE condiciona TLC al respeto del Acuerdo).
+- **Crisis de legitimidad democrática:** si sectores cristianos-católicos perciben que la campaña se reduce a marketing y al "outsider", puede haber desilusión rápida en el electorado.
+- **Pueblos indígenas y comunidades afro:** mayor margen de acción si se radicaliza la política de seguridad, mayor conflicto.
+- **Vocación externa de conflictos:** Reactivar glifosato y alineamiento con EE.UU. implica tensiones con Bolivia, Perú y movimientos cocaleros.
+- **CNE / financiación:** Investigaciones periodísticas sobre aportes de Saab podrían materializarse en indagación formal.
+
+### 4. Riesgos de seguridad personal
+- **Amenazas activas documentadas:** Agresión en vía Chinácota-Toledo (Norte de Santander) denunciada por su equipo. Revista Vía Pública describe "acoso judicial" del candidato y de su familia.
+- **Esquema de seguridad:** Esquema personal, no solo UNP. Chaleco antibalas en eventos públicos. **Vulnerabilidad de seguridad incrementada en zonas rurales.**
+
+### 5. Riesgos específicos de su perfil personal
+- **Riesgo de "outsider" invertido:** Aunque se vende como outsider, su trayectoria muestra vínculos con poderes tradicionales. Riesgo: que se le descubra "no es outsider" en momentos críticos de la campaña.
+- **Riesgo Bukele en miniatura:** El electorado colombiano no es el salvadoreño. **Si la primera vuelta es ganada con voto de opinión pero no se consolida en segunda vuelta, pierde legitimidad para 2030.**
+
+---
+
+## Resumen de riesgos (calificación cualitativa)
+
+| Categoría | Nivel | Comentario |
+|-----------|-------|------------|
+| Legal/constitucional | **Alto** | Vínculos con Saab, Murcia, AUC; investigaciones mediáticas activas; reformas chocarían con la Corte |
+| Financiamiento | **Alto** | Cuestionamientos activos; opacidad sobre aporte propio; posible apertura de investigación |
+| Entorno | **Alto** | Movimiento de Salvación Nacional frágil; Uribe con apoyo "con fricción"; Restauración de figuras del uribismo radical |
+| Gobernabilidad | **Muy alto** | Sin mayoría legislativa; contradicción con Establishment; reformas inconstitucionales previsibles |
+| Seguridad personal | **Alto** | Amenazas activas documentadas |
+| Económicos / fiscales | **Medio-Alto** | Riesgo de choque con calificadoras por bajas tributarias; incertidumbre para inversión |
+| Democrático / DDHH | **Alto** | Crítica internacional si adopta modelo Bukele con violaciones a DDHH |
+
+---
+
+## Datos no encontrados / marcar para verificación
+- **Resultados oficiales de primera vuelta 31 may 2026** — CIDOB y otras fuentes hablan de "preconteo". **Verificar en Registraduría Nacional.**
+- **Cifras exactas de financiamiento de campaña.**
+- **ISBN de publicaciones propias del candidato.**
+- **Cargos exactos del Movimiento de Salvación Nacional anteriores a 1997.**
+- **Anotaciones actuales en SIRI de Procuraduría / antecedentes disciplinarios.** Verificar.
+- **Estado actual del proceso Tuso Sierra y DMG.** Precluidos pero el debate mediático está activo.
+- **Cargos en Cámara de Representantes o alcaldías:** confirmado que NO ha ocupado cargos de elección popular.
+
+---
+
+## Fuentes principales
+- **CIDOB (Barcelona Centre for International Affairs):** https://www.cidob.org/lider-politico/abelardo-de-la-espriella-otero
+- **La Silla Vacía — Juanita León, "Abelardo de la Espriella, una marca importada para la época"** (artículo extenso, biográfico)
+- **La Silla Vacía — "De la Espriella asume el riesgo de contarse mal con Salvación Nacional"** (análisis de campaña y lista al Congreso)
+- **BBC Mundo (29 may 2026):** https://www.bbc.com/mundo/articles/cp8pp7m515jo
+- **Daniel Coronell (columna W Radio / Cambio):** transferencias Álex Saab US$370 mil — mayo 2026
+- **Caracol Radio, Blu Radio, La W:** CNE, financiación, denuncias
+- **CasaMacondo — Monopolítica 2026:** "Abelardo De La Espriella — Hallazgo" (vínculos con Cartel del Norte del Valle)
+- **El Colombiano (17 abr 2026):** Uribe y el apoyo a De la Espriella
+- **Semana (2008):** "Mancuso es mi paisano…" — entrevista
+- **Revista Vía Pública (mayo 2026):** "¿Tigre o gato asustado?: Abelardo de la Espriella y el acoso judicial"
+- **El Espectador, El Tiempo, La FM**
+- **Movimiento de Salvación Nacional** (página oficial — no accesible al cierre de esta investigación)
+- **El Colombiano, Caracol, RCN**
+- **Sitios web de campaña:** (no accesible al cierre de esta investigación)
+- **Redes oficiales del candidato:** X (@AbelardoDeLaEsp), Instagram, TikTok
+- **Verdad Abierta:** perfil paramilitarismo
+- **Wikipedia (cruzada, no como fuente única)**
+
+---
+
+*Documento preparado como perfil de investigación política. No constituye endoso, predicción electoral ni análisis psicológico. Cualquier sección marcada "verificar" debe ser confirmada con la fuente primaria antes de uso en decisiones públicas.*

@@ -1,0 +1,65 @@
+gobierno,presidente,inicio,fin,indicador,valor_inicio,valor_fin,unidad,fuente,nota
+Samper 1994-1998,Ernesto Samper,1994,1998,Producción petróleo promedio,650,720,kbpd,Ecopetrol/ANH,
+Samper 1994-1998,Ernesto Samper,1994,1998,Reservas probadas petróleo,2500,2800,millones barriles,ANH,
+Samper 1994-1998,Ernesto Samper,1994,1998,Producción gas natural,800,950,MPCD,ANH,
+Samper 1994-1998,Ernesto Samper,1994,1998,Reservas gas natural,4500,5000,bcf,ANH,
+Samper 1994-1998,Ernesto Samper,1994,1998,Producción carbón,22,30,millones toneladas,UPME/ANM,Expansión Cerrejón
+Samper 1994-1998,Ernesto Samper,1994,1998,Capacidad instalada eléctrica,8500,10000,MW,XM/UPME,
+Samper 1994-1998,Ernesto Samper,1994,1998,Regalías minero-energéticas,1.2,1.8,billones COP,DNP,Sistema antiguo
+Pastrana 1998-2002,Andrés Pastrana,1998,2002,Producción petróleo promedio,720,680,kbpd,Ecopetrol/ANH,Declinación campos
+Pastrana 1998-2002,Andrés Pastrana,1998,2002,Reservas probadas petróleo,2800,2600,millones barriles,ANH,
+Pastrana 1998-2002,Andrés Pastrana,1998,2002,Producción gas natural,950,1050,MPCD,ANH,
+Pastrana 1998-2002,Andrés Pastrana,1998,2002,Reservas gas natural,5000,5200,bcf,ANH,
+Pastrana 1998-2002,Andrés Pastrana,1998,2002,Producción carbón,30,42,millones toneladas,UPME/ANM,
+Pastrana 1998-2002,Andrés Pastrana,1998,2002,Capacidad instalada eléctrica,10000,11500,MW,XM/UPME,
+Pastrana 1998-2002,Andrés Pastrana,1998,2002,Regalías minero-energéticas,1.8,1.5,billones COP,DNP,Precios bajos
+Uribe I 2002-2006,Álvaro Uribe,2002,2006,Producción petróleo promedio,680,570,kbpd,Ecopetrol/ANH,Crisis seguridad
+Uribe I 2002-2006,Álvaro Uribe,2002,2006,Reservas probadas petróleo,2600,2400,millones barriles,ANH,
+Uribe I 2002-2006,Álvaro Uribe,2002,2006,Producción gas natural,1050,1150,MPCD,ANH,
+Uribe I 2002-2006,Álvaro Uribe,2002,2006,Reservas gas natural,5200,5500,bcf,ANH,
+Uribe I 2002-2006,Álvaro Uribe,2002,2006,Producción carbón,42,58,millones toneladas,UPME/ANM,Boom exportaciones
+Uribe I 2002-2006,Álvaro Uribe,2002,2006,Capacidad instalada eléctrica,11500,12500,MW,XM/UPME,
+Uribe I 2002-2006,Álvaro Uribe,2002,2006,Regalías minero-energéticas,1.5,2.5,billones COP,DNP,Recuperación
+Uribe I 2002-2006,Álvaro Uribe,2002,2006,Inversión extranjera sector,800,1500,millones USD,MinComercio,
+Uribe II 2006-2010,Álvaro Uribe,2006,2010,Producción petróleo promedio,570,830,kbpd,Ecopetrol/ANH,Recuperación seguridad
+Uribe II 2006-2010,Álvaro Uribe,2006,2010,Reservas probadas petróleo,2400,2900,millones barriles,ANH,Descubrimientos
+Uribe II 2006-2010,Álvaro Uribe,2006,2010,Producción gas natural,1150,1100,MPCD,ANH,
+Uribe II 2006-2010,Álvaro Uribe,2006,2010,Reservas gas natural,5500,5800,bcf,ANH,
+Uribe II 2006-2010,Álvaro Uribe,2006,2010,Producción carbón,58,78,millones toneladas,UPME/ANM,
+Uribe II 2006-2010,Álvaro Uribe,2006,2010,Capacidad instalada eléctrica,12500,13500,MW,XM/UPME,
+Uribe II 2006-2010,Álvaro Uribe,2006,2010,Regalías minero-energéticas,2.5,6.0,billones COP,DNP,Boom precios
+Uribe II 2006-2010,Álvaro Uribe,2006,2010,Inversión extranjera sector,1500,4500,millones USD,MinComercio,
+Santos I 2010-2014,Juan Manuel Santos,2010,2014,Producción petróleo promedio,830,1030,kbpd,Ecopetrol/ANH,Pico histórico
+Santos I 2010-2014,Juan Manuel Santos,2010,2014,Reservas probadas petróleo,2900,3700,millones barriles,ANH,Máximo histórico
+Santos I 2010-2014,Juan Manuel Santos,2010,2014,Producción gas natural,1100,1150,MPCD,ANH,
+Santos I 2010-2014,Juan Manuel Santos,2010,2014,Reservas gas natural,5800,6000,bcf,ANH,
+Santos I 2010-2014,Juan Manuel Santos,2010,2014,Producción carbón,78,88,millones toneladas,UPME/ANM,
+Santos I 2010-2014,Juan Manuel Santos,2010,2014,Capacidad instalada eléctrica,13500,15000,MW,XM/UPME,
+Santos I 2010-2014,Juan Manuel Santos,2010,2014,Regalías minero-energéticas,6.0,14.0,billones COP,DNP,SGR creado 2011
+Santos I 2010-2014,Juan Manuel Santos,2010,2014,Inversión extranjera sector,4500,9000,millones USD,MinComercio,
+Santos II 2014-2018,Juan Manuel Santos,2014,2018,Producción petróleo promedio,1030,880,kbpd,Ecopetrol/ANH,Caída precios 2014
+Santos II 2014-2018,Juan Manuel Santos,2014,2018,Reservas probadas petróleo,3700,3200,millones barriles,ANH,
+Santos II 2014-2018,Juan Manuel Santos,2014,2018,Producción gas natural,1150,1100,MPCD,ANH,
+Santos II 2014-2018,Juan Manuel Santos,2014,2018,Reservas gas natural,6000,5500,bcf,ANH,
+Santos II 2014-2018,Juan Manuel Santos,2014,2018,Producción carbón,88,85,millones toneladas,UPME/ANM,Estancamiento
+Santos II 2014-2018,Juan Manuel Santos,2014,2018,Capacidad instalada eléctrica,15000,16500,MW,XM/UPME,
+Santos II 2014-2018,Juan Manuel Santos,2014,2018,Regalías minero-energéticas,14.0,8.0,billones COP,DNP,Caída precios
+Santos II 2014-2018,Juan Manuel Santos,2014,2018,Inversión extranjera sector,9000,4000,millones USD,MinComercio,
+Duque 2018-2022,Iván Duque,2018,2022,Producción petróleo promedio,880,780,kbpd,Ecopetrol/ANH,Declinación
+Duque 2018-2022,Iván Duque,2018,2022,Reservas probadas petróleo,3200,2400,millones barriles,ANH,Crisis reservas
+Duque 2018-2022,Iván Duque,2018,2022,Producción gas natural,1100,1050,MPCD,ANH,
+Duque 2018-2022,Iván Duque,2018,2022,Reservas gas natural,5500,4000,bcf,ANH,Crisis gas
+Duque 2018-2022,Iván Duque,2018,2022,Producción carbón,85,60,millones toneladas,UPME/ANM,Caída demanda
+Duque 2018-2022,Iván Duque,2018,2022,Capacidad instalada eléctrica,16500,19000,MW,XM/UPME,Renovables ingresan
+Duque 2018-2022,Iván Duque,2018,2022,Regalías minero-energéticas,8.0,12.0,billones COP,DNP,Recuperación parcial
+Duque 2018-2022,Iván Duque,2018,2022,Inversión extranjera sector,4000,3500,millones USD,MinComercio,
+Duque 2018-2022,Iván Duque,2018,2022,Exportaciones oro legal,25,35,toneladas,Banco República,
+Petro 2022-2026,Gustavo Petro,2022,2026,Producción petróleo promedio,780,750,kbpd,Ecopetrol/ANH,Proyección
+Petro 2022-2026,Gustavo Petro,2022,2026,Reservas probadas petróleo,2400,2100,millones barriles,ANH,Proyección
+Petro 2022-2026,Gustavo Petro,2022,2026,Producción gas natural,1050,1200,MPCD,ANH,Proyección con importaciones
+Petro 2022-2026,Gustavo Petro,2022,2026,Reservas gas natural,4000,3500,bcf,ANH,Proyección
+Petro 2022-2026,Gustavo Petro,2022,2026,Producción carbón,60,50,millones toneladas,UPME/ANM,Política transición
+Petro 2022-2026,Gustavo Petro,2022,2026,Capacidad instalada eléctrica,19000,22000,MW,XM/UPME,Proyección renovables
+Petro 2022-2026,Gustavo Petro,2022,2026,Regalías minero-energéticas,12.0,10.0,billones COP,DNP,Proyección
+Petro 2022-2026,Gustavo Petro,2022,2026,Inversión extranjera sector,3500,3000,millones USD,MinComercio,Proyección
+Petro 2022-2026,Gustavo Petro,2022,2026,Exportaciones oro legal,35,40,toneladas,Banco República,Proyección

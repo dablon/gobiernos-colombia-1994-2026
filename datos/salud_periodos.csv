@@ -1,0 +1,71 @@
+gobierno,presidente,inicio,fin,indicador,valor_inicio,valor_fin,unidad,fuente,nota
+Samper 1994-1998,Ernesto Samper,1994,1998,Cobertura régimen contributivo,25,32,%,MinSalud,Ley 100/1993 implementación inicial
+Samper 1994-1998,Ernesto Samper,1994,1998,Cobertura régimen subsidiado,5,18,%,MinSalud,SISBEN en implementación
+Samper 1994-1998,Ernesto Samper,1994,1998,Cobertura total salud,30,50,%,MinSalud,Sistema nuevo post-Ley 100
+Samper 1994-1998,Ernesto Samper,1994,1998,Mortalidad infantil,28,24,por mil nacidos vivos,DANE,
+Samper 1994-1998,Ernesto Samper,1994,1998,Mortalidad materna,95,85,por 100k nacidos vivos,DANE/MinSalud,
+Samper 1994-1998,Ernesto Samper,1994,1998,Esperanza de vida al nacer,70.5,72.0,años,DANE,
+Samper 1994-1998,Ernesto Samper,1994,1998,Inversión salud % PIB,4.8,5.2,%,Banco Mundial,
+Samper 1994-1998,Ernesto Samper,1994,1998,Gasto de bolsillo % gasto salud,25,22,%,OMS/MinSalud,
+Pastrana 1998-2002,Andrés Pastrana,1998,2002,Cobertura régimen contributivo,32,38,%,MinSalud,
+Pastrana 1998-2002,Andrés Pastrana,1998,2002,Cobertura régimen subsidiado,18,28,%,MinSalud,Expansión SISBEN
+Pastrana 1998-2002,Andrés Pastrana,1998,2002,Cobertura total salud,50,66,%,MinSalud,
+Pastrana 1998-2002,Andrés Pastrana,1998,2002,Mortalidad infantil,24,20,por mil nacidos vivos,DANE,
+Pastrana 1998-2002,Andrés Pastrana,1998,2002,Mortalidad materna,85,75,por 100k nacidos vivos,DANE/MinSalud,
+Pastrana 1998-2002,Andrés Pastrana,1998,2002,Esperanza de vida al nacer,72.0,73.5,años,DANE,
+Pastrana 1998-2002,Andrés Pastrana,1998,2002,Inversión salud % PIB,5.2,5.5,%,Banco Mundial,
+Pastrana 1998-2002,Andrés Pastrana,1998,2002,Gasto de bolsillo % gasto salud,22,20,%,OMS/MinSalud,
+Uribe I 2002-2006,Álvaro Uribe,2002,2006,Cobertura régimen contributivo,38,42,%,MinSalud,
+Uribe I 2002-2006,Álvaro Uribe,2002,2006,Cobertura régimen subsidiado,28,38,%,MinSalud,
+Uribe I 2002-2006,Álvaro Uribe,2002,2006,Cobertura total salud,66,80,%,MinSalud,Meta 80% alcanzada
+Uribe I 2002-2006,Álvaro Uribe,2002,2006,Mortalidad infantil,20,17,por mil nacidos vivos,DANE,
+Uribe I 2002-2006,Álvaro Uribe,2002,2006,Mortalidad materna,75,65,por 100k nacidos vivos,DANE/MinSalud,
+Uribe I 2002-2006,Álvaro Uribe,2002,2006,Esperanza de vida al nacer,73.5,74.5,años,DANE,
+Uribe I 2002-2006,Álvaro Uribe,2002,2006,Inversión salud % PIB,5.5,6.0,%,Banco Mundial,
+Uribe I 2002-2006,Álvaro Uribe,2002,2006,Gasto de bolsillo % gasto salud,20,18,%,OMS/MinSalud,
+Uribe II 2006-2010,Álvaro Uribe,2006,2010,Cobertura régimen contributivo,42,45,%,MinSalud,
+Uribe II 2006-2010,Álvaro Uribe,2006,2010,Cobertura régimen subsidiado,38,45,%,MinSalud,
+Uribe II 2006-2010,Álvaro Uribe,2006,2010,Cobertura total salud,80,90,%,MinSalud,Universalización avanzada
+Uribe II 2006-2010,Álvaro Uribe,2006,2010,Mortalidad infantil,17,14,por mil nacidos vivos,DANE,
+Uribe II 2006-2010,Álvaro Uribe,2006,2010,Mortalidad materna,65,58,por 100k nacidos vivos,DANE/MinSalud,
+Uribe II 2006-2010,Álvaro Uribe,2006,2010,Esperanza de vida al nacer,74.5,75.5,años,DANE,
+Uribe II 2006-2010,Álvaro Uribe,2006,2010,Inversión salud % PIB,6.0,6.5,%,Banco Mundial,
+Uribe II 2006-2010,Álvaro Uribe,2006,2010,Gasto de bolsillo % gasto salud,18,15,%,OMS/MinSalud,
+Santos I 2010-2014,Juan Manuel Santos,2010,2014,Cobertura régimen contributivo,45,48,%,MinSalud,
+Santos I 2010-2014,Juan Manuel Santos,2010,2014,Cobertura régimen subsidiado,45,48,%,MinSalud,
+Santos I 2010-2014,Juan Manuel Santos,2010,2014,Cobertura total salud,90,96,%,MinSalud,Cobertura casi universal
+Santos I 2010-2014,Juan Manuel Santos,2010,2014,Mortalidad infantil,14,12,por mil nacidos vivos,DANE,
+Santos I 2010-2014,Juan Manuel Santos,2010,2014,Mortalidad materna,58,52,por 100k nacidos vivos,DANE/MinSalud,
+Santos I 2010-2014,Juan Manuel Santos,2010,2014,Esperanza de vida al nacer,75.5,76.5,años,DANE,
+Santos I 2010-2014,Juan Manuel Santos,2010,2014,Inversión salud % PIB,6.5,7.0,%,Banco Mundial,
+Santos I 2010-2014,Juan Manuel Santos,2010,2014,Gasto de bolsillo % gasto salud,15,13,%,OMS/MinSalud,
+Santos II 2014-2018,Juan Manuel Santos,2014,2018,Cobertura régimen contributivo,48,50,%,MinSalud,
+Santos II 2014-2018,Juan Manuel Santos,2014,2018,Cobertura régimen subsidiado,48,47,%,MinSalud,Estancamiento
+Santos II 2014-2018,Juan Manuel Santos,2014,2018,Cobertura total salud,96,97,%,MinSalud,Techo técnico
+Santos II 2014-2018,Juan Manuel Santos,2014,2018,Mortalidad infantil,12,11,por mil nacidos vivos,DANE,
+Santos II 2014-2018,Juan Manuel Santos,2014,2018,Mortalidad materna,52,48,por 100k nacidos vivos,DANE/MinSalud,
+Santos II 2014-2018,Juan Manuel Santos,2014,2018,Esperanza de vida al nacer,76.5,77.0,años,DANE,
+Santos II 2014-2018,Juan Manuel Santos,2014,2018,Inversión salud % PIB,7.0,7.5,%,Banco Mundial,
+Santos II 2014-2018,Juan Manuel Santos,2014,2018,Gasto de bolsillo % gasto salud,13,12,%,OMS/MinSalud,
+Santos II 2014-2018,Juan Manuel Santos,2014,2018,EPS intervenidas,2,5,número,MinSalud,Crisis iniciando
+Santos II 2014-2018,Juan Manuel Santos,2014,2018,Tutelas salud anuales,350000,500000,número,Corte Constitucional,
+Duque 2018-2022,Iván Duque,2018,2022,Cobertura régimen contributivo,50,48,%,MinSalud/ADRES,Retroceso por informalidad
+Duque 2018-2022,Iván Duque,2018,2022,Cobertura régimen subsidiado,47,50,%,MinSalud/ADRES,
+Duque 2018-2022,Iván Duque,2018,2022,Cobertura total salud,97,98,%,MinSalud/ADRES,
+Duque 2018-2022,Iván Duque,2018,2022,Mortalidad infantil,11,10,por mil nacidos vivos,DANE,
+Duque 2018-2022,Iván Duque,2018,2022,Mortalidad materna,48,55,por 100k nacidos vivos,DANE/MinSalud,Aumento por pandemia
+Duque 2018-2022,Iván Duque,2018,2022,Esperanza de vida al nacer,77.0,76.5,años,DANE,Retroceso pandemia
+Duque 2018-2022,Iván Duque,2018,2022,Inversión salud % PIB,7.5,8.5,%,Banco Mundial,Aumento por COVID-19
+Duque 2018-2022,Iván Duque,2018,2022,Gasto de bolsillo % gasto salud,12,15,%,OMS/MinSalud,Aumento pandemia
+Duque 2018-2022,Iván Duque,2018,2022,EPS intervenidas,5,12,número,MinSalud,Crisis Sanitas/Nueva EPS/Sura
+Duque 2018-2022,Iván Duque,2018,2022,Tutelas salud anuales,500000,800000,número,Corte Constitucional,Crisis sistémica
+Petro 2022-2026,Gustavo Petro,2022,2026,Cobertura régimen contributivo,48,45,%,MinSalud/ADRES,Proyección reforma
+Petro 2022-2026,Gustavo Petro,2022,2026,Cobertura régimen subsidiado,50,53,%,MinSalud/ADRES,Proyección
+Petro 2022-2026,Gustavo Petro,2022,2026,Cobertura total salud,98,98,%,MinSalud/ADRES,Estabilizada
+Petro 2022-2026,Gustavo Petro,2022,2026,Mortalidad infantil,10,9,por mil nacidos vivos,DANE,Proyección
+Petro 2022-2026,Gustavo Petro,2022,2026,Mortalidad materna,55,45,por 100k nacidos vivos,DANE/MinSalud,Meta reforma
+Petro 2022-2026,Gustavo Petro,2022,2026,Esperanza de vida al nacer,76.5,77.5,años,DANE,Proyección recuperación
+Petro 2022-2026,Gustavo Petro,2022,2026,Inversión salud % PIB,8.5,9.0,%,Banco Mundial,Proyección reforma
+Petro 2022-2026,Gustavo Petro,2022,2026,Gasto de bolsillo % gasto salud,15,12,%,OMS/MinSalud,Meta reforma
+Petro 2022-2026,Gustavo Petro,2022,2026,EPS intervenidas,12,8,número,MinSalud,Proyección intervención estatal
+Petro 2022-2026,Gustavo Petro,2022,2026,Tutelas salud anuales,800000,600000,número,Corte Constitucional,Proyección mejora

@@ -1,0 +1,78 @@
+gobierno,presidente,inicio,fin,indicador,valor_inicio,valor_fin,unidad,fuente,nota
+Samper 1994-1998,Ernesto Samper,1994,1998,Cobertura neta primaria,85,88,%,MEN Anuario Estadístico,Dato aproximado serie histórica
+Samper 1994-1998,Ernesto Samper,1994,1998,Cobertura neta secundaria,45,52,%,MEN Anuario Estadístico,Dato aproximado serie histórica
+Samper 1994-1998,Ernesto Samper,1994,1998,Tasa analfabetismo,12.5,10.8,%,DANE,Mayores de 15 años
+Samper 1994-1998,Ernesto Samper,1994,1998,Cobertura educación superior,18,22,%,MEN,Mayores de 17 años
+Samper 1994-1998,Ernesto Samper,1994,1998,Inversión educación % PIB,4.2,4.5,%,Banco Mundial,Gasto público en educación
+Samper 1994-1998,Ernesto Samper,1994,1998,Inversión educación % gasto público,14,15,%,DNP,Sistema de Cuentas Nacionales
+Samper 1994-1998,Ernesto Samper,1994,1998,Deserción intra-anual,9.5,8.2,%,MEN,Sector oficial
+Pastrana 1998-2002,Andrés Pastrana,1998,2002,Cobertura neta primaria,88,91,%,MEN Anuario Estadístico,
+Pastrana 1998-2002,Andrés Pastrana,1998,2002,Cobertura neta secundaria,52,58,%,MEN Anuario Estadístico,
+Pastrana 1998-2002,Andrés Pastrana,1998,2002,Tasa analfabetismo,10.8,9.5,%,DANE,Mayores de 15 años
+Pastrana 1998-2002,Andrés Pastrana,1998,2002,Cobertura educación superior,22,26,%,MEN,Mayores de 17 años
+Pastrana 1998-2002,Andrés Pastrana,1998,2002,Inversión educación % PIB,4.5,4.8,%,Banco Mundial,
+Pastrana 1998-2002,Andrés Pastrana,1998,2002,Inversión educación % gasto público,15,16,%,DNP,
+Pastrana 1998-2002,Andrés Pastrana,1998,2002,Deserción intra-anual,8.2,7.5,%,MEN,
+Uribe I 2002-2006,Álvaro Uribe,2002,2006,Cobertura neta primaria,91,94,%,MEN Anuario Estadístico,
+Uribe I 2002-2006,Álvaro Uribe,2002,2006,Cobertura neta secundaria,58,65,%,MEN Anuario Estadístico,
+Uribe I 2002-2006,Álvaro Uribe,2002,2006,Tasa analfabetismo,9.5,8.2,%,DANE,
+Uribe I 2002-2006,Álvaro Uribe,2002,2006,Cobertura educación superior,26,32,%,MEN,Mayores de 17 años
+Uribe I 2002-2006,Álvaro Uribe,2002,2006,Inversión educación % PIB,4.8,5.2,%,Banco Mundial,
+Uribe I 2002-2006,Álvaro Uribe,2002,2006,Inversión educación % gasto público,16,17,%,DNP,
+Uribe I 2002-2006,Álvaro Uribe,2002,2006,Deserción intra-anual,7.5,6.0,%,MEN,
+Uribe I 2002-2006,Álvaro Uribe,2002,2006,Pruebas Saber 11 puntaje promedio,245,252,puntos,ICFES,Escala 0-500 promedio áreas
+Uribe I 2002-2006,Álvaro Uribe,2002,2006,Pruebas PISA matemáticas,N/A,370,puntos,OCDE,Primera participación 2006
+Uribe I 2002-2006,Álvaro Uribe,2002,2006,Pruebas PISA lectura,N/A,385,puntos,OCDE,Primera participación 2006
+Uribe I 2002-2006,Álvaro Uribe,2002,2006,Pruebas PISA ciencias,N/A,388,puntos,OCDE,Primera participación 2006
+Uribe II 2006-2010,Álvaro Uribe,2006,2010,Cobertura neta primaria,94,95,%,MEN Anuario Estadístico,
+Uribe II 2006-2010,Álvaro Uribe,2006,2010,Cobertura neta secundaria,65,72,%,MEN Anuario Estadístico,
+Uribe II 2006-2010,Álvaro Uribe,2006,2010,Tasa analfabetismo,8.2,7.0,%,DANE,
+Uribe II 2006-2010,Álvaro Uribe,2006,2010,Cobertura educación superior,32,38,%,MEN,Mayores de 17 años
+Uribe II 2006-2010,Álvaro Uribe,2006,2010,Inversión educación % PIB,5.2,5.6,%,Banco Mundial,
+Uribe II 2006-2010,Álvaro Uribe,2006,2010,Inversión educación % gasto público,17,18,%,DNP,
+Uribe II 2006-2010,Álvaro Uribe,2006,2010,Deserción intra-anual,6.0,5.2,%,MEN,
+Uribe II 2006-2010,Álvaro Uribe,2006,2010,Pruebas Saber 11 puntaje promedio,252,258,puntos,ICFES,
+Uribe II 2006-2010,Álvaro Uribe,2006,2010,Pruebas PISA matemáticas,370,381,puntos,OCDE,2006-2009
+Uribe II 2006-2010,Álvaro Uribe,2006,2010,Pruebas PISA lectura,385,385,puntos,OCDE,2006-2009
+Uribe II 2006-2010,Álvaro Uribe,2006,2010,Pruebas PISA ciencias,388,402,puntos,OCDE,2006-2009
+Santos I 2010-2014,Juan Manuel Santos,2010,2014,Cobertura neta primaria,95,96,%,MEN Anuario Estadístico,
+Santos I 2010-2014,Juan Manuel Santos,2010,2014,Cobertura neta secundaria,72,78,%,MEN Anuario Estadístico,
+Santos I 2010-2014,Juan Manuel Santos,2010,2014,Tasa analfabetismo,7.0,6.2,%,DANE,
+Santos I 2010-2014,Juan Manuel Santos,2010,2014,Cobertura educación superior,38,44,%,MEN,Mayores de 17 años
+Santos I 2010-2014,Juan Manuel Santos,2010,2014,Inversión educación % PIB,5.6,6.0,%,Banco Mundial,
+Santos I 2010-2014,Juan Manuel Santos,2010,2014,Inversión educación % gasto público,18,19,%,DNP,
+Santos I 2010-2014,Juan Manuel Santos,2010,2014,Deserción intra-anual,5.2,4.5,%,MEN,
+Santos I 2010-2014,Juan Manuel Santos,2010,2014,Pruebas Saber 11 puntaje promedio,258,262,puntos,ICFES,
+Santos I 2010-2014,Juan Manuel Santos,2010,2014,Pruebas PISA matemáticas,381,376,puntos,OCDE,2009-2012
+Santos I 2010-2014,Juan Manuel Santos,2010,2014,Pruebas PISA lectura,385,399,puntos,OCDE,2009-2012
+Santos I 2010-2014,Juan Manuel Santos,2010,2014,Pruebas PISA ciencias,402,405,puntos,OCDE,2009-2012
+Santos II 2014-2018,Juan Manuel Santos,2014,2018,Cobertura neta primaria,96,97,%,MEN Anuario Estadístico,
+Santos II 2014-2018,Juan Manuel Santos,2014,2018,Cobertura neta secundaria,78,82,%,MEN Anuario Estadístico,
+Santos II 2014-2018,Juan Manuel Santos,2014,2018,Tasa analfabetismo,6.2,5.5,%,DANE,
+Santos II 2014-2018,Juan Manuel Santos,2014,2018,Cobertura educación superior,44,49,%,MEN,Mayores de 17 años
+Santos II 2014-2018,Juan Manuel Santos,2014,2018,Inversión educación % PIB,6.0,6.3,%,Banco Mundial,
+Santos II 2014-2018,Juan Manuel Santos,2014,2018,Inversión educación % gasto público,19,20,%,DNP,
+Santos II 2014-2018,Juan Manuel Santos,2014,2018,Deserción intra-anual,4.5,4.0,%,MEN,
+Santos II 2014-2018,Juan Manuel Santos,2014,2018,Pruebas Saber 11 puntaje promedio,262,265,puntos,ICFES,
+Santos II 2014-2018,Juan Manuel Santos,2014,2018,Pruebas PISA matemáticas,376,377,puntos,OCDE,2012-2015-2018
+Santos II 2014-2018,Juan Manuel Santos,2014,2018,Pruebas PISA lectura,399,408,puntos,OCDE,2012-2015-2018
+Santos II 2014-2018,Juan Manuel Santos,2014,2018,Pruebas PISA ciencias,405,411,puntos,OCDE,2012-2015-2018
+Duque 2018-2022,Iván Duque,2018,2022,Cobertura neta primaria,97,97,%,MEN Anuario Estadístico,Estancamiento
+Duque 2018-2022,Iván Duque,2018,2022,Cobertura neta secundaria,82,80,%,MEN Anuario Estadístico,Retroceso por pandemia
+Duque 2018-2022,Iván Duque,2018,2022,Tasa analfabetismo,5.5,5.2,%,DANE,
+Duque 2018-2022,Iván Duque,2018,2022,Cobertura educación superior,49,51,%,MEN,Mayores de 17 años
+Duque 2018-2022,Iván Duque,2018,2022,Inversión educación % PIB,6.3,6.5,%,Banco Mundial,
+Duque 2018-2022,Iván Duque,2018,2022,Inversión educación % gasto público,20,21,%,DNP,
+Duque 2018-2022,Iván Duque,2018,2022,Deserción intra-anual,4.0,5.5,%,MEN,Aumento por pandemia 2020-2021
+Duque 2018-2022,Iván Duque,2018,2022,Pruebas Saber 11 puntaje promedio,265,260,puntos,ICFES,Impacto pandemia
+Duque 2018-2022,Iván Duque,2018,2022,Pruebas PISA matemáticas,377,391,puntos,OCDE,2018-2022
+Duque 2018-2022,Iván Duque,2018,2022,Pruebas PISA lectura,408,413,puntos,OCDE,2018-2022
+Duque 2018-2022,Iván Duque,2018,2022,Pruebas PISA ciencias,411,413,puntos,OCDE,2018-2022
+Petro 2022-2026,Gustavo Petro,2022,2026,Cobertura neta primaria,97,97.5,%,MEN Anuario Estadístico,Proyección
+Petro 2022-2026,Gustavo Petro,2022,2026,Cobertura neta secundaria,80,83,%,MEN Anuario Estadístico,Proyección
+Petro 2022-2026,Gustavo Petro,2022,2026,Tasa analfabetismo,5.2,4.8,%,DANE,Proyección
+Petro 2022-2026,Gustavo Petro,2022,2026,Cobertura educación superior,51,55,%,MEN,Proyección
+Petro 2022-2026,Gustavo Petro,2022,2026,Inversión educación % PIB,6.5,7.0,%,Banco Mundial,Proyección
+Petro 2022-2026,Gustavo Petro,2022,2026,Inversión educación % gasto público,21,22,%,DNP,Proyección
+Petro 2022-2026,Gustavo Petro,2022,2026,Deserción intra-anual,5.5,4.5,%,MEN,Recuperación post-pandemia
+Petro 2022-2026,Gustavo Petro,2022,2026,Pruebas Saber 11 puntaje promedio,260,265,puntos,ICFES,Proyección
