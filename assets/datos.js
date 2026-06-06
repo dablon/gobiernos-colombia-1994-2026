@@ -2,14 +2,14 @@
 window.DATA = {
   macro: {
     periodos: [
-      {pre:"Samper",        i:1994, f:1998, pibIni:5.4, pibFin:0.6, pibpcIni:2326, pibpcFin:2605, infIni:22.9, infFin:18.7, desIni:8.3, desFin:15.0, gini:56.3, deuIni:11.4, deuFin:22.0, trm:1426},
-      {pre:"Pastrana",      i:1998, f:2002, pibIni:3.4, pibFin:2.5, pibpcIni:2605, pibpcFin:2429, infIni:18.7, infFin:6.4, desIni:15.0, desFin:14.5, gini:56.0, deuIni:22.0, deuFin:39.4, trm:2505},
-      {pre:"Uribe I",       i:2002, f:2006, pibIni:2.5, pibFin:6.7, pibpcIni:2429, pibpcFin:3790, infIni:6.4, infFin:4.3, desIni:14.5, desFin:11.1, gini:53.9, deuIni:39.4, deuFin:31.8, trm:2359},
-      {pre:"Uribe II",      i:2006, f:2010, pibIni:6.7, pibFin:4.5, pibpcIni:3790, pibpcFin:6398, infIni:4.3, infFin:2.3, desIni:11.1, desFin:11.2, gini:54.4, deuIni:31.8, deuFin:27.7, trm:1899},
-      {pre:"Santos I",      i:2010, f:2014, pibIni:4.5, pibFin:7.0, pibpcIni:6398, pibpcFin:7401, infIni:2.3, infFin:3.4, desIni:11.2, desFin:10.3, gini:53.3, deuIni:27.7, deuFin:26.7, trm:1848},
-      {pre:"Santos II",     i:2014, f:2018, pibIni:4.5, pibFin:3.2, pibpcIni:8187, pibpcFin:6473, infIni:2.9, infFin:3.2, desIni:8.8, desFin:10.3, gini:51.6, deuIni:30.7, deuFin:40.7, trm:2956},
-      {pre:"Duque",         i:2018, f:2022, pibIni:3.2, pibFin:7.3, pibpcIni:6817, pibpcFin:6680, infIni:3.2, infFin:10.2, desIni:9.4, desFin:10.5, gini:54.8, deuIni:40.7, deuFin:54.9, trm:4256},
-      {pre:"Petro (parc.)", i:2022, f:2026, pibIni:7.3, pibFin:2.6, pibpcIni:6680, pibpcFin:null, infIni:10.2, infFin:5.1, desIni:10.5, desFin:8.3, gini:54.4, deuIni:54.9, deuFin:58.5, trm:4053}
+      {pre:"Samper",        i:1994, f:1998, pibIni:5.39, pibFin:0.57, pibpcIni:2325.92, pibpcFin:2604.87, infIni:22.85, infFin:18.68, desIni:8.25, desFin:15.00, gini:56.3, deuIni:11.4, deuFin:22.0, trm:1426.42},
+      {pre:"Pastrana",      i:1998, f:2002, pibIni:3.43, pibFin:2.50, pibpcIni:2604.87, pibpcFin:2428.93, infIni:18.68, infFin:6.35, desIni:15.00, desFin:14.48, gini:56.0, deuIni:22.0, deuFin:39.4, trm:2504.68},
+      {pre:"Uribe I",       i:2002, f:2006, pibIni:1.68, pibFin:6.72, pibpcIni:2428.93, pibpcFin:3789.85, infIni:6.35, infFin:4.29, desIni:14.48, desFin:11.09, gini:53.5, deuIni:39.4, deuFin:31.8, trm:2358.59},
+      {pre:"Uribe II",      i:2006, f:2010, pibIni:4.83, pibFin:4.49, pibpcIni:3789.85, pibpcFin:6398.30, infIni:4.29, infFin:2.27, desIni:11.09, desFin:11.15, gini:54.4, deuIni:31.8, deuFin:27.7, trm:1899.00},
+      {pre:"Santos I",      i:2010, f:2014, pibIni:1.14, pibFin:4.50, pibpcIni:6398.30, pibpcFin:8187.21, infIni:2.27, infFin:2.90, desIni:11.15, desFin:8.80, gini:53.6, deuIni:27.7, deuFin:30.7, trm:2001.11},
+      {pre:"Santos II",     i:2014, f:2018, pibIni:5.13, pibFin:2.56, pibpcIni:8187.21, pibpcFin:6816.97, infIni:2.90, infFin:3.24, desIni:8.80, desFin:9.36, gini:51.6, deuIni:30.7, deuFin:40.7, trm:2955.70},
+      {pre:"Duque",         i:2018, f:2022, pibIni:1.36, pibFin:7.33, pibpcIni:6816.97, pibpcFin:6680.45, infIni:3.24, infFin:10.18, desIni:9.36, desFin:10.54, gini:54.8, deuIni:40.7, deuFin:54.9, trm:4256.19},
+      {pre:"Petro (parc.)", i:2022, f:2026, pibIni:10.80, pibFin:2.60, pibpcIni:6680.45, pibpcFin:null, infIni:10.18, infFin:5.10, desIni:10.54, desFin:8.29, gini:54.4, deuIni:54.9, deuFin:58.5, trm:4052.86}
     ],
     smmlvRealAcum: [
       {pre:"Samper",     val:-18.1},
