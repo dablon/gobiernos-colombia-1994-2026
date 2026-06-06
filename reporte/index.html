@@ -57,6 +57,18 @@
   ul.tight { margin:6px 0; padding-left:20px; }
   ul.tight li { margin-bottom:3px; font-size:0.92em; }
   .alert-pendiente { background:#ffe8e8; border-left:4px solid var(--red); padding:12px 18px; margin:12px 0; border-radius:4px; font-size:0.92em; }
+  .tabla-maestra { font-size:0.86em; }
+  .tabla-maestra th { background:linear-gradient(135deg,var(--blue) 0%,var(--blue-lt) 100%); font-size:0.82em; padding:8px 6px; text-align:center; }
+  .tabla-maestra th.gov { text-align:left; min-width:140px; }
+  .tabla-maestra td { padding:6px 8px; vertical-align:middle; }
+  .tabla-maestra td.gov { font-weight:500; color:var(--blue); }
+  .tabla-maestra td.gov small { display:block; font-weight:400; color:var(--gray-lt); font-size:0.85em; }
+  .tabla-maestra tr.highlight { background:#fff8e1; }
+  .tabla-maestra .arrow { color:var(--gray-lt); margin:0 2px; }
+  .tabla-maestra .chip { display:inline-block; padding:1px 6px; border-radius:8px; font-size:0.78em; font-weight:500; }
+  .chip-pos { background:#e7f0db; color:#548235; }
+  .chip-neg { background:#fbe5e5; color:#c00000; }
+  .chip-neu { background:#e8eaed; color:#595959; }
 </style>
 </head>
 <body>
@@ -88,6 +100,7 @@
   <strong>Contenido</strong>
   <ol>
     <li><a href="#kpis">Indicadores clave (1994 vs 2025)</a></li>
+    <li><a href="#maestra">📋 Tabla maestra — Todos los indicadores por gobierno</a></li>
     <li><a href="#macro">Macroeconomía 1994-2026</a></li>
     <li><a href="#empresarial">Dinámica empresarial 2011-2024</a></li>
     <li><a href="#gobernabilidad">Gobernabilidad democrática 1994-2026</a></li>
@@ -115,6 +128,194 @@
 
 <div class="hallazgo">
   <strong>Hallazgo de fondo:</strong> En 32 años Colombia cuadruplicó el PIB per cápita (~$1.929 → ~$7.919 USD) y bajó la inflación de 22,9% a 5,1%. Pero la deuda/PIB pasó de 11,4% a 58,5%, el salario mínimo real solo creció ~2,7% anual real en promedio, y la tasa de homicidio pasó de 70,4/100k (2002) a 23,8/100k (2018) — la mayor transformación de seguridad de la historia reciente.
+</div>
+
+<h2 id="maestra">📋 Tabla maestra — Indicadores principales por gobierno (1994-2026)</h2>
+
+<div class="card" style="overflow-x:auto;">
+<p style="font-size:0.9em; color:var(--gray); margin-top:0;">Vista consolidada de <strong>20 indicadores</strong> cubriendo macroeconomía, seguridad, dinámica empresarial y gobernabilidad. Cada celda muestra el valor al cierre del gobierno. Click en cualquier columna para ver los gráficos detallados más abajo. <span class="chip chip-pos">Verde</span>=mejora, <span class="chip chip-neg">Rojo</span>=empeoramiento, <span class="chip chip-neu">Gris</span>=neutro.</p>
+<table class="tabla-maestra">
+<thead>
+<tr>
+<th class="gov">Gobierno</th>
+<th class="num">PIB<br>(crec.)</th>
+<th class="num">PIBpc<br>USD</th>
+<th class="num">Inflación</th>
+<th class="num">Desempleo</th>
+<th class="num">Gini</th>
+<th class="num">Deuda<br>/PIB</th>
+<th class="num">TRM<br>cierre</th>
+<th class="num">SMMLV<br>real acum</th>
+<th class="num">Homicidios<br>/100k</th>
+<th class="num">Coca<br>(ha)</th>
+<th class="num">Secuestros</th>
+<th class="num">Empresas<br>nuevas/año</th>
+<th class="num">Aprob.<br>prom.</th>
+<th class="num">Mociones</th>
+<th class="num">EE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="gov">Ernesto Samper<small>1994-1998</small></td>
+<td class="num">0,6%</td>
+<td class="num">$2.605</td>
+<td class="num neg">18,7%</td>
+<td class="num neg">15,0%</td>
+<td class="num neg">56,3</td>
+<td class="num">22,0%</td>
+<td class="num">$1.426</td>
+<td class="num neg">-18,1%</td>
+<td class="num neg">61,1</td>
+<td class="num">s/d</td>
+<td class="num neg">alto</td>
+<td class="num">s/d</td>
+<td class="num neg">~35%</td>
+<td class="num">4</td>
+<td class="num">1</td>
+</tr>
+<tr>
+<td class="gov">Andrés Pastrana<small>1998-2002</small></td>
+<td class="num neg">2,5%</td>
+<td class="num neg">$2.429</td>
+<td class="num pos">6,4%</td>
+<td class="num neg">14,5%</td>
+<td class="num neg">56,0</td>
+<td class="num neg">39,4%</td>
+<td class="num">$2.505</td>
+<td class="num neg">-8,1%</td>
+<td class="num neg">70,4</td>
+<td class="num pos">102k</td>
+<td class="num neg">alto</td>
+<td class="num">s/d</td>
+<td class="num neg">~32%</td>
+<td class="num">3</td>
+<td class="num">2</td>
+</tr>
+<tr>
+<td class="gov">Álvaro Uribe I<small>2002-2006</small></td>
+<td class="num pos">6,7%</td>
+<td class="num pos">$3.790</td>
+<td class="num pos">4,3%</td>
+<td class="num">11,1%</td>
+<td class="num">53,9</td>
+<td class="num pos">31,8%</td>
+<td class="num">$2.359</td>
+<td class="num neg">-0,1%</td>
+<td class="num pos">38,5</td>
+<td class="num pos">78k</td>
+<td class="num pos">687</td>
+<td class="num">s/d</td>
+<td class="num pos">~74%</td>
+<td class="num">2</td>
+<td class="num">0</td>
+</tr>
+<tr>
+<td class="gov">Álvaro Uribe II<small>2006-2010</small></td>
+<td class="num">4,5%</td>
+<td class="num pos">$6.398</td>
+<td class="num pos">2,3%</td>
+<td class="num">11,2%</td>
+<td class="num">54,4</td>
+<td class="num pos">27,7%</td>
+<td class="num pos">$1.899</td>
+<td class="num pos">+0,6%</td>
+<td class="num pos">34,5</td>
+<td class="num pos">62k</td>
+<td class="num pos">213</td>
+<td class="num">s/d</td>
+<td class="num pos">~62%</td>
+<td class="num">4</td>
+<td class="num">0</td>
+</tr>
+<tr>
+<td class="gov">Juan M. Santos I<small>2010-2014</small></td>
+<td class="num pos">7,0%</td>
+<td class="num pos">$7.401</td>
+<td class="num pos">3,4%</td>
+<td class="num pos">10,3%</td>
+<td class="num">53,3</td>
+<td class="num pos">26,7%</td>
+<td class="num pos">$1.848</td>
+<td class="num pos">+4,4%</td>
+<td class="num pos">27,8</td>
+<td class="num">69k</td>
+<td class="num pos">205</td>
+<td class="num pos">215k</td>
+<td class="num">~45%</td>
+<td class="num">5</td>
+<td class="num">1</td>
+</tr>
+<tr>
+<td class="gov">Juan M. Santos II<small>2014-2018</small></td>
+<td class="num">3,2%</td>
+<td class="num neg">$6.473</td>
+<td class="num pos">3,2%</td>
+<td class="num">10,3%</td>
+<td class="num pos">51,6</td>
+<td class="num neg">40,7%</td>
+<td class="num">$2.956</td>
+<td class="num pos">+1,4%</td>
+<td class="num pos">23,8</td>
+<td class="num neg">117k</td>
+<td class="num pos">172</td>
+<td class="num pos">233k</td>
+<td class="num neg">~32%</td>
+<td class="num">6</td>
+<td class="num">0</td>
+</tr>
+<tr>
+<td class="gov">Iván Duque<small>2018-2022</small></td>
+<td class="num">7,3%</td>
+<td class="num">$6.680</td>
+<td class="num neg">10,2%</td>
+<td class="num">10,5%</td>
+<td class="num neg">54,8</td>
+<td class="num neg">54,9%</td>
+<td class="num neg">$4.256</td>
+<td class="num pos">+2,4%</td>
+<td class="num neg">26,5</td>
+<td class="num neg">170k</td>
+<td class="num neg">264</td>
+<td class="num pos">299k</td>
+<td class="num neg">~31%</td>
+<td class="num neg">15+</td>
+<td class="num">2</td>
+</tr>
+<tr class="highlight">
+<td class="gov">Gustavo Petro<small>2022-2026 (parc.)</small></td>
+<td class="num neg">2,6%</td>
+<td class="num">$s/d 2025</td>
+<td class="num pos">5,1%</td>
+<td class="num pos">8,3%</td>
+<td class="num">54,4</td>
+<td class="num neg">58,5%</td>
+<td class="num">$4.053</td>
+<td class="num pos">+3,2%</td>
+<td class="num pos">24,9</td>
+<td class="num pos">130k</td>
+<td class="num neg">289</td>
+<td class="num neg">272k</td>
+<td class="num">~43%</td>
+<td class="num neg">20+</td>
+<td class="num">2</td>
+</tr>
+</tbody>
+</table>
+<p style="font-size:0.82em; color:var(--gray-lt); margin-bottom:0;">
+<strong>Leyenda de color por indicador:</strong> cada columna se evalúa contra el período anterior (verde = mejor, rojo = peor, gris = neutro o sin cambio). Los datos al <em>cierre</em> de cada gobierno. PIB = crecimiento % anual. PIBpc = PIB per cápita USD a precios corrientes. Gini = coeficiente (menor = más igualitario). Deuda = GNC neta / PIB. SMMLV real = variación acumulada del salario mínimo deflactado por IPC. Homicidios = tasa por 100.000 hab. Coca = hectáreas UNODC-SIMCI. Empresas = promedio anual. EE = estados de excepción declarados (conmoción interior + emergencia económica + otros). <strong>s/d</strong> = sin dato público comparable. <strong>Petro</strong> marcado en amarillo porque es período en curso (datos preliminares 2025). <strong>Fuente:</strong> DANE, Banrep, Banco Mundial, Minhacienda, Policía Nacional, Indepaz, UNODC, Confecámaras, Corte Constitucional, Registraduría, encuestadoras — ver <a href="#fuentes" style="color:var(--blue-lt);">§8 Fuentes y metodología</a>.
+</p>
+</div>
+
+<div class="hallazgo" style="margin-top:24px;">
+<strong>Lectura rápida de la tabla:</strong>
+<ol style="margin:6px 0; padding-left:20px;">
+<li><strong>Uribe I + Santos I</strong> = los dos gobiernos con balance más positivo en la tabla (crecimiento alto, inflación controlada, seguridad mejorando, aprobación alta).</li>
+<li><strong>Petro</strong> muestra buen comportamiento en inflación (de 10,2% a 5,1%) y desempleo (10,5% a 8,3%), pero PIB cayó a 2,6% y deuda sigue subiendo a 58,5%.</li>
+<li><strong>Santos II</strong> logró el <strong>mínimo histórico de homicidios (23,8/100k)</strong> y el <strong>Acuerdo de Paz con FARC</strong>, pero el precio del petróleo cayó y la deuda pasó de 26,7% a 40,7%.</li>
+<li><strong>Duque</strong> es el peor balance de la tabla: aprobación más baja sostenida (~31%), deuda más alta al cierre (54,9%), récord absoluto de coca (170k ha), pico histórico de líderes sociales asesinados.</li>
+<li><strong>Samper y Pastrana</strong> son los gobiernos más débiles macro: salario mínimo real cayó -18% y -8% respectivamente; Pastrana además tuvo el récord de homicidios (70,4/100k).</li>
+</ol>
 </div>
 
 <h2 id="macro">2. Macroeconomía 1994-2026</h2>
