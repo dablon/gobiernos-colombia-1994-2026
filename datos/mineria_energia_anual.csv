@@ -1,0 +1,96 @@
+gobierno,presidente,ano,indicador,valor,unidad,fuente,nota
+Samper 1994-1998,Ernesto Samper,1994,Producción petróleo,650,kbpd,Ecopetrol,
+Samper 1994-1998,Ernesto Samper,1996,Producción petróleo,685,kbpd,Ecopetrol,
+Samper 1994-1998,Ernesto Samper,1998,Producción petróleo,720,kbpd,Ecopetrol,
+Samper 1994-1998,Ernesto Samper,1994,Reservas probadas,2500,millones barriles,ANH,
+Samper 1994-1998,Ernesto Samper,1998,Reservas probadas,2800,millones barriles,ANH,
+Samper 1994-1998,Ernesto Samper,1994,Producción carbón,22,millones toneladas,UPME,
+Samper 1994-1998,Ernesto Samper,1998,Producción carbón,30,millones toneladas,UPME,
+Samper 1994-1998,Ernesto Samper,1994,Capacidad instalada,8500,MW,XM,
+Samper 1994-1998,Ernesto Samper,1998,Capacidad instalada,10000,MW,XM,
+Pastrana 1998-2002,Andrés Pastrana,1998,Producción petróleo,720,kbpd,Ecopetrol,
+Pastrana 1998-2002,Andrés Pastrana,2000,Producción petróleo,700,kbpd,Ecopetrol,
+Pastrana 1998-2002,Andrés Pastrana,2002,Producción petróleo,680,kbpd,Ecopetrol,
+Pastrana 1998-2002,Andrés Pastrana,1998,Reservas probadas,2800,millones barriles,ANH,
+Pastrana 1998-2002,Andrés Pastrana,2002,Reservas probadas,2600,millones barriles,ANH,
+Pastrana 1998-2002,Andrés Pastrana,1998,Producción carbón,30,millones toneladas,UPME,
+Pastrana 1998-2002,Andrés Pastrana,2002,Producción carbón,42,millones toneladas,UPME,
+Pastrana 1998-2002,Andrés Pastrana,1998,Capacidad instalada,10000,MW,XM,
+Pastrana 1998-2002,Andrés Pastrana,2002,Capacidad instalada,11500,MW,XM,
+Uribe I 2002-2006,Álvaro Uribe,2002,Producción petróleo,680,kbpd,Ecopetrol,
+Uribe I 2002-2006,Álvaro Uribe,2004,Producción petróleo,620,kbpd,Ecopetrol,Atentados oleoductos
+Uribe I 2002-2006,Álvaro Uribe,2006,Producción petróleo,570,kbpd,Ecopetrol,
+Uribe I 2002-2006,Álvaro Uribe,2002,Reservas probadas,2600,millones barriles,ANH,
+Uribe I 2002-2006,Álvaro Uribe,2006,Reservas probadas,2400,millones barriles,ANH,
+Uribe I 2002-2006,Álvaro Uribe,2002,Producción carbón,42,millones toneladas,UPME,
+Uribe I 2002-2006,Álvaro Uribe,2006,Producción carbón,58,millones toneladas,UPME,
+Uribe I 2002-2006,Álvaro Uribe,2002,Capacidad instalada,11500,MW,XM,
+Uribe I 2002-2006,Álvaro Uribe,2006,Capacidad instalada,12500,MW,XM,
+Uribe I 2002-2006,Álvaro Uribe,2002,Regalías,1.5,billones COP,DNP,
+Uribe I 2002-2006,Álvaro Uribe,2006,Regalías,2.5,billones COP,DNP,
+Uribe II 2006-2010,Álvaro Uribe,2006,Producción petróleo,570,kbpd,Ecopetrol,
+Uribe II 2006-2010,Álvaro Uribe,2008,Producción petróleo,700,kbpd,Ecopetrol,Recuperación
+Uribe II 2006-2010,Álvaro Uribe,2010,Producción petróleo,830,kbpd,Ecopetrol,
+Uribe II 2006-2010,Álvaro Uribe,2006,Reservas probadas,2400,millones barriles,ANH,
+Uribe II 2006-2010,Álvaro Uribe,2010,Reservas probadas,2900,millones barriles,ANH,
+Uribe II 2006-2010,Álvaro Uribe,2006,Producción carbón,58,millones toneladas,UPME,
+Uribe II 2006-2010,Álvaro Uribe,2010,Producción carbón,78,millones toneladas,UPME,
+Uribe II 2006-2010,Álvaro Uribe,2006,Capacidad instalada,12500,MW,XM,
+Uribe II 2006-2010,Álvaro Uribe,2010,Capacidad instalada,13500,MW,XM,
+Uribe II 2006-2010,Álvaro Uribe,2006,Regalías,2.5,billones COP,DNP,
+Uribe II 2006-2010,Álvaro Uribe,2010,Regalías,6.0,billones COP,DNP,
+Santos I 2010-2014,Juan Manuel Santos,2010,Producción petróleo,830,kbpd,Ecopetrol,
+Santos I 2010-2014,Juan Manuel Santos,2012,Producción petróleo,980,kbpd,Ecopetrol,
+Santos I 2010-2014,Juan Manuel Santos,2014,Producción petróleo,1030,kbpd,Ecopetrol,Pico histórico
+Santos I 2010-2014,Juan Manuel Santos,2010,Reservas probadas,2900,millones barriles,ANH,
+Santos I 2010-2014,Juan Manuel Santos,2014,Reservas probadas,3700,millones barriles,ANH,Máximo histórico
+Santos I 2010-2014,Juan Manuel Santos,2010,Producción carbón,78,millones toneladas,UPME,
+Santos I 2010-2014,Juan Manuel Santos,2014,Producción carbón,88,millones toneladas,UPME,
+Santos I 2010-2014,Juan Manuel Santos,2010,Capacidad instalada,13500,MW,XM,
+Santos I 2010-2014,Juan Manuel Santos,2014,Capacidad instalada,15000,MW,XM,
+Santos I 2010-2014,Juan Manuel Santos,2011,Regalías,7.0,billones COP,DNP,SGR creado
+Santos I 2010-2014,Juan Manuel Santos,2014,Regalías,14.0,billones COP,DNP,
+Santos II 2014-2018,Juan Manuel Santos,2014,Producción petróleo,1030,kbpd,Ecopetrol,
+Santos II 2014-2018,Juan Manuel Santos,2016,Producción petróleo,950,kbpd,Ecopetrol,Caída precios
+Santos II 2014-2018,Juan Manuel Santos,2018,Producción petróleo,880,kbpd,Ecopetrol,
+Santos II 2014-2018,Juan Manuel Santos,2014,Reservas probadas,3700,millones barriles,ANH,
+Santos II 2014-2018,Juan Manuel Santos,2018,Reservas probadas,3200,millones barriles,ANH,
+Santos II 2014-2018,Juan Manuel Santos,2014,Producción carbón,88,millones toneladas,UPME,
+Santos II 2014-2018,Juan Manuel Santos,2018,Producción carbón,85,millones toneladas,UPME,
+Santos II 2014-2018,Juan Manuel Santos,2014,Capacidad instalada,15000,MW,XM,
+Santos II 2014-2018,Juan Manuel Santos,2018,Capacidad instalada,16500,MW,XM,
+Santos II 2014-2018,Juan Manuel Santos,2014,Regalías,14.0,billones COP,DNP,
+Santos II 2014-2018,Juan Manuel Santos,2016,Regalías,9.0,billones COP,DNP,
+Santos II 2014-2018,Juan Manuel Santos,2018,Regalías,8.0,billones COP,DNP,
+Duque 2018-2022,Iván Duque,2018,Producción petróleo,880,kbpd,Ecopetrol,
+Duque 2018-2022,Iván Duque,2020,Producción petróleo,820,kbpd,Ecopetrol,Pandemia
+Duque 2018-2022,Iván Duque,2022,Producción petróleo,780,kbpd,Ecopetrol,
+Duque 2018-2022,Iván Duque,2018,Reservas probadas,3200,millones barriles,ANH,
+Duque 2018-2022,Iván Duque,2022,Reservas probadas,2400,millones barriles,ANH,Crisis
+Duque 2018-2022,Iván Duque,2018,Producción carbón,85,millones toneladas,UPME,
+Duque 2018-2022,Iván Duque,2020,Producción carbón,65,millones toneladas,UPME,Pandemia
+Duque 2018-2022,Iván Duque,2022,Producción carbón,60,millones toneladas,UPME,
+Duque 2018-2022,Iván Duque,2018,Capacidad instalada,16500,MW,XM,
+Duque 2018-2022,Iván Duque,2022,Capacidad instalada,19000,MW,XM,Renovables
+Duque 2018-2022,Iván Duque,2018,Regalías,8.0,billones COP,DNP,
+Duque 2018-2022,Iván Duque,2020,Regalías,7.5,billones COP,DNP,Pandemia
+Duque 2018-2022,Iván Duque,2022,Regalías,12.0,billones COP,DNP,Recuperación
+Duque 2018-2022,Iván Duque,2018,Exportaciones oro,25,toneladas,Banco República,
+Duque 2018-2022,Iván Duque,2022,Exportaciones oro,35,toneladas,Banco República,
+Petro 2022-2026,Gustavo Petro,2022,Producción petróleo,780,kbpd,Ecopetrol,
+Petro 2022-2026,Gustavo Petro,2024,Producción petróleo,765,kbpd,Ecopetrol,Proyección
+Petro 2022-2026,Gustavo Petro,2026,Producción petróleo,750,kbpd,Ecopetrol,Proyección
+Petro 2022-2026,Gustavo Petro,2022,Reservas probadas,2400,millones barriles,ANH,
+Petro 2022-2026,Gustavo Petro,2024,Reservas probadas,2250,millones barriles,ANH,Proyección
+Petro 2022-2026,Gustavo Petro,2026,Reservas probadas,2100,millones barriles,ANH,Proyección
+Petro 2022-2026,Gustavo Petro,2022,Producción carbón,60,millones toneladas,UPME,
+Petro 2022-2026,Gustavo Petro,2024,Producción carbón,55,millones toneladas,UPME,Proyección
+Petro 2022-2026,Gustavo Petro,2026,Producción carbón,50,millones toneladas,UPME,Política transición
+Petro 2022-2026,Gustavo Petro,2022,Capacidad instalada,19000,MW,XM,
+Petro 2022-2026,Gustavo Petro,2024,Capacidad instalada,20500,MW,XM,Proyección
+Petro 2022-2026,Gustavo Petro,2026,Capacidad instalada,22000,MW,XM,Proyección
+Petro 2022-2026,Gustavo Petro,2022,Regalías,12.0,billones COP,DNP,
+Petro 2022-2026,Gustavo Petro,2024,Regalías,11.0,billones COP,DNP,Proyección
+Petro 2022-2026,Gustavo Petro,2026,Regalías,10.0,billones COP,DNP,Proyección
+Petro 2022-2026,Gustavo Petro,2022,Exportaciones oro,35,toneladas,Banco República,
+Petro 2022-2026,Gustavo Petro,2026,Exportaciones oro,40,toneladas,Banco República,Proyección

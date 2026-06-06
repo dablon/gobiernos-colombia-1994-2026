@@ -1,35 +1,35 @@
 gobierno,presidente,inicio,fin,indicador,valor_inicio,valor_fin,unidad,fuente,nota
-1,Ernesto Samper,1994-08-07,1998-08-07,Recaudo_tributario_total_PIB,11.36,10.69,% PIB,DIAN-Cuadro 1.3 'Tributacion y Competitividad' 2005 (recaudo nacional % PIB),"Recaudo total = renta + IVA + timbre + GMF + patrimonio + actividad externa. 1998=inicio de Pastrana (Samper termina 1998); dato cierre = 1997 (ultimo ano Samper) por disponibilidad de la serie DIAN 1994-2004."
+1,Ernesto Samper,1994-08-07,1998-08-07,Recaudo_tributario_total_PIB,11.36,10.69,% PIB,DIAN-Cuadro 1.3 'Tributacion y Competitividad' 2005 (recaudo nacional % PIB),Recaudo total = renta + IVA + timbre + GMF + patrimonio + actividad externa. 1998=inicio de Pastrana (Samper termina 1998); dato cierre = 1997 (ultimo ano Samper) por disponibilidad de la serie DIAN 1994-2004.
 1,Ernesto Samper,1994-08-07,1998-08-07,Recaudo_renta_PIB,4.16,4.50,% PIB,DIAN-Cuadro 1.3 'Tributacion y Competitividad' 2005,"Serie actividad interna 1994-2004. 1994=4,16%; 1997=4,50%."
 1,Ernesto Samper,1994-08-07,1998-08-07,Recaudo_IVA_PIB,2.67,3.30,% PIB,DIAN-Cuadro 1.3 'Tributacion y Competitividad' 2005,"IVA nacional 1994=2,67%; 1997=3,30%."
 1,Ernesto Samper,1994-08-07,1998-08-07,Recaudo_GMF_PIB,0.00,0.19,% PIB,DIAN-Cuadro 1.3 (GMF introducido en 1999 por Ley 633/2000),"GMF 4xmil creado por Ley 633 de 2000 (Pastrana); en 1994-1998 el dato GMF es 0 o residual; el 0,19% es 1998 (ano de transicion)."
 1,Ernesto Samper,1994-08-07,1998-08-07,Recaudo_tributario_cop_billones,8.7,23.3,COP billones corrientes,Calculo propio: % PIB x PIB nominal DANE base 2015,"PIB nominal 1994=COP 76,3 bn; 1997=COP 217,6 bn (DANE retropolacion 2015). Recaudo estimado 1994 ~ 8,7 bn; 1997 ~ 23,3 bn."
-1,Ernesto Samper,1994-08-07,1998-08-07,Balance_primario_GNC_PIB,sin dato publico,sin dato publico,% PIB,Minhaciencia no publica serie 1994-1998,"Serie consistente inicia en 2000 con CGR/MFMP; 1994-1998 sin serie oficial GNC comparable."
+1,Ernesto Samper,1994-08-07,1998-08-07,Balance_primario_GNC_PIB,sin dato publico,sin dato publico,% PIB,Minhaciencia no publica serie 1994-1998,Serie consistente inicia en 2000 con CGR/MFMP; 1994-1998 sin serie oficial GNC comparable.
 1,Ernesto Samper,1994-08-07,1998-08-07,Balance_total_GNC_PIB,sin dato publico,-3.38,% PIB,Banco Mundial API netlending Central Govt 1998 (proxy),"BM net lending 1998=-3,38% PIB (proxy cercano a GNC). 1994-1997 sin dato BM."
 1,Ernesto Samper,1994-08-07,1998-08-07,Deuda_publica_total_PIB,11.4,22.0,% PIB,Minhaciencia Balance GNC + CGR Cuadro 2-2 (deuda SPNF),"Saldo GNC cierre 1994=11,4% PIB; 1997 (ultimo Samper)=22,0% PIB. SPNF 1994=11,4% / 1998=33,7% PIB (CGR Cuadro 2-2). Crisis 1998-99 causa salto a 33% en Pastrana."
-1,Ernesto Samper,1994-08-07,1998-08-07,Deuda_interna_PIB,sin dato publico,sin dato publico,% PIB,CGR Cuadro 2-2 inicia serie desagregada en 2010,"Pre-2010 dato no publicado en formato GNC/SPNF comparable."
-1,Ernesto Samper,1994-08-07,1998-08-07,Deuda_externa_PIB,sin dato publico,sin dato publico,% PIB,CGR Cuadro 2-2 inicia 2010,"Pre-2010 no comparable en serie unificada."
-1,Ernesto Samper,1994-08-07,1998-08-07,Servicio_deuda_intereses_PIB,sin dato publico,sin dato publico,% PIB,Minhaciencia sin serie 1994-1999,"Solo a partir de 2000 con estandar CGR/MFMP."
-1,Ernesto Samper,1994-08-07,1998-08-07,Inversion_publica_PIB,sin dato publico,sin dato publico,% PIB,Minhaciencia/DANE sin serie comparable,"Inversion publica del GNC como porcentaje del PIB no se publicaba como serie consistente en 1994-1998."
-1,Ernesto Samper,1994-08-07,1998-08-07,Gasto_personal_PIB,sin dato publico,sin dato publico,% PIB,Minhaciencia sin serie historica,"Serie estandar Minhaciencia solo a partir de 2000-2002."
-1,Ernesto Samper,1994-08-07,1998-08-07,Gasto_pensiones_PIB,sin dato publico,sin dato publico,% PIB,Minhaciencia sin serie historica,"Pensiones Ley 100/1993 con pago via Colpensiones solo tiene serie consistente post-2010."
+1,Ernesto Samper,1994-08-07,1998-08-07,Deuda_interna_PIB,sin dato publico,sin dato publico,% PIB,CGR Cuadro 2-2 inicia serie desagregada en 2010,Pre-2010 dato no publicado en formato GNC/SPNF comparable.
+1,Ernesto Samper,1994-08-07,1998-08-07,Deuda_externa_PIB,sin dato publico,sin dato publico,% PIB,CGR Cuadro 2-2 inicia 2010,Pre-2010 no comparable en serie unificada.
+1,Ernesto Samper,1994-08-07,1998-08-07,Servicio_deuda_intereses_PIB,sin dato publico,sin dato publico,% PIB,Minhaciencia sin serie 1994-1999,Solo a partir de 2000 con estandar CGR/MFMP.
+1,Ernesto Samper,1994-08-07,1998-08-07,Inversion_publica_PIB,sin dato publico,sin dato publico,% PIB,Minhaciencia/DANE sin serie comparable,Inversion publica del GNC como porcentaje del PIB no se publicaba como serie consistente en 1994-1998.
+1,Ernesto Samper,1994-08-07,1998-08-07,Gasto_personal_PIB,sin dato publico,sin dato publico,% PIB,Minhaciencia sin serie historica,Serie estandar Minhaciencia solo a partir de 2000-2002.
+1,Ernesto Samper,1994-08-07,1998-08-07,Gasto_pensiones_PIB,sin dato publico,sin dato publico,% PIB,Minhaciencia sin serie historica,Pensiones Ley 100/1993 con pago via Colpensiones solo tiene serie consistente post-2010.
 1,Ernesto Samper,1994-08-07,1998-08-07,SGP_transferencias_PIB,sin dato publico,sin dato publico,% PIB,DNP sin serie comparable 1994-2001,"Ley 60/1993 creo transferencias, pero reporte estandar del SGP inicia con Ley 715/2001."
-1,Ernesto Samper,1994-08-07,1998-08-07,Regalias_ingresos_PIB,sin dato publico,sin dato publico,% PIB,DNP sin serie estandar pre-2012,"Pre-Ley 1530/2012 regimen anterior sin series comparables."
-2,Andres Pastrana,1998-08-07,2002-08-07,Recaudo_tributario_total_PIB,10.69,13.47,% PIB,DIAN-Cuadro 1.3 'Tributacion y Competitividad' 2005,"1998 a 2001. Incluye patrimonio (Seguridad Democratica) y actividad externa. Ley 633/2000 introdujo GMF; Ley 863/2003 se aprueba en ano final Pastrana."
+1,Ernesto Samper,1994-08-07,1998-08-07,Regalias_ingresos_PIB,sin dato publico,sin dato publico,% PIB,DNP sin serie estandar pre-2012,Pre-Ley 1530/2012 regimen anterior sin series comparables.
+2,Andres Pastrana,1998-08-07,2002-08-07,Recaudo_tributario_total_PIB,10.69,13.47,% PIB,DIAN-Cuadro 1.3 'Tributacion y Competitividad' 2005,1998 a 2001. Incluye patrimonio (Seguridad Democratica) y actividad externa. Ley 633/2000 introdujo GMF; Ley 863/2003 se aprueba en ano final Pastrana.
 2,Andres Pastrana,1998-08-07,2002-08-07,Recaudo_renta_PIB,4.50,5.31,% PIB,DIAN-Cuadro 1.3,"Renta 1998=4,50%; 2001=5,44%; 2002=5,31% (inicio Uribe)."
 2,Andres Pastrana,1998-08-07,2002-08-07,Recaudo_IVA_PIB,3.30,3.89,% PIB,DIAN-Cuadro 1.3,"IVA 1998=3,21%; 2001=3,88%; 2002=3,89%."
-2,Andres Pastrana,1998-08-07,2002-08-07,Recaudo_GMF_PIB,0.19,0.69,% PIB,DIAN-Cuadro 1.3 + Minhaciencia 2001-2002,"GMF 4xmil introducido Ley 633/2000 con rec. desde 1999; cae a 3xmil en 2002 (Decreto 1838)."
+2,Andres Pastrana,1998-08-07,2002-08-07,Recaudo_GMF_PIB,0.19,0.69,% PIB,DIAN-Cuadro 1.3 + Minhaciencia 2001-2002,GMF 4xmil introducido Ley 633/2000 con rec. desde 1999; cae a 3xmil en 2002 (Decreto 1838).
 2,Andres Pastrana,1998-08-07,2002-08-07,Recaudo_tributario_cop_billones,26.1,46.7,COP billones corrientes,Calculo: % PIB x PIB DANE base 2015,"PIB nominal 1998=COP 244,7 bn; 2001=COP 354,4 bn (DANE). Recaudo 1998 ~ 26,1 bn; 2001 ~ 46,7 bn."
 2,Andres Pastrana,1998-08-07,2002-08-07,Balance_primario_GNC_PIB,sin dato publico,sin dato publico,% PIB,Sin serie oficial Minhaciencia consolidada pre-2002,"Proxy BM net lending GNC 2000=-3,12% PIB (sobre la serie BM 'central govt')."
 2,Andres Pastrana,1998-08-07,2002-08-07,Balance_total_GNC_PIB,-3.38,sin dato publico,% PIB,BM Central Govt netlending 1998-2000,"1998=-3,38; 2000=-3,12; 2001 no disp en BM."
 2,Andres Pastrana,1998-08-07,2002-08-07,Deuda_publica_total_PIB,22.0,47.3,% PIB,CGR Cuadro 2-2 deuda SPNF 2010-2024 + BM Central Govt 1998-2000,"Saldo SPNF 1998=33,7% PIB; 2000=47,3% (CGR). El BM reporta GNC 1998=5,4% (cifra inicial con metodologia BM). Crisis 1998-99 (crack 8%/1998 + rescate bancario via Fogafin) eleva deuda/PIB."
-2,Andres Pastrana,1998-08-07,2002-08-07,Deuda_interna_PIB,sin dato publico,sin dato publico,% PIB,CGR Cuadro 2-2 inicia 2010,"Pre-2010 dato desagregado no esta en serie estandar."
-2,Andres Pastrana,1998-08-07,2002-08-07,Deuda_externa_PIB,sin dato publico,sin dato publico,% PIB,CGR Cuadro 2-2 inicia 2010,"Pre-2010 dato desagregado no estandar."
-2,Andres Pastrana,1998-08-07,2002-08-07,Servicio_deuda_intereses_PIB,sin dato publico,sin dato publico,% PIB,Minhaciencia sin serie comparable,"Inicia serie comparable 2002 en adelante con Ley 819/2003."
-2,Andres Pastrana,1998-08-07,2002-08-07,Inversion_publica_PIB,sin dato publico,sin dato publico,% PIB,Minhaciencia sin serie comparable,"Plan Nacional Desarrollo 1998-2002 'Cambio para construir la paz' sin serie de inversion."
-2,Andres Pastrana,1998-08-07,2002-08-07,Gasto_personal_PIB,sin dato publico,sin dato publico,% PIB,Minhaciencia sin serie historica 1998-2001.
-2,Andres Pastrana,1998-08-07,2002-08-07,Gasto_pensiones_PIB,sin dato publico,sin dato publico,% PIB,Minhaciencia sin serie estandar,"Solo a partir de 2008 con la CRECE (Comision del Gasto)."
-2,Andres Pastrana,1998-08-07,2002-08-07,SGP_transferencias_PIB,sin dato publico,sin dato publico,% PIB,Pre-Ley 715/2001,"Regimen Ley 60/1993 sin reporte estandar."
+2,Andres Pastrana,1998-08-07,2002-08-07,Deuda_interna_PIB,sin dato publico,sin dato publico,% PIB,CGR Cuadro 2-2 inicia 2010,Pre-2010 dato desagregado no esta en serie estandar.
+2,Andres Pastrana,1998-08-07,2002-08-07,Deuda_externa_PIB,sin dato publico,sin dato publico,% PIB,CGR Cuadro 2-2 inicia 2010,Pre-2010 dato desagregado no estandar.
+2,Andres Pastrana,1998-08-07,2002-08-07,Servicio_deuda_intereses_PIB,sin dato publico,sin dato publico,% PIB,Minhaciencia sin serie comparable,Inicia serie comparable 2002 en adelante con Ley 819/2003.
+2,Andres Pastrana,1998-08-07,2002-08-07,Inversion_publica_PIB,sin dato publico,sin dato publico,% PIB,Minhaciencia sin serie comparable,Plan Nacional Desarrollo 1998-2002 'Cambio para construir la paz' sin serie de inversion.
+2,Andres Pastrana,1998-08-07,2002-08-07,Gasto_personal_PIB,sin dato publico,sin dato publico,% PIB,Minhaciencia sin serie historica 1998-2001.,
+2,Andres Pastrana,1998-08-07,2002-08-07,Gasto_pensiones_PIB,sin dato publico,sin dato publico,% PIB,Minhaciencia sin serie estandar,Solo a partir de 2008 con la CRECE (Comision del Gasto).
+2,Andres Pastrana,1998-08-07,2002-08-07,SGP_transferencias_PIB,sin dato publico,sin dato publico,% PIB,Pre-Ley 715/2001,Regimen Ley 60/1993 sin reporte estandar.
 2,Andres Pastrana,1998-08-07,2002-08-07,Regalias_ingresos_PIB,sin dato publico,sin dato publico,% PIB,Regalias pre-2012 sin serie comparable,DNP no consolida serie larga.
 3,Alvaro Uribe I,2002-08-07,2006-08-07,Recaudo_tributario_total_PIB,13.47,15.8,% PIB,DIAN-Cuadro 1.3 2005 (hasta 2004) + BM Central Govt tax % PIB 2005-2006,"2002=13,47; 2003=14,04; 2004=14,79; 2005 BM tax%PIB=11,26; 2006 no comparable BM. Minhaciencia serie inicia 2000 con cifras historicas."
 3,Alvaro Uribe I,2002-08-07,2006-08-07,Recaudo_renta_PIB,5.31,6.24,% PIB,DIAN-Cuadro 1.3 (1994-2004) + BM proxy 2005+,"Renta 2002=5,31; 2004=6,24; 2005 BM no desagrega."
@@ -41,61 +41,89 @@ gobierno,presidente,inicio,fin,indicador,valor_inicio,valor_fin,unidad,fuente,no
 3,Alvaro Uribe I,2002-08-07,2006-08-07,Deuda_publica_total_PIB,47.3,sin dato publico,% PIB,CGR Cuadro 2-2 deuda SPNF + BM Central Govt 2003,"Saldo SPNF 2003 sin cifra; BM GNC debt 2003=52,54% PIB. CGR SPNF 2010=47,3% PIB. Conflicto metodologico entre fuentes."
 3,Alvaro Uribe I,2002-08-07,2006-08-07,Deuda_interna_PIB,sin dato publico,sin dato publico,% PIB,CGR Cuadro 2-2 inicia 2010,Pre-2010 no estandar.
 3,Alvaro Uribe I,2002-08-07,2006-08-07,Deuda_externa_PIB,sin dato publico,sin dato publico,% PIB,CGR Cuadro 2-2 inicia 2010,Pre-2010 no estandar.
-3,Alvaro Uribe I,2002-08-07,2006-08-07,Servicio_deuda_intereses_PIB,sin dato publico,sin dato publico,% PIB,Minhaciencia sin serie comparable 2002-2005,"Tasa de interes implicita subio a 10% entre 2005-2008 (MFMP 2025 pag.31)."
+3,Alvaro Uribe I,2002-08-07,2006-08-07,Servicio_deuda_intereses_PIB,sin dato publico,sin dato publico,% PIB,Minhaciencia sin serie comparable 2002-2005,Tasa de interes implicita subio a 10% entre 2005-2008 (MFMP 2025 pag.31).
 3,Alvaro Uribe I,2002-08-07,2006-08-07,Inversion_publica_PIB,sin dato publico,sin dato publico,% PIB,Sin serie comparable 2002-2006,Plan Nacional Desarrollo 'Hacia un Estado Comunitario' sin serie de inversion como % PIB.
-3,Alvaro Uribe I,2002-08-07,2006-08-07,Gasto_personal_PIB,sin dato publico,sin dato publico,% PIB,Minhaciencia sin serie historica 2002-2005.
+3,Alvaro Uribe I,2002-08-07,2006-08-07,Gasto_personal_PIB,sin dato publico,sin dato publico,% PIB,Minhaciencia sin serie historica 2002-2005.,
 3,Alvaro Uribe I,2002-08-07,2006-08-07,Gasto_pensiones_PIB,sin dato publico,sin dato publico,% PIB,Minhaciencia sin serie estandar,"CEPAL Pension expenditure Colombia ~ 3,5% PIB hacia 2005 (estimacion)."
-3,Alvaro Uribe I,2002-08-07,2006-08-07,SGP_transferencias_PIB,sin dato publico,sin dato publico,% PIB,Ley 715/2001 crea SGP,"Reporte SGP inicia con datos 2002-2003 pero sin serie % PIB consolidada pre-2007."
+3,Alvaro Uribe I,2002-08-07,2006-08-07,SGP_transferencias_PIB,sin dato publico,sin dato publico,% PIB,Ley 715/2001 crea SGP,Reporte SGP inicia con datos 2002-2003 pero sin serie % PIB consolidada pre-2007.
 3,Alvaro Uribe I,2002-08-07,2006-08-07,Regalias_ingresos_PIB,sin dato publico,sin dato publico,% PIB,Regalias pre-2012,Sin serie comparable.
 4,Alvaro Uribe II,2006-08-07,2010-08-07,Recaudo_tributario_total_PIB,sin dato publico,12.14,% PIB,BM Central Govt tax % PIB 2006-2010,"Serie BM: 2006 no disp; 2008=13,03; 2009=12,68; 2010=12,14. Minhaciencia datos oficiales no consolidados 2006-2010 en serie comparable con post-2010."
-4,Alvaro Uribe II,2006-08-07,2010-08-07,Recaudo_renta_PIB,sin dato publico,sin dato publico,% PIB,DIAN sin serie comparable 2005-2010,DIAN 2005 + 2010, sin serie anual para Uribe II.
-4,Alvaro Uribe II,2006-08-07,2010-08-07,Recaudo_IVA_PIB,sin dato publico,sin dato publico,% PIB,DIAN sin serie comparable.
-4,Alvaro Uribe II,2006-08-07,2010-08-07,Recaudo_GMF_PIB,sin dato publico,sin dato publico,% PIB,DIAN sin serie comparable,"Reduccion a 2xmil en 2006 (Decreto 4714/2005)."
-4,Alvaro Uribe II,2006-08-07,2010-08-07,Recaudo_tributario_cop_billones,sin dato publico,67.9,COP billones,Calculo: BM tax% x PIB DANE,PIB 2006=COP 419,0 bn; 2010=COP 559,4 bn (DANE base 2015).
+4,Alvaro Uribe II,2006-08-07,2010-08-07,Recaudo_renta_PIB,sin dato publico,sin dato publico,% PIB,DIAN sin serie comparable 2005-2010,"DIAN 2005 + 2010, sin serie anual para Uribe II."
+4,Alvaro Uribe II,2006-08-07,2010-08-07,Recaudo_IVA_PIB,sin dato publico,sin dato publico,% PIB,DIAN sin serie comparable.,
+4,Alvaro Uribe II,2006-08-07,2010-08-07,Recaudo_GMF_PIB,sin dato publico,sin dato publico,% PIB,DIAN sin serie comparable,Reduccion a 2xmil en 2006 (Decreto 4714/2005).
+4,Alvaro Uribe II,2006-08-07,2010-08-07,Recaudo_tributario_cop_billones,sin dato publico,67.9,COP billones,Calculo: BM tax% x PIB DANE,"PIB 2006=COP 419,0 bn; 2010=COP 559,4 bn (DANE base 2015)."
 4,Alvaro Uribe II,2006-08-07,2010-08-07,Balance_primario_GNC_PIB,sin dato publico,sin dato publico,% PIB,Minhaciencia sin serie comparable,"Cifras puntuales: 2008 superavit primario GNC ~ 0,4% PIB."
 4,Alvaro Uribe II,2006-08-07,2010-08-07,Balance_total_GNC_PIB,sin dato publico,-4.56,% PIB,Minhaciencia sin serie oficial,"BM central govt netlending 2008=-5,72; 2009=-7,08; 2010=-4,56. Cracks 2008-2009."
 4,Alvaro Uribe II,2006-08-07,2010-08-07,Deuda_publica_total_PIB,sin dato publico,47.3,% PIB,BM Central Govt debt % PIB 2008-2010,"BM 2008=65,25% (alto); 2009=69,00% (pico por crisis 2008-09); 2010=72,45% (recalibrado). SPNF CGR 2010=47,3% PIB. Conflicto: BM usa 'Central Government' con cobertura mas amplia."
 4,Alvaro Uribe II,2006-08-07,2010-08-07,Deuda_interna_PIB,sin dato publico,33.7,% PIB,CGR Cuadro 2-2 deuda SPNF 2010,"2010 interna SPNF=33,7% PIB; externa=13,6% PIB (CGR)."
 4,Alvaro Uribe II,2006-08-07,2010-08-07,Deuda_externa_PIB,sin dato publico,13.6,% PIB,CGR Cuadro 2-2 deuda SPNF 2010,"2010 externa SPNF=13,6% PIB."
 4,Alvaro Uribe II,2006-08-07,2010-08-07,Servicio_deuda_intereses_PIB,sin dato publico,sin dato publico,% PIB,Minhaciencia sin serie comparable 2006-2010,"Tasa implicita promedio 9,6% deuda interna 2005-2024 (MFMP 2025 pag.32)."
-4,Alvaro Uribe II,2006-08-07,2010-08-07,Inversion_publica_PIB,sin dato publico,sin dato publico,% PIB,Sin serie comparable 2006-2010.
-4,Alvaro Uribe II,2006-08-07,2010-08-07,Gasto_personal_PIB,sin dato publico,sin dato publico,% PIB,Minhaciencia sin serie comparable.
-4,Alvaro Uribe II,2006-08-07,2010-08-07,Gasto_pensiones_PIB,sin dato publico,sin dato publico,% PIB,Minhaciencia sin serie comparable.
-4,Alvaro Uribe II,2006-08-07,2010-08-07,SGP_transferencias_PIB,sin dato publico,3.5,% PIB,DNP SGP distribuciones 2006-2010,Estimado: SGP paso de 2,5% a 3,5% PIB durante Uribe I-II.
+4,Alvaro Uribe II,2006-08-07,2010-08-07,Inversion_publica_PIB,sin dato publico,sin dato publico,% PIB,Sin serie comparable 2006-2010.,
+4,Alvaro Uribe II,2006-08-07,2010-08-07,Gasto_personal_PIB,sin dato publico,sin dato publico,% PIB,Minhaciencia sin serie comparable.,
+4,Alvaro Uribe II,2006-08-07,2010-08-07,Gasto_pensiones_PIB,sin dato publico,sin dato publico,% PIB,Minhaciencia sin serie comparable.,
+4,Alvaro Uribe II,2006-08-07,2010-08-07,SGP_transferencias_PIB,sin dato publico,3.5,% PIB,DNP SGP distribuciones 2006-2010,"Estimado: SGP paso de 2,5% a 3,5% PIB durante Uribe I-II."
 4,Alvaro Uribe II,2006-08-07,2010-08-07,Regalias_ingresos_PIB,sin dato publico,sin dato publico,% PIB,Regalias pre-Ley 1530/2012,"Ingresos 2010 estimaciones ~ 1,5% PIB antes de reforma constitucional 2011."
 5,Juan Manuel Santos I,2010-08-07,2014-08-07,Recaudo_tributario_total_PIB,12.14,15.70,% PIB,BM Central Govt tax % PIB + Minhaciencia 2014,"2010=12,14; 2011=14,58; 2012=13,23; 2013=14,02; 2014=15,70. BM proxy cubre anos 2010-2014."
 5,Juan Manuel Santos I,2010-08-07,2014-08-07,Recaudo_renta_PIB,sin dato publico,sin dato publico,% PIB,DIAN sin serie comparable,"Datos puntuales: 2010 ~ 5,5% PIB; 2014 ~ 6,2% PIB (estimaciones)."
-5,Juan Manuel Santos I,2010-08-07,2014-08-07,Recaudo_IVA_PIB,sin dato publico,sin dato publico,% PIB,DIAN sin serie comparable,Estimado 2010-2014 ~ 4,0-5,0% PIB.
-5,Juan Manuel Santos I,2010-08-07,2014-08-07,Recaudo_GMF_PIB,sin dato publico,sin dato publico,% PIB,DIAN sin serie comparable,"Reduccion a 0 (eliminacion) 1999 no; GMF 4xmil en 2010 (Decreto 4054). Ley 1430/2010 y 1607/2012."
-5,Juan Manuel Santos I,2010-08-07,2014-08-07,Recaudo_tributario_cop_billones,67.9,123.4,COP billones,Calculo: % PIB x PIB DANE,PIB 2010=COP 559,4 bn; 2014=COP 786,0 bn (DANE base 2015). Recaudo 2010 ~ 67,9 bn; 2014 ~ 123,4 bn.
-5,Juan Manuel Santos I,2010-08-07,2014-08-07,Balance_primario_GNC_PIB,sin dato publico,sin dato publico,% PIB,Minhaciencia serie oficial inicia consistente post-2010,Superavit primario promedio 2010-2014 ~ 0,5% PIB.
+5,Juan Manuel Santos I,2010-08-07,2014-08-07,Recaudo_IVA_PIB,sin dato publico,sin dato publico,% PIB,DIAN sin serie comparable,"Estimado 2010-2014 ~ 4,0-5,0% PIB."
+5,Juan Manuel Santos I,2010-08-07,2014-08-07,Recaudo_GMF_PIB,sin dato publico,sin dato publico,% PIB,DIAN sin serie comparable,Reduccion a 0 (eliminacion) 1999 no; GMF 4xmil en 2010 (Decreto 4054). Ley 1430/2010 y 1607/2012.
+5,Juan Manuel Santos I,2010-08-07,2014-08-07,Recaudo_tributario_cop_billones,67.9,123.4,COP billones,Calculo: % PIB x PIB DANE,"PIB 2010=COP 559,4 bn; 2014=COP 786,0 bn (DANE base 2015). Recaudo 2010 ~ 67,9 bn; 2014 ~ 123,4 bn."
+5,Juan Manuel Santos I,2010-08-07,2014-08-07,Balance_primario_GNC_PIB,sin dato publico,sin dato publico,% PIB,Minhaciencia serie oficial inicia consistente post-2010,"Superavit primario promedio 2010-2014 ~ 0,5% PIB."
 5,Juan Manuel Santos I,2010-08-07,2014-08-07,Balance_total_GNC_PIB,-4.56,-4.17,% PIB,BM Central Govt netlending 2010-2014,"2010=-4,56; 2011=-1,07; 2012=+2,77 (superavit SPNF); 2013=-5,53; 2014=-4,17."
 5,Juan Manuel Santos I,2010-08-07,2014-08-07,Deuda_publica_total_PIB,43.3,49.5,% PIB,CGR Cuadro 2-2 deuda SPNF 2010-2014,"SPNF 2010=47,3; 2011=43,3; 2012=40,9 (minimo); 2013=43,7; 2014=49,5. GNC BM 2014=47,98%."
 5,Juan Manuel Santos I,2010-08-07,2014-08-07,Deuda_interna_PIB,33.7,31.3,% PIB,CGR Cuadro 2-2,"2010 int=33,7; 2011=30,5; 2012=29,0; 2013=30,0; 2014=31,3."
 5,Juan Manuel Santos I,2010-08-07,2014-08-07,Deuda_externa_PIB,13.6,18.2,% PIB,CGR Cuadro 2-2,"2010 ext=13,6; 2011=12,8; 2012=11,9; 2013=13,8; 2014=18,2."
-5,Juan Manuel Santos I,2010-08-07,2014-08-07,Servicio_deuda_intereses_PIB,sin dato publico,sin dato publico,% PIB,Minhaciencia sin serie comparable 2010-2014,Intereses deuda interna 2014: 2,0% PIB (Memoria MH 2014).
-5,Juan Manuel Santos I,2010-08-07,2014-08-07,Inversion_publica_PIB,sin dato publico,sin dato publico,% PIB,Minhaciencia sin serie 2010-2014 consistente,Estimado: 2010-2014 inv GNC ~ 3,0-3,5% PIB.
-5,Juan Manuel Santos I,2010-08-07,2014-08-07,Gasto_personal_PIB,sin dato publico,sin dato publico,% PIB,Minhaciencia sin serie comparable,2010 ~ 1,8% PIB; 2014 ~ 2,0% PIB.
-5,Juan Manuel Santos I,2010-08-07,2014-08-07,Gasto_pensiones_PIB,sin dato publico,3.5,% PIB,Minhaciencia sin serie comparable 2010-2014,Estimado 2010-2014 ~ 3,3-3,5% PIB.
-5,Juan Manuel Santos I,2010-08-07,2014-08-07,SGP_transferencias_PIB,3.5,3.8,% PIB,DNP SGP distribuciones 2010-2014,2010=3,5% PIB; 2014 ~ 3,8% PIB.
-5,Juan Manuel Santos I,2010-08-07,2014-08-07,Regalias_ingresos_PIB,1.5,1.0,% PIB,DNP datos SGR 2010-2014 (post-Ley 1530/2012),2010 ~ 1,5% PIB ingresos; 2011 AL 005/2011; 2012 Ley 1530/2012 redistribuyo; 2014 ~ 1,0% PIB.
+5,Juan Manuel Santos I,2010-08-07,2014-08-07,Servicio_deuda_intereses_PIB,sin dato publico,sin dato publico,% PIB,Minhaciencia sin serie comparable 2010-2014,"Intereses deuda interna 2014: 2,0% PIB (Memoria MH 2014)."
+5,Juan Manuel Santos I,2010-08-07,2014-08-07,Inversion_publica_PIB,sin dato publico,sin dato publico,% PIB,Minhaciencia sin serie 2010-2014 consistente,"Estimado: 2010-2014 inv GNC ~ 3,0-3,5% PIB."
+5,Juan Manuel Santos I,2010-08-07,2014-08-07,Gasto_personal_PIB,sin dato publico,sin dato publico,% PIB,Minhaciencia sin serie comparable,"2010 ~ 1,8% PIB; 2014 ~ 2,0% PIB."
+5,Juan Manuel Santos I,2010-08-07,2014-08-07,Gasto_pensiones_PIB,sin dato publico,3.5,% PIB,Minhaciencia sin serie comparable 2010-2014,"Estimado 2010-2014 ~ 3,3-3,5% PIB."
+5,Juan Manuel Santos I,2010-08-07,2014-08-07,SGP_transferencias_PIB,3.5,3.8,% PIB,DNP SGP distribuciones 2010-2014,"2010=3,5% PIB; 2014 ~ 3,8% PIB."
+5,Juan Manuel Santos I,2010-08-07,2014-08-07,Regalias_ingresos_PIB,1.5,1.0,% PIB,DNP datos SGR 2010-2014 (post-Ley 1530/2012),"2010 ~ 1,5% PIB ingresos; 2011 AL 005/2011; 2012 Ley 1530/2012 redistribuyo; 2014 ~ 1,0% PIB."
 6,Juan Manuel Santos II,2014-08-07,2018-08-07,Recaudo_tributario_total_PIB,15.70,14.61,% PIB,BM Central Govt tax % PIB 2015-2018 + Minhaciencia,"2014=15,70; 2015=15,80; 2016=14,39; 2017=14,85; 2018=14,61. BM proxy."
-6,Juan Manuel Santos II,2014-08-07,2018-08-07,Recaudo_renta_PIB,6.2,5.5,% PIB,DIAN Memorias Anuales 2014-2018 (estimacion),Estimado: 2014 ~ 6,2% PIB; 2018 ~ 5,5% PIB.
-6,Juan Manuel Santos II,2014-08-07,2018-08-07,Recaudo_IVA_PIB,5.0,5.2,% PIB,DIAN Memorias Anuales 2014-2018 (estimacion),Estimado: 2014 ~ 5,0% PIB; 2018 ~ 5,2% PIB.
-6,Juan Manuel Santos II,2014-08-07,2018-08-07,Recaudo_GMF_PIB,1.0,0.7,% PIB,DIAN Memorias Anuales 2014-2018 (estimacion),Estimado: GMF bajo de 1,0% a 0,7% PIB.
-6,Juan Manuel Santos II,2014-08-07,2018-08-07,Recaudo_tributario_cop_billones,123.4,150.2,COP billones,Calculo: % PIB x PIB DANE,PIB 2014=COP 786,0 bn; 2018=COP 1028,7 bn (DANE base 2015). Recaudo 2014 ~ 123,4 bn; 2018 ~ 150,2 bn.
-6,Juan Manuel Santos II,2014-08-07,2018-08-07,Balance_primario_GNC_PIB,sin dato publico,sin dato publico,% PIB,Minhaciencia serie oficial,Primario GNC 2014 ~ -0,3% PIB; 2018 ~ -1,4% PIB (estimaciones).
+6,Juan Manuel Santos II,2014-08-07,2018-08-07,Recaudo_renta_PIB,6.2,5.5,% PIB,DIAN Memorias Anuales 2014-2018 (estimacion),"Estimado: 2014 ~ 6,2% PIB; 2018 ~ 5,5% PIB."
+6,Juan Manuel Santos II,2014-08-07,2018-08-07,Recaudo_IVA_PIB,5.0,5.2,% PIB,DIAN Memorias Anuales 2014-2018 (estimacion),"Estimado: 2014 ~ 5,0% PIB; 2018 ~ 5,2% PIB."
+6,Juan Manuel Santos II,2014-08-07,2018-08-07,Recaudo_GMF_PIB,1.0,0.7,% PIB,DIAN Memorias Anuales 2014-2018 (estimacion),"Estimado: GMF bajo de 1,0% a 0,7% PIB."
+6,Juan Manuel Santos II,2014-08-07,2018-08-07,Recaudo_tributario_cop_billones,123.4,150.2,COP billones,Calculo: % PIB x PIB DANE,"PIB 2014=COP 786,0 bn; 2018=COP 1028,7 bn (DANE base 2015). Recaudo 2014 ~ 123,4 bn; 2018 ~ 150,2 bn."
+6,Juan Manuel Santos II,2014-08-07,2018-08-07,Balance_primario_GNC_PIB,sin dato publico,sin dato publico,% PIB,Minhaciencia serie oficial,"Primario GNC 2014 ~ -0,3% PIB; 2018 ~ -1,4% PIB (estimaciones)."
 6,Juan Manuel Santos II,2014-08-07,2018-08-07,Balance_total_GNC_PIB,-4.17,-2.61,% PIB,BM Central Govt netlending 2014-2018,"2014=-4,17; 2015=-1,41; 2016=-3,04; 2017=-2,20; 2018=-2,61. 2015 superavit primario por caida precio petroleo llevo a desbalance."
 6,Juan Manuel Santos II,2014-08-07,2018-08-07,Deuda_publica_total_PIB,49.5,58.4,% PIB,CGR Cuadro 2-2 deuda SPNF 2014-2018,"SPNF 2014=49,5; 2015=56,2; 2016=56,4; 2017=56,1; 2018=58,4. GNC BM 2018=71,65% (cifra conflicto)."
 6,Juan Manuel Santos II,2014-08-07,2018-08-07,Deuda_interna_PIB,31.3,34.8,% PIB,CGR Cuadro 2-2,"2014 int=31,3; 2015=31,0; 2016=32,2; 2017=33,1; 2018=34,8."
 6,Juan Manuel Santos II,2014-08-07,2018-08-07,Deuda_externa_PIB,18.2,23.6,% PIB,CGR Cuadro 2-2,"2014 ext=18,2; 2015=25,2; 2016=24,2; 2017=23,0; 2018=23,6."
 6,Juan Manuel Santos II,2014-08-07,2018-08-07,Servicio_deuda_intereses_PIB,2.0,3.2,% PIB,Minhaciencia Memorias 2014-2018 (estimacion),"2014=2,0% PIB; 2018 ~ 3,2% PIB. Tasa implicita global 7,4% entre 2010-2020 (MFMP 2025)."
-6,Juan Manuel Santos II,2014-08-07,2018-08-07,Inversion_publica_PIB,3.5,2.6,% PIB,Minhaciencia Memoria 2014-2018 (estimacion),Estimado 2014 ~ 3,5% PIB; 2018 ~ 2,6% PIB.
-6,Juan Manuel Santos II,2014-08-07,2018-08-07,Gasto_personal_PIB,2.0,2.3,% PIB,Minhaciencia Memoria 2014-2018,Estimado 2014 ~ 2,0% PIB; 2018 ~ 2,3% PIB.
-6,Juan Manuel Santos II,2014-08-07,2018-08-07,Gasto_pensiones_PIB,3.5,3.7,% PIB,Minhaciencia Memoria 2014-2018,Estimado 2014 ~ 3,5% PIB; 2018 ~ 3,7% PIB.
-6,Juan Manuel Santos II,2014-08-07,2018-08-07,SGP_transferencias_PIB,3.8,3.5,% PIB,DNP SGP distribuciones 2014-2018 (Acto Legislativo 04/2007),2014=3,8% PIB; 2018 ~ 3,5% PIB.
-6,Juan Manuel Santos II,2014-08-07,2018-08-07,Regalias_ingresos_PIB,1.0,1.0,% PIB,DNP SGR 2014-2018,2014 ~ 1,0% PIB ingresos; 2018 ~ 1,0% PIB.
+6,Juan Manuel Santos II,2014-08-07,2018-08-07,Inversion_publica_PIB,3.5,2.6,% PIB,Minhaciencia Memoria 2014-2018 (estimacion),"Estimado 2014 ~ 3,5% PIB; 2018 ~ 2,6% PIB."
+6,Juan Manuel Santos II,2014-08-07,2018-08-07,Gasto_personal_PIB,2.0,2.3,% PIB,Minhaciencia Memoria 2014-2018,"Estimado 2014 ~ 2,0% PIB; 2018 ~ 2,3% PIB."
+6,Juan Manuel Santos II,2014-08-07,2018-08-07,Gasto_pensiones_PIB,3.5,3.7,% PIB,Minhaciencia Memoria 2014-2018,"Estimado 2014 ~ 3,5% PIB; 2018 ~ 3,7% PIB."
+6,Juan Manuel Santos II,2014-08-07,2018-08-07,SGP_transferencias_PIB,3.8,3.5,% PIB,DNP SGP distribuciones 2014-2018 (Acto Legislativo 04/2007),"2014=3,8% PIB; 2018 ~ 3,5% PIB."
+6,Juan Manuel Santos II,2014-08-07,2018-08-07,Regalias_ingresos_PIB,1.0,1.0,% PIB,DNP SGR 2014-2018,"2014 ~ 1,0% PIB ingresos; 2018 ~ 1,0% PIB."
 7,Ivan Duque,2018-08-07,2022-08-07,Recaudo_tributario_total_PIB,14.61,15.26,% PIB,BM Central Govt tax % PIB 2018-2022 + CARF 2025,"2018=14,61; 2019=14,90; 2020=14,05; 2021=14,45; 2022=15,26."
 7,Ivan Duque,2018-08-07,2022-08-07,Recaudo_renta_PIB,5.5,6.7,% PIB,DIAN Memorias + CARF 2025,"2018 ~ 5,5% PIB; 2019 ~ 6,3% PIB (promedio 2019-2022 segun CARF); 2022 ~ 6,7% PIB. Ley 2277/2022 impulso recaudo."
-7,Ivan Duque,2018-08-07,2022-08-07,Recaudo_IVA_PIB,5.2,6.0,% PIB,DIAN Memorias + CARF 2025,2022: IVA interno ~ 3,9% + IVA externo ~ 2,1% = 6,0% PIB.
-7,Ivan Duque,2018-08-07,2022-08-07,Recaudo_GMF_PIB,0.7,0.7,% PIB,DIAN Memorias 2018-2022 (estimacion),Duque mantuvo el GMF
+7,Ivan Duque,2018-08-07,2022-08-07,Recaudo_IVA_PIB,5.2,6.0,% PIB,DIAN Memorias + CARF 2025,"2022: IVA interno ~ 3,9% + IVA externo ~ 2,1% = 6,0% PIB."
+7,Ivan Duque,2018-08-07,2022-08-07,Recaudo_GMF_PIB,0.7,0.7,% PIB,DIAN Memorias 2018-2022 (estimacion),Duque mantuvo el GMF 4xmil durante su gobierno (reduccion a 3xmil en 2023 con Petro).
+7,Ivan Duque,2018-08-07,2022-08-07,Recaudo_tributario_cop_billones,150.2,231.7,COP billones,Calculo: % PIB x PIB DANE,"PIB 2018=COP 1028,7 bn; 2022=COP 1462,0 bn (DANE base 2015). Recaudo 2018 ~ 150,2 bn; 2022 ~ 222,9 bn."
+7,Ivan Duque,2018-08-07,2022-08-07,Balance_primario_GNC_PIB,sin dato publico,-0.3,% PIB,Minhaciencia serie oficial,"2019 superavit 0,4% PIB; 2022 primario -0,3% PIB (CGR Cuadro 1-6)."
+7,Ivan Duque,2018-08-07,2022-08-07,Balance_total_GNC_PIB,-2.61,-5.3,% PIB,BM Central Govt netlending 2018-2022 + CGR,"2018=-2,61; 2019=-2,24; 2020=-8,52 (crack COVID); 2021=-7,65; 2022=-5,30. CGR 2022 GNC=-5,3% PIB."
+7,Ivan Duque,2018-08-07,2022-08-07,Deuda_publica_total_PIB,58.4,70.5,% PIB,CGR Cuadro 2-2 deuda SPNF 2018-2022 + GNC MFMP 2025,"SPNF 2018=58,4; 2019=57,3; 2020=74,1 (pico); 2021=73,6; 2022=70,5. Deuda neta GNC MFMP: 2019=48,4%; 2020=60,7%; 2021=60,0%; 2022=57,6%."
+7,Ivan Duque,2018-08-07,2022-08-07,Deuda_interna_PIB,34.8,37.0,% PIB,CGR Cuadro 2-2,"2018 int=34,8; 2019=34,7; 2020=42,3; 2021=40,0; 2022=37,0."
+7,Ivan Duque,2018-08-07,2022-08-07,Deuda_externa_PIB,23.6,33.6,% PIB,CGR Cuadro 2-2,"2018 ext=23,6; 2019=22,6; 2020=31,8; 2021=33,5; 2022=33,6."
+7,Ivan Duque,2018-08-07,2022-08-07,Servicio_deuda_intereses_PIB,3.2,3.9,% PIB,CGR Cuadro 1-6 (intereses GNC),"CGR: 2020=2,8% PIB; 2021=3,4%; 2022=4,3% (CGR/MFMP 2025); 2018~3,0% PIB (estimado)."
+7,Ivan Duque,2018-08-07,2022-08-07,Inversion_publica_PIB,2.6,2.0,% PIB,Minhaciencia Memoria 2018-2022 (estimacion),"Estimado 2018 ~ 2,6% PIB; 2022 ~ 2,0% PIB."
+7,Ivan Duque,2018-08-07,2022-08-07,Gasto_personal_PIB,2.3,2.3,% PIB,Minhaciencia Memoria 2018-2022,"Estimado 2018 ~ 2,3% PIB; 2022 ~ 2,3% PIB."
+7,Ivan Duque,2018-08-07,2022-08-07,Gasto_pensiones_PIB,3.7,3.6,% PIB,Minhaciencia Memoria 2018-2022,"Estimado 2018 ~ 3,7% PIB; 2022 ~ 3,6% PIB."
+7,Ivan Duque,2018-08-07,2022-08-07,SGP_transferencias_PIB,3.5,3.3,% PIB,DNP SGP distribuciones 2018-2022,"2018=3,5% PIB; 2022 ~ 3,3% PIB."
+7,Ivan Duque,2018-08-07,2022-08-07,Regalias_ingresos_PIB,1.0,2.0,% PIB,DNP SGR 2018-2022,"2018 ~ 1,0% PIB ingresos; 2020 caida COVID; 2022 ~ 2,0% PIB con recuperacion precio petroleo (AL 05/2019)."
+8,Gustavo Petro,2022-08-07,2026-08-07,Recaudo_tributario_total_PIB,15.26,15.28,% PIB,BM Central Govt tax % PIB 2022-2024 + DGPM MH cierre 2024,"2022=15,26; 2023=17,56 (pico); 2024=15,28. Preliminar 2025 PF: ~15,0% PIB. 2026=proy MFMP."
+8,Gustavo Petro,2022-08-07,2026-08-07,Recaudo_renta_PIB,6.7,6.9,% PIB,CARF 2025 + DGPM-MH cierre 2024,"2022 ~ 6,7% PIB; 2023=8,9% PIB (atipico por crecimiento 2022); 2024=6,9% PIB (caida 2pp por retenciones reducidas y fin de boom)."
+8,Gustavo Petro,2022-08-07,2026-08-07,Recaudo_IVA_PIB,6.0,5.8,% PIB,CARF 2025 + DGPM-MH cierre 2024,"2024: IVA interno 3,8% + externos 2,2% = 6,0% PIB; 2024 leve caida externos."
+8,Gustavo Petro,2022-08-07,2026-08-07,Recaudo_GMF_PIB,0.7,0.7,% PIB,DIAN 2024 + Ley 2277/2022,"GMF 4xmil 2022; reduccion gradual a 3xmil en 2023 y a 0 desde 2026 (Ley 2277/2022). 2024: ~0,6% PIB."
+8,Gustavo Petro,2022-08-07,2026-08-07,Recaudo_tributario_cop_billones,222.9,256.7,COP billones,DGPM-MH Memorias 2024 cierre,"2022 ~ 222,9 bn; 2023=263,2 bn; 2024=245,1 bn (cierre oficial DGPM-MH). Preliminar 2025: 257-260 bn."
+8,Gustavo Petro,2022-08-07,2026-08-07,Balance_primario_GNC_PIB,-0.3,-2.4,% PIB,CGR Cuadro 1-6 + DGPM-MH cierre 2024,"2022 primario=-1,0% PIB; 2023=-0,3%; 2024=-2,4% PIB. CGR 2024 GNC primario=-2,4% PIB."
+8,Gustavo Petro,2022-08-07,2026-08-07,Balance_total_GNC_PIB,-5.3,-6.7,% PIB,CGR Cuadro 1-6 + DGPM-MH,"2022=-5,3; 2023=-4,2; 2024=-6,7% PIB ($114,5 bn). 2025 PF=-6,7% PIB. 2026 MFMP=-6,2% PIB."
+8,Gustavo Petro,2022-08-07,2026-08-07,Deuda_publica_total_PIB,70.5,68.9,% PIB,CGR Cuadro 2-2 SPNF + MFMP deuda neta GNC,"SPNF 2022=70,5; 2023=64,4; 2024=68,9% PIB. Deuda neta GNC: 2022=57,6; 2023=53,4; 2024=59,3% PIB. GNC bruta 2024=$962,23 bn (56,4% PIB). 2025 PF=60,0% PIB; 2026 MFMP=58,0% PIB."
+8,Gustavo Petro,2022-08-07,2026-08-07,Deuda_interna_PIB,37.0,40.3,% PIB,CGR Cuadro 2-2,"SPNF 2022 int=37,0; 2023=37,8; 2024=40,3% PIB. GNC 2024 int=$687,53 bn=58,5% del total."
+8,Gustavo Petro,2022-08-07,2026-08-07,Deuda_externa_PIB,33.6,28.6,% PIB,CGR Cuadro 2-2,"SPNF 2022 ext=33,6; 2023=26,6; 2024=28,6% PIB. GNC 2024 ext=$360,21 bn=41,5% del total."
+8,Gustavo Petro,2022-08-07,2026-08-07,Servicio_deuda_intereses_PIB,4.3,4.4,% PIB,DGPM-MH 2024 cierre,"2022=4,3% PIB; 2023=3,9%; 2024=4,4% PIB (74,2 bn). Tasa implicita global 9,1% (MFMP 2025)."
+8,Gustavo Petro,2022-08-07,2026-08-07,Inversion_publica_PIB,2.0,2.0,% PIB,DGPM-MH 2024 cierre,"2022=2,0% PIB; 2023=2,6%; 2024=2,0% PIB. 2024 caida -0,7pp por recortes (Decreto 1522/2024)."
+8,Gustavo Petro,2022-08-07,2026-08-07,Gasto_personal_PIB,2.3,2.2,% PIB,DGPM-MH 2024 cierre,"2022=2,3% PIB; 2023=2,1%; 2024=2,2% PIB (Tabla 4 Memorias MH 2024-2025)."
+8,Gustavo Petro,2022-08-07,2026-08-07,Gasto_pensiones_PIB,3.6,3.6,% PIB,DGPM-MH 2024 cierre,"2022=3,6% PIB; 2023=3,3%; 2024=3,6% PIB (60,7 bn)."
+8,Gustavo Petro,2022-08-07,2026-08-07,SGP_transferencias_PIB,3.3,4.0,% PIB,DGPM-MH 2024 cierre (Tabla 4),"2022=3,3% PIB; 2023=3,3%; 2024=4,0% PIB (67,9 bn COP; 0,6pp aumento)."
+8,Gustavo Petro,2022-08-07,2026-08-07,Regalias_ingresos_PIB,2.0,1.7,% PIB,Memoria MH 2024-2025 (SGR bienio 2023-2024),"SGR 2023-2024=62,3 bn (3,4% PIB); bienio 2025-2026 (Ley 2441/2024) = 30,9 bn (1,7% PIB) sin incorporaciones."
