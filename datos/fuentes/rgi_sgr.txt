@@ -1,0 +1,380 @@
+
+===== PÁGINA 1 =====
+Documento de política
+Agosto 2020
+La reforma del sistema de distribución 
+de regalías colombiano: cambios clave 
+y contexto de crisis por el COVID-19
+Claudia Viale 
+Mensajes clave
+•	 En Colombia, las regalías generadas por la explotación de hidrocarburos y minería 
+se distribuyen a los gobiernos subnacionales (departamentos y municipios) para 
+la inversión en el desarrollo local. En la última década, estas regalías alcanzaron un 
+promedio de USD 2,700 millones por bienio desde el 2012.
+•	 Una propuesta de cambio en las reglas sobre la distribución de estos ingresos debe 
+ser presentada al Congreso en la presente legislatura que comenzó el 20 de julio, 
+aunque no se sabe la fecha exacta. Debería ser aprobada antes del final de agosto, en 
+medio de una pandemia global.
+•	 La propuesta de reforma busca superar las deficiencias del sistema de distribución 
+vigente, a saber, el gasto lento, ineficiente y de poco impacto, así como el alto riesgo 
+de corrupción en la toma de decisiones. También asigna un mayor porcentaje de 
+las regalías a los municipios y departamentos donde se realizan actividades de 
+extracción. 
+•	 Tras analizar los principales aspectos de la propuesta de reforma, concluimos que ella 
+se puede fortalecer repensando y aclarando los mecanismos de toma de decisiones, 
+para que incluyan de forma explícita espacios de participación y vigilancia ciudadana, 
+así como mecanismos para promover la diversificación económica. También debería 
+revisarse la reducción del porcentaje asignado al ahorro y a la estabilización, ya que 
+ha demostrado ser útil para enfrentar emergencias como la causada por el COVID-19.
+CONTEXTO
+Colombia, uno de los principales productores de petróleo y carbón de América 
+Latina, ha distribuido las regalías provenientes de los hidrocarburos y los minerales 
+a los departamentos y municipios por casi tres décadas1. Las reglas de esta 
+distribución están a punto de cambiar significativamente este año, en medio de la 
+pandemia global.
+Las regalías en Colombia registraron un promedio de USD 2,700 millones2 por bienio 
+(10 billones de pesos colombianos, aproximadamente) desde el 2012. Este es dinero, 
+disponible para la inversión subnacional que podría contribuir significativamente 
+al desarrollo local. Sin embargo, en estos años, esto no ha sucedido. Una reforma de 
+1	
+La Constitución Política de Colombia de 1991, en el artículo 332°, le da la prioridad en la distribución 
+de regalías a departamentos y municipios donde se lleva a cabo la extracción (artículo 360°), pero 
+también establece una compensación para departamentos y municipios no productores con la 
+creación de un Fondo nacional de Regalías (artículo 361°). 
+2	
+Monto calculado con base en la información del DNP (SICODIS, Sistema General de Regalías) sicodis.
+dnp.gov.co/logon.aspx?ReturnUrl=%2f
+
+===== PÁGINA 2 =====
+2
+La reforma del sistema de distribución de regalías colombiano: cambios clave y contexto de crisis por el COVID-19
+la distribución y del uso de las regalías podría cambiar esta situación. No obstante, 
+la propuesta que se discute hoy no aborda plenamente las deficiencias del sistema 
+vigente y suscita nuevas preocupaciones. Al haber aún espacio para discutir y 
+contribuir con la propuesta, pues ha existido apertura del Ejecutivo para escuchar 
+las sugerencias de sociedad civil y que ésta pueda aportar al contenido antes de ser 
+aprobado por el Congreso, este artículo busca hacer hincapié en algunas áreas críticas 
+donde se puede tomar medidas para una mejor gobernanza de estos ingresos.
+La propuesta de un nuevo sistema busca abordar las actuales deficiencias, como el 
+gasto ineficiente y lento (por ejemplo, en 2019, cerca de 12,000 millones de pesos 
+colombianos o USD 3.2 millones quedaban sin ejecutar del bienio anterior3), a la 
+vez que asigna un mayor porcentaje de las regalías a los departamentos y municipios 
+productores. Sin embargo, la propuesta sigue siendo poco clara respecto a los 
+mecanismos de rendición de cuentas y de participación ciudadana en torno a la 
+toma de decisiones y amenaza con debilitarlas, a la vez que elimina los mecanismos 
+de ahorro y estabilización vigentes que han demostrado ser útiles para financiar el 
+gasto de emergencia cuando estalló la crisis del COVID-19 en Colombia4.
+EL SISTEMA ACTUAL DE DISTRIBUCIÓN DE REGALÍAS EN COLOMBIA
+El sistema actual de distribución de regalías fue establecido en 2011, mediante una 
+reforma que buscaba distribuir estos recursos de manera más equitativa a todo el 
+país y no solo a los territorios productores que hasta entonces recibían el 80 % del 
+total de los ingresos por regalías. Creó mecanismos para el ahorro y la estabilización, 
+y priorizó la inversión en ciencia, tecnología e innovación. La distribución de este 
+sistema mantiene las transferencias directas a los departamentos productores (pero 
+reducidas a menos del 10 % del total de regalías), además de cinco fondos: el Fondo 
+de Desarrollo Regional, el Fondo de Compensación Regional, el Fondo de Ahorro y 
+Estabilización, el Fondo de Ciencia y Tecnología y el Fondo de Pensiones Territoriales. 
+Todos los departamentos y municipios del país pueden presentar proyectos de 
+inversión pública y, si son considerados viables, reciben recursos de estos fondos.
+La reforma de 2011 también incluyó la creación de órganos de toma de decisiones, 
+llamados OCAD (Órgano Colegiado de Administración y Decisión), encargados 
+de evaluar y aprobar los proyectos que recibirían financiamiento proveniente 
+de las regalías. Todos los municipios y departamentos tienen su propio OCAD, 
+conformado por un representante del gobierno nacional, el gobernador (presidente 
+del departamento) y alcaldes de la zona.
+En 2019, luego de menos de una década de implementación de esta reforma, se 
+aprobó una nueva reforma constitucional (Acto Legislativo No. 05) para permitir 
+cambios en el sistema de gestión de regalías a partir del 2020. Esto se dio como 
+resultado del consenso respecto a que el diseño del sistema vigente hasta entonces 
+había cortado demasiado las regalías para los territorios productores, estaba 
+conduciendo a un gasto lento y fragmentado con poco impacto y también, debido a 
+problemas de corrupción en la contratación5. 
+3	
+El pulso de las regalías. Recuperado de: www.dinero.com/edicion-impresa/editorial/articulo/cual-sera-
+el-debate-por-la-reforma-de-las-regalias/269797
+4	
+Aquí es importante distinguir entre el ahorro que se ha acumulado en el FAE y el FONPET por las reglas 
+de distribución y que sirve como mecanismo de estabilización y para atender pasivo pensional y, por 
+otro lado, el ahorro o el saldo generado por la baja ejecución de las regalías. Como mencionamos en el 
+texto, este saldo ha sido significativo y desde el bienio 2013-2014 ha representado más del 40 % de la 
+asignación de regalías del bienio.
+5	
+Contraloría General de la República (2017). Los OCAD y la gestión por proyectos. Evaluación del Sistema 
+General de Regalías. Recuperado de: www.uexternado.edu.co/wp-content/uploads/2018/04/ocad.pdf
+
+===== PÁGINA 3 =====
+3
+La reforma del sistema de distribución de regalías colombiano: cambios clave y contexto de crisis por el COVID-19
+Entonces, una vez que se concluya la consulta previa indígena, el Congreso debatirá 
+un proyecto de ley para reglamentar el nuevo sistema (propuesta de reforma 
+de 2020). Según el Acto Legislativo 05, el Congreso debería aprobar la reforma 
+hasta agosto del 2020 o pasaría a ser aprobada por el Ejecutivo, aunque con la 
+incertidumbre que genera que no se haya concluido la consulta previa indígena.
+Principales cambios incluidos en la propuesta de reforma de 2020
+Los objetivos de la propuesta de reforma de 2020 son: i) incrementar la eficiencia en 
+el gasto mediante “la reducción de la línea de tiempo y la eliminación de los cuellos 
+de botella en el ciclo de inversión” y ii) devolver una mayor participación de las 
+regalías a las zonas productoras. 
+Este cambio de objetivos viene con una fórmula de distribución completamente 
+diferente a la actual. El mayor cambio es el de la distribución directa de regalías 
+a los municipios productores, que sube de 11 % a 25 %. Las otras dos grandes 
+asignaciones van a los municipios pobres (15 %) y una asignación para la inversión a 
+nivel regional (34 %). 
+Para poder entender mejor el alcance de la propuesta actual debemos saber cuál 
+es la división geográfica de Colombia: posee 6 regiones (unidades territoriales 
+determinadas por sus características naturales),  cada una está conformada 
+por varios departamentos. Para lograr inversiones a nivel regional, al no existir 
+gobiernos regionales, las regalías serán transferidas a los departamentos, que 
+tendrán que gastar el dinero en proyectos con impacto de nivel regional.
+A partir de la aprobación de la nueva propuesta, tanto el Fondo de Ahorro y 
+Estabilización (una herramienta de estabilización macro fiscal) como el Fondo de 
+Pensiones Territoriales (diseñado para cubrir el pasivo pensional de los gobiernos 
+subnacionales en los próximos 30 años) se vuelven asignaciones marginales (menos 
+del 4,5 % para ambos). Previamente, estos dos fondos obtenían en conjunto  más 
+del 22 % de las regalías. Las asignaciones Ciencia, Tecnología e Innovación como el 
+Fondo para la Paz se mantienen sin cambios. 
+El otro cambio importante es que la nueva propuesta elimina los OCAD a nivel local 
+y departamental. Sin embargo, deja los seis OCAD regionales que decidirán cerca 
+del 34 % del uso de las regalías para la inversión a nivel regional. Por ello, aunque los 
+departamentos reciban las regalías para inversiones a nivel regional, las decisiones 
+sobre qué proyectos son viables y, por tanto, cuáles recibirán financiación, no 
+serán tomadas por los propios departamentos, sino por los OCAD regionales. Con 
+esta medida, se aseguraría que los proyectos desarrollados por los departamentos 
+tengan, efectivamente, un impacto a nivel regional.
+Estos cambios en la fórmula logran dos resultados aparentemente contradictorios: 
+incrementan el dinero transferido a los departamentos y a los municipios 
+productores sin quitar dinero a aquellos departamentos y municipios no 
+productores. Esto puede contentar a las autoridades, pero viene a expensas del 
+ahorro y las pensiones subnacionales, fondos que han demostrado ser útiles en la 
+crisis del COVID-19. Por ejemplo, al tener más claro que los  efectos de la pandemia 
+serían a mediano y largo plazo, en marzo de 2020, el gobierno colombiano creó el 
+Fondo de Mitigación de Emergencias (FOME)6 para el gasto en el sector salud, 
+6	
+Gobierno crea Fondo de Mitigación de Emergencias para apoyar al sector salud. (23 de marzo de 
+2020). Semana.com. Recuperado de: www.semana.com/economia/articulo/gobierno-crea-fondo-de-
+mitigacion-de-emergencias-para-apoyar-al-sector-salud/658635
+
+===== PÁGINA 4 =====
+4
+La reforma del sistema de distribución de regalías colombiano: cambios clave y contexto de crisis por el COVID-19
+y los fondos de ahorros y de pensiones subnacionales fueron una de las fuentes 
+principales para su financiamiento7.
+La propuesta de reforma también prioriza la inversión a nivel regional, lo cual 
+implica proyectos de mayor escala que pueden tener un mayor impacto en el 
+desarrollo subnacional. Como se mencionó antes, una de las debilidades del 
+sistema vigente es que el gasto de las regalías ha sido fragmentado y dispersado en 
+proyectos pequeños y de poco impacto, este es un problema común en los países 
+que distribuyen los ingresos provenientes de actividades extractivas a los gobiernos 
+subnacionales, como Perú8 y Bolivia9, y es un aspecto importante y relevante de la 
+reforma.
+Gobernanza de los ingresos en tiempos del COVID-19: evaluando la 
+propuesta de reforma
+Nuestra evaluación de la propuesta se basa en las investigaciones de NRGI sobre 
+buenas prácticas en la distribución de los ingresos y los objetivos de la reforma 
+misma. En otras palabras, ¿la propuesta de reforma es coherente con sus objetivos y 
+éstos concuerdan con las prácticas de buena gobernanza respecto a la distribución de 
+ingresos a los gobiernos subnacionales?
+Por otro lado, ninguno de estos debates se da en el vacío. Al contrario, se está 
+discutiendo la propuesta de reforma en medio de una pandemia global, que ha 
+causado una crisis sanitaria, económica y social en Colombia y el mundo. En esta 
+crisis se espera que los ingresos por regalías disminuyan significativamente tras 
+la caída de los precios del petróleo y los minerales. Y esto sucede en un momento 
+en el que las necesidades de gasto en todos los niveles de gobierno se están 
+incrementando; situación que crea desafíos específicos para el nuevo sistema de 
+regalías. 
+De manera específica, el contexto pone de relieve la necesidad de un gasto eficiente 
+y de impacto con un menor monto de ingresos totales disponibles, la necesidad 
+de flexibilidad para gastar las regalías en proyectos que estén relacionados con la 
+crisis de salud, así como la necesidad de mecanismos de ahorro y estabilización que 
+suavicen la caída de los ingresos si ella continúa. 
+Respecto a las recomendaciones para la buena gobernanza de las regalías de 
+NRGI (la lista completa figura en este estudio comparativo sobre la distribución de 
+ingresos10), algunas son relevantes para evaluar la propuesta de reforma. Primero, 
+los sistemas de distribución de ingresos deberían tener objetivos claros y alinear 
+el diseño del sistema a esos objetivos. La propuesta de reforma se ajusta a esta 
+recomendación, pues las nuevas fórmulas y la eliminación de los OCAD buscan 
+justamente responder a los objetivos de incrementar la eficiencia en el gasto y 
+devolver una mayor proporción de las regalías a las zonas productoras.
+7	
+La caja de ayudas por covid-19. (10 de abril de 2020). Semana.com. Recuperado de: www.semana.
+com/economia/articulo/la-caja-de-ayudas-por-covid-19/662416
+8	
+Morales, A. (2019). Análisis del uso del canon minero en inversiones de infraestructura 
+urbana en Arequipa. CIES. Recuperado de: www.cies.org.pe/sites/default/files/files/otros/
+economiaysociedad/32776583-analisis-del-uso-del-canon-minero-en-inversiones-de-
+infraestructura-urbana-en-arequipa.pdf
+9	
+Fundación Jubileo (2017). A 12 años del IDH: 66 % de gasto y 34 % de inversión. P.40. Recuperado de: 
+www.jubileobolivia.com/publicaciones/Revistas-Especializadas/a-12-anos-del-idh-66-de-gasto-y-34-
+de-inversion
+10	 Bauer, A. et al. (2016). Natural Resource Revenue Sharing. Natural Resource Governance Institute. 
+Recuperado de: www.resourcegovernance.org/sites/default/files/documents/nrgi_undp_resource-
+sharing_web_0.pdf
+
+===== PÁGINA 5 =====
+5
+La reforma del sistema de distribución de regalías colombiano: cambios clave y contexto de crisis por el COVID-19
+Una segunda recomendación señala que los sistemas de distribución deben 
+tener en cuenta las responsabilidades del gasto. Esto se vincula con el principio 
+general de las transferencias intergubernamentales por el cual las asignaciones de 
+ingresos a los gobiernos subnacionales deberían, idealmente, estar a la par de sus 
+responsabilidades de gasto. Sin embargo, muchos países optan por apartarse de 
+este principio y transfieren una porción de ingresos a las zonas productoras para 
+compensar las actividades extractivas. Este es el caso de Colombia, así como el de 
+Bolivia, Perú y Brasil. Como uno de los objetivos de la reforma es incrementar la 
+compensación a las zonas productoras, aunque no cumple el principio de paridad 
+entre asignación y responsabilidad, sí sigue su propio objetivo de retornar una 
+porción mayor de regalías a los departamentos productores. Además, Colombia 
+tiene otras transferencias subnacionales del presupuesto general, que se relacionan 
+con las responsabilidades de gasto de los gobiernos subnacionales. Las regalías, por 
+su parte, tienen otros propósitos específicos, como la reducción de la pobreza y el 
+desarrollo regional, que concuerdan con la asignación de porcentajes en la propuesta 
+de reforma.
+El incremento de los montos distribuidos a las zonas productoras es parte de una 
+tendencia en la región que busca canalizar más dinero a estas regiones bajo el 
+supuesto de que esto conducirá a una mayor aceptación o “licencia social” de las 
+actividades extractivas por parte de las poblaciones locales11.   
+En el Perú, por ejemplo, donde las transferencias subnacionales hacia los territorios 
+productores son altas, hay propuestas para asignar un porcentaje de los ingresos 
+mineros directamente a las comunidades. Este supuesto, sin embargo, no se sostiene 
+necesariamente, tal como lo evidenció el surgimiento de conflictos en Perú en las 
+zonas productoras que han recibido el monto más alto de ingresos de la minería y de 
+los hidrocarburos durante el periodo del auge de los commodities, y la persistente 
+renuencia de otras zonas a participar en proyectos extractivos, a pesar del potencial 
+flujo de ingresos.
+Dos preocupaciones críticas: la reducción en el ahorro y los mecanismos 
+poco claros respecto a la toma de decisiones y a la participación ciudadana
+Otra recomendación es que los sistemas de distribución deberían reducir a 
+volatilidad y suavizar el gasto fiscal y hacerlo predecible. También deberían hacer 
+que la distribución de ingresos sea transparente y que se formalice la supervisión 
+independiente. La actual propuesta de reforma no sigue estas dos recomendaciones.
+Como se mencionó anteriormente, la reforma reduce la distribución al fondo de 
+ahorros y estabilización, y la que va al fondo de pensiones subnacionales. Esto 
+restringe la posibilidad del sistema de suavizar el gasto, gastando lo ahorrado 
+cuando los ingresos caen y ahorrando cuando estos se elevan. Esta reducción es 
+especialmente preocupante en el presente contexto. La crisis ha dejado en claro que 
+tener recursos ahorrados y disponibles para estos acontecimientos catastróficos hace 
+una inmensa diferencia para un país y su posibilidad de una respuesta rápida. Los 
+fondos de ahorro y de pensiones subnacionales aportaron 14,800 millones de pesos 
+colombianos (cerca de USD 4,000 millones) al Fondo de Mitigación de Emergencias 
+11	 Duque propone acabar con OCAD y modificar las regalías. (13 de julio de 2018). ElHeraldo.co. 
+Recuperado de: www.elheraldo.co/politica/duque-propone-acabar-con-los-ocad-y-modificar-las-
+regalias-517888
+
+===== PÁGINA 6 =====
+6
+La reforma del sistema de distribución de regalías colombiano: cambios clave y contexto de crisis por el COVID-19
+de manera inmediata, a cero intereses y sin tener que pedir prestado externamente y 
+afectar su calificación crediticia12.
+Respecto a la asignación a las pensiones subnacionales, aunque este recorte tendrá 
+su impacto con el tiempo, afecta a un sector de la población que se ha vuelto aún más 
+vulnerable. Además, las necesidades de gasto de hoy podrían restringir los fondos 
+para cubrir las pensiones en el futuro.
+Respecto a la formalización de la supervisión independiente, preocupa la 
+eliminación de gran parte de los OCAD y la falta de claridad acerca de qué 
+mecanismos de participación y vigilancia ciudadana serán implementados en la 
+reforma. Es cierto que los OCAD han sido identificados como un cuello de botella 
+y como un espacio propenso a acuerdos “bajo la mesa”13, con un alto riesgo de 
+corrupción. Sin embargo, el proyecto de reforma no es claro respecto a los nuevos 
+mecanismos de decisión y rendición de cuentas que reemplazarán a los OCAD 
+locales y departamentales. Retornar a la simple toma de decisiones por parte 
+de la autoridad local no debería dejar de lado el ciclo del proyecto (formulación, 
+presentación, verificación, viabilidad y aprobación, ejecución y seguimiento y 
+evaluación) que tiene por objeto asegurar que los proyectos aprobados tengan 
+impacto social positivo y se reduzca el riesgo de corrupción. 
+En el sistema vigente, los Comités consultivos, asociados con los OCAD, brindan 
+oportunidad para la participación ciudadana. En la propuesta, estos comités 
+desaparecen. Aun si los anteriores mecanismos de participación eran ineficaces, 
+la ausencia de especificaciones acerca de los espacios de participación en el nuevo 
+sistema crea inquietud acerca de cómo se tomarán decisiones y de si los ciudadanos 
+podrán monitorearlas.
+Otra cuestión relevante es que los seis OCAD regionales ahora concentrarían el 
+poder decisorio respecto a los proyectos que benefician a varios departamentos. 
+Aunque la justificación es que serán priorizados los proyectos de mayor impacto, no 
+es claro cómo la toma de decisiones a un nivel regional permitirá una operación más 
+eficiente. El sistema propuesto también puede conducir a relaciones de clientelismo 
+con los diferentes departamentos y municipios en cada región, que querrán 
+beneficiarse de los proyectos financiados por esas regalías.
+12	 Patzy, F. y Dammert, J.L (2020). Colombia: evaluación inicial del impacto de la pandemia del coronavirus 
+en el sector extractivo y la gobernanza de recursos. Recuperado de: resourcegovernance.org/analysis-
+tools/publications/colombia-evaluacion-inicial-del-impacto-de-la-pandemia-de-coronavirus
+13	 En su tesis doctoral, Juan David Gutiérrez encontró que “decisiones clave sobre proyectos de inversión 
+se tomaban en sesiones informales antes de las reuniones de los OCAD. Entonces las reuniones de 
+los OCAD eran usualmente protocolares en vez de espacios de deliberación”. Ver: J.D.Gutiérrez (2018). 
+Oil and State Capture: The Subnational Links Between Oil Revenues and Armed Conflict in Colombia. 
+University of Oxford. Recuperado de: www.ora.ox.ac.uk/objects/uuid:5dd5aadb-86d0-4709-a950-
+2ea3084fec09
+
+===== PÁGINA 7 =====
+7
+La reforma del sistema de distribución de regalías colombiano: cambios clave y contexto de crisis por el COVID-19
+INVERSIÓN EN DIVERSIFICACIÓN Y FLEXIBILIDAD: DOS ELEMENTOS 
+EXCLUIDOS EN LA PROPUESTA
+Otro aspecto que la propuesta de reforma debería considerar es la priorización del 
+gasto en proyectos que producen un desarrollo sostenible e inclusivo. Una forma de 
+lograrlo es promoviendo la diversificación económica para reducir la dependencia 
+territorial respecto del petróleo y los minerales. El sistema de monitoreo y 
+evaluación del Sistema General de Regalías (SGR)14 muestra que solo el 3 % de los 
+recursos ha sido usado para fortalecer la capacidad productiva agrícola, pecuaria 
+y pesquera, mientras que el resto ha sido utilizado en transporte, construcción 
+de redes viales (43 %), educación (11 %), agua potable y saneamiento básico (8 
+%). Aunque estos gastos pueden contribuir al entorno necesario para promover 
+la diversificación, la falta de ella en las décadas pasadas sugiere que también es 
+necesaria la inversión productiva. 
+La crisis del COVID-19 ha puesto en evidencia la dependencia respecto del sector 
+extractivo como una fuente de ingresos fiscales y de crecimiento económico, y 
+cómo la caída en los precios y la producción puede causar una severa desaceleración 
+económica. Por ello, invertir en otros sectores económicos que pueden ser una 
+fuente sostenible de crecimiento económico y desarrollo para los territorios 
+colombianos también podría ser incluido en la reforma. Esto es especialmente 
+urgente para el caso de aquellos territorios productores de carbón, cuya demanda 
+se proyecta que caerá por la transición energética hacia energías más limpias en el 
+mediano plazo. Finalmente, y esto se relaciona directamente con el contexto de 
+crisis, los sistemas deberían incorporar un grado de flexibilidad o permitir pequeños 
+ajustes a la fórmula, por ejemplo, para condiciones económicas cambiantes, tales 
+como una crisis debido al impacto de una pandemia global. Esto no está incluido 
+en la propuesta de reforma, puesto que ella fue elaborada en 2019, antes de que 
+empezara la pandemia y en el acto legislativo se incluyeron porcentajes fijos, lo cual 
+no deja margen para cambios en ese sentido. 
+CONCLUSIONES
+La propuesta de reforma, aunque aborda algunas de las preocupaciones respecto al 
+sistema de regalías vigente y está alineada con los objetivos establecidos, deja fuera 
+elementos decisivos que podrían contribuir a una mejor gobernanza de los ingresos 
+extractivos en el país. 
+Concretamente, aborda la carga administrativa que conduce al gasto lento, 
+ineficiente y de poco impacto, a la vez que incrementa la limitada participación de 
+los departamentos y municipios productores en las regalías totales. Sin embargo, no 
+son claros los mecanismos de rendición de cuentas para reemplazar a los OCAD, ni 
+los espacios de participación ciudadana, y no se incluyen mecanismos que puedan 
+contribuir a la diversificación económica. Así, podría incrementarse el riesgo de 
+corrupción y las malas decisiones en el gasto, retornándose a los problemas que la 
+reforma de 2011 intentó superar, a la vez que dejaría al país sin ahorros de darse una 
+nueva crisis.
+14	 Departamento Nacional de Planeación (DNP). Sistema de Monitoreo Seguimiento, Control y 
+Evaluación. Dirección de Vigilancia de las Regalías. Informe IV Trimestre 2019. Recuperado de:  
+www.sgr.gov.co/LinkClick.aspx?fileticket=q3PUP-LQITA%3d&tabid=358
+
+===== PÁGINA 8 =====
+The Natural Resource Governance Institute, an independent, non-profit organization, helps people 
+to realize the benefits of their countries’ oil, gas and mineral wealth through applied research, and 
+innovative approaches to capacity development, technical advice and advocacy.  
+Learn more at www.resourcegovernance.org
+Por ello, basándonos en la investigación de NRGI sobre la distribución de los 
+ingresos a los gobiernos subnacionales, concluimos que la propuesta puede ser 
+fortalecida si se replantean y aclaran los mecanismos de toma de decisiones, 
+incluyendo explícitamente espacios para la participación y vigilancia ciudadana 
+tanto en la toma de decisiones como en la implementación de proyectos, así 
+como incluyendo orientaciones respecto a la priorización de la inversión para la 
+diversificación económica. 
+El contexto de crisis representa un desafío para la reforma, dado que, esencialmente, 
+las modificaciones sacrifican los ahorros y la estabilización para distribuir más 
+dinero directamente a los departamentos y municipios. En el contexto actual, la 
+prioridad por la emergencia y la crisis económica será la inversión en proyectos que 
+reactiven la economía y generen empleo. Sin embargo, el ahorro -por si sucede otra 
+crisis-, así como para la estabilización de estos ingresos volátiles, es importante 
+a mediano y largo plazo, y no debería dejarse de lado. Por ello, las lecciones de la 
+pandemia acerca de la necesidad de ahorro en contextos de crisis también piden una 
+revisión cuidadosa de este aspecto de la propuesta.
+ACERCA DEL AUTOR 
+Claudia Viale es senior officer de Natural Resource Governance Institute (NRGI)  
+en América Latina.

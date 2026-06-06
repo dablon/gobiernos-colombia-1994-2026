@@ -1,0 +1,1909 @@
+
+===== PÁGINA 1 =====
+Tendencia
+Económica
+INFORME MENSUAL DE FEDESARROLLO
+2665-6485 (En línea)
+256
+Editorial. El problema fiscal de Colombia
+Actualidad. Resultados del PIB en 2024
+
+===== PÁGINA 2 =====
+TENDENCIA ECONÓMICA
+256
+FECHA PUBLICACIÓN
+28 de febrero de 2025
+ISSN: 2665-6485 (En línea)
+EDITORES
+Luis Fernando Mejía
+Director Ejecutivo
+Sara Ramírez
+Directora de Análisis Macroeconómico
+y Sectorial
+OFICINA COMERCIAL
+Teléfono: 601 325 9777 Ext: 340
+comercial@fedesarrollo.org.co
+DISEÑO Y DIAGRAMACIÓN
+David Russi Corredor
+david.russi@gmail.com
+Calle 78 No. 9-91
+Bogotá, D.C. Colombia
+Tel.: 601 325 9777
+comercial@fedesarrollo.org.co
+Contenido
+1.	 Editorial: El problema fiscal de Colombia................ 3
+2.	 Actualidad: Resultados del PIB en 2024.............. 15
+3.	 Calendario Económico......................................... 24
+Tendencia Económica se hace 
+posible gracias al apoyo de:
+
+===== PÁGINA 3 =====
+3
+EDITORIAL
+Editorial: El problema fiscal de Colombia
+Por: Luis Fernando Mejía
+*Con la colaboración de Sara Ramírez y Alejandra González.
+Introducción
+El pasado 7 de febrero, el Gobierno publicó las cifras preliminares del cierre fiscal de 
+2024 y la actualización del plan financiero para 2025. Los resultados reflejan un deterio-
+ro estructural en las finanzas públicas que se consolida desde la pandemia. En 2024, los 
+ingresos del Gobierno nacional alcanzaron el 16,6% del PIB, 0,5 puntos porcentuales 
+por debajo de lo proyectado, mientras el gasto total ascendió al 23,4% del PIB, supe-
+rando en 0,6 puntos la meta del marco fiscal. Este desequilibrio elevó el déficit fiscal a 
+6,8% del PIB, cifra que supera el 5,6% previsto y se suma a un promedio de 6,2% del 
+PIB desde 2020. De acuerdo con nuestro análisis, el Gobierno incumplió la regla fiscal 
+en 2024 y enfrenta un alto riesgo de incumplimiento nuevamente en 2025. Asimismo, 
+advertimos sobre los desafíos para la sostenibilidad de la deuda pública, que aumentó 
+significativamente en 2024 y continuaría en ascenso durante 2025.
+En este documento Editorial se analizan los resultados del cierre fiscal de 2024, así 
+como del plan financiero presentado para 2025. Asimismo, se exploran las razones del 
+persistente desbalance fiscal desde la pandemia, que responde a dos factores estruc-
+turales. Primero, el gasto primario ha crecido de manera sostenida desde 2020 y se 
+mantendría en niveles elevados frente a su tendencia histórica prepandemia. Segundo, 
+desde 2023, las proyecciones de ingresos se han basado en un nivel de recaudo atípica-
+mente alto, lo que ha llevado a una sobreestimación persistente de los ingresos fiscales.
+El desbalance entre el aumento permanente del gasto y la sobreestimación de ingresos 
+explica que, incluso tras dos reformas tributarias, el déficit fiscal postpandemia supere el 
+6% del PIB. Esto refuerza la necesidad de avanzar en un ajuste estructural que reduzca 
+el gasto corriente a niveles sostenibles y amplíe la base gravable, enfocándose en com-
+batir la evasión y en evaluar mecanismos para integrar a sectores informales con capa-
+cidad contributiva al sistema tributario. Una consolidación fiscal creíble requerirá equi-
+
+===== PÁGINA 4 =====
+Tendencia Económica
+4
+librar estos esfuerzos, priorizando eficiencia en el gasto 
+y políticas que eviten sobrecargar a quienes ya cumplen 
+con sus obligaciones tributarias. Este enfoque no solo mi-
+tigaría riesgos para la deuda pública, sino que sentaría 
+las bases para recuperar la confianza de los mercados, 
+evitando que nuevos impuestos o ajustes desincentiven 
+la inversión o la formalización empresarial.
+Cierre fiscal 2024 y actualización del plan financiero 
+2025 
+En 2024, el déficit fiscal del Gobierno nacional alcanzó el 
+6,8% del PIB, un incremento de 2,5 puntos porcentuales 
+frente al 4,3% registrado en 2023 y 1,2 puntos por enci-
+ma de lo proyectado en el marco fiscal (5,6%). Este es el 
+tercer déficit fiscal más alto en 120 años, solo superado 
+por los niveles de 2020 (7,8%) y 2021 (7,0%). El deterio-
+ro se explica por una caída de 2,2 puntos en los ingresos 
+totales (del 18,8% al 16,6% del PIB), asociada princi-
+palmente al menor recaudo tributario, y un aumento de 
+0,3 puntos en el gasto total (del 23,1% al 23,4% del PIB) 
+(Tabla 1). La caída en el recaudo tributario se atribuye 
+especialmente al recaudo atípico en 2023, derivado de 
+una modificación de las tarifas de retención que aumentó 
+los anticipos de renta a personas jurídicas1. 
+El déficit primario, por su parte, se situó en 2,4% del 
+PIB, ampliándose 2,1 puntos porcentuales frente al 
+déficit primario de 2023 (0,3%) y superando en 1,5 
+puntos porcentuales la meta del marco fiscal (0,9%). 
+1	
+El Decreto 261 de 2023 modificó las tarifas de retención en la fuen-
+te y autorretención, y además aumentó el anticipo del impuesto de 
+renta para el año 2023. Esta medida respondió a la modificación en 
+la tarifa del impuesto de renta para personas jurídicas introducida 
+por la Ley 2277 de 2022, que no incluyó ajustes en las tarifas de 
+retención.
+Frente al escenario del marco fiscal, este desbalance se 
+dio como resultado de la combinación de menores in-
+gresos (-0,5 puntos porcentuales), mayor gasto primario 
+(+1,0 punto porcentual) y un margen fiscal reducido por 
+el ciclo económico y petrolero (-0,1 puntos porcentua-
+les), lo que generó una presión adicional de 1,6 puntos 
+porcentuales sobre el balance primario neto estructural. 
+El Gobierno justificó este mayor déficit a través del com-
+ponente de transacciones de única vez, principalmente 
+debido a una caída “inesperada” en el recaudo de $25,8 
+billones (1,5% del PIB). Sin embargo, la evolución ten-
+dencial de los ingresos por recaudo tributario después 
+de la pandemia sugiere que una parte sustancial de esta 
+caída no fue inesperada, por lo que el Gobierno habría 
+incumplido la regla fiscal en 2024.
+La actualización del plan financiero de 2025 revisó al alza 
+el déficit del Gobierno nacional, ubicándolo en 5,1% del 
+PIB, 0,4 puntos porcentuales por encima de la proyec-
+ción del presupuesto (4,7%). Este deterioro se atribuye a 
+una reducción de 0,9 puntos porcentuales en los ingre-
+sos totales, donde 0,7 puntos porcentuales corresponden 
+al aplazamiento de $12 billones tras la no aprobación de 
+la Ley de Financiamiento, y 0,3 puntos porcentuales a un 
+menor recaudo de la DIAN, compensado parcialmente 
+por 0,1 puntos de mayores recursos de capital. Asimis-
+mo, el gasto total se redujo en 0,5 puntos porcentuales, 
+explicado por un menor gasto primario (-0,7 puntos) 
+derivado del decreto de aplazamiento, aunque mitigado 
+por un incremento de 0,2 puntos en el pago de intereses 
+(Tabla 2).
+
+===== PÁGINA 5 =====
+Tendencia Económica
+5
+Tabla 1.
+Comparación del escenario fiscal del Gobierno nacional (2024)
+$ MM
+% del PIB
+Concepto
+2023 (1)
+MFMP (2)
+Cierre 
+preliminar 
+(3)
+(3) - (2)
+(3) - (1)
+2023 (1)
+MFMP (2)
+Cierre 
+preliminar 
+(3)
+(3) - (2)
+(3) - (1)
+Ingreso total
+296.365
+288.737
+279.228
+-9.509
+-17.137
+18,8
+17,1
+16,6
+-0,5
+-2,2
+ Tributarios
+263.190
+258.602
+244.602
+-13.910
+-18.498
+16,7
+15,4
+14,5
+-0,9
+-2,2
+ No tributarios
+1.192
+1.205
+1.885
+680
+688
+0,1
+0,1
+0,1
+0,0
+0,0
+ Fondos especiales
+4.405
+4.123
+4.801
+678
+396
+0,3
+0,2
+0,3
+0,1
+0,0
+ Recursos de capital
+27.574
+24.807
+27.850
+3.043
+277
+1,8
+1,5
+1,7
+0,2
+-0,1
+Gasto total
+363.282
+383.664
+394.651
+10.986
+31.369
+23,1
+22,8
+23,4
+0,6
+0,3
+ Intereses
+61.466
+79.770
+74.445
+-5.325
+12.977
+3,8
+4,7
+4,4
+-0,3
+0,5
+ Gasto primario
+301.879
+303.895
+320.353
+16.458
+18.474
+19,2
+18,0
+19,0
+1,0
+-0,2
+ Préstamo neto
+-65
+0
+-147
+-147
+-82
+0,0
+0,0
+0,0
+0,0
+0,0
+Balance primario 
+-5.449
+-15.158
+-40.977
+-25.820
+-35.529
+-0,3
+-0,9
+-2,4
+-1,5
+-2,1
+Balance total
+-66.917
+-94.927
+-115.422
+-20.495
+-48.506
+-4,3
+-5,6
+-6,8
+-1,2
+-2,6
+Fuente: Fedesarrollo con base en datos del Ministerio de Hacienda. 
+Tabla 2.
+Comparación del escenario fiscal del Gobierno nacional (2025)
+$ MM
+% del PIB
+Concepto
+PGN (1)
+PF (2)
+(2) - (1)
+PGN (1)
+PF (2)
+(2) - (1)
+Ingreso total
+343.161
+327.948
+-15.214
+19,3
+18,4
+-0,9
+ Tributarios
+316.505
+299.888
+-16.617
+17,8
+16,8
+-1,0
+ Otros
+26.656
+28.060
+1.404
+1,5
+1,6
+0,1
+Gasto total
+427.389
+418.749
+-8.640
+24,0
+23,5
+-0,5
+ Intereses
+83.013
+86.373
+3.360
+4,7
+4,8
+0,2
+ Gasto primario
+344.376
+332.376
+-12.000
+19,3
+18,6
+-0,7
+Balance primario 
+-1.215
+-4.428
+-3.213
+-0,1
+-0,2
+-0,2
+Balance total
+-84.227
+-90.801
+-6.574
+-4,7
+-5,1
+-0,4
+Fuente: Fedesarrollo con base en datos del Ministerio de Hacienda.
+
+===== PÁGINA 6 =====
+Tendencia Económica
+6
+El Gobierno estima cumplir la regla fiscal en 2025 con 
+un balance primario neto estructural de 0,5% del PIB2. A 
+esta meta se suman los ajustes por el ciclo petrolero, que 
+amplía el espacio fiscal en 0,1 puntos como resultado 
+de unos ingresos petroleros por debajo de su componen-
+te estructural, y por el ciclo económico, que agrega 0,1 
+puntos adicionales, debido a la brecha negativa del pro-
+ducto3. Estas variables, sumadas al aumento del déficit 
+primario y del pago de intereses (0,1 puntos porcentuales 
+cada uno), justifican, de acuerdo con el Gobierno, la am-
+pliación del déficit permitido por la regla fiscal de 4,7% a 
+5,1% del PIB para 2025 (Tabla 3 y Gráfico 1).
+En 2024, la deuda neta del Gobierno nacional aumentó 
+6,2 puntos porcentuales, pasando del 53,8% al 60% del 
+PIB (Gráfico 2). Tres factores explican este incremento: 
+el efecto de la tasa de cambio (3 puntos porcentuales), el 
+resultado del balance primario (2,4 puntos porcentuales) 
+y el costo financiero, medido como la diferencia entre las 
+tasas de interés y el crecimiento económico (1,3 puntos 
+porcentuales), mitigado parcialmente por otros factores 
+en 0,6 puntos porcentuales (Gráfico 3). Para 2025, se 
+proyecta que la deuda neta siga aumentando hasta al-
+canzar el 60,6% del PIB, nivel comparable al registrado 
+durante la pandemia, y significativamente superior al an-
+cla de deuda establecido por la regla fiscal (55%).
+2	
+Esta meta del Balance Primario Neto Estructural (BPNE) se da en 
+el marco del régimen de transición introducido en la Ley 2155 de 
+2021.
+3	
+Los cálculos de Fedesarrollo revelan diferencias en la estimación 
+del ciclo económico y petrolero de la regla fiscal. Con base en los 
+supuestos sobre el crecimiento del PIB potencial y real, así como 
+la estimación de los precios del petróleo y el ingreso petrolero para 
+2025, se proyecta un ciclo económico de -0,1% del PIB y un ciclo 
+petrolero de -0,3% del PIB, cifras que difieren de las estimaciones 
+del Gobierno. Bajo estos parámetros, el déficit fiscal permitido para 
+2025 sería del 4,7% del PIB, en línea con la estimación del Presu-
+puesto General de la Nación 2025.
+Tabla 3.
+Descomposición del balance consistente con el 
+cumplimiento de la meta de Regla Fiscal 
+(% del PIB)
+Concepto
+MFMP 
+2024
+Cierre 
+fiscal 
+2024
+PGN 
+2025
+PF 
+2025
+Balance primario neto 
+estructural (BPNE)
+-0,2
+-0,2
+0,5
+0,5
+Ciclo económico
+-0,2
+-0,1
+-0,1
+-0,2
+Ciclo petrolero
+-0,2
+-0,1
+-0,5
+-0,6
+Transacciones de única vez
+-0,3
+-1,9
+0,0
+0,0
+Rendimientos
+0,0
+0,0
+0,0
+0,0
+Balance primario
+-0,9
+-2,4
+-0,1
+-0,2
+Intereses
+-4,7
+-4,4
+-4,7
+-4,8
+Balance total permitido
+-5,6
+-6,8
+-4,7
+-5,1
+Gráfico 1.
+Cambios entre el déficit permitido observado y proyección 
+del marco fiscal
+(% del PIB)
+8,1
+4,3
+5,6
+4,7
+5,3
+4,3
+6,8
+5,1
+2022
+2023
+2024
+2025*
+Marco ﬁscal
+Observado
+Fuente: Fedesarrollo con base en datos del Ministerio de Hacienda. *Corresponde 
+al cambio entre el escenario del presupuesto y la actualización del plan financiero 
+2025.
+
+===== PÁGINA 7 =====
+Tendencia Económica
+7
+Evolución del gasto primario tras la pandemia
+Los resultados fiscales de 2024 y las proyecciones para 
+2025, que superan el déficit promedio de 3,6% del PIB 
+registrado entre 2000 y 2019, reflejan un deterioro estruc-
+tural en las cuentas fiscales. Desde la pandemia en 2020 
+y hasta 2025, el déficit fiscal anual promediaría 6% del 
+PIB, a pesar de dos reformas tributarias que incrementa-
+ron sustancialmente la carga impositiva sobre empresas 
+y personas formales. Este desbalance responde, por un 
+lado, a un aumento permanente del gasto primario desde 
+la pandemia, que no ha retornado a niveles compatibles 
+con la tendencia previa. Por otro lado, las proyecciones 
+de ingresos han sobreestimado la capacidad de recaudo, 
+lo que ha obligado a importantes ajustes en el gasto.
+El Gráfico 4 compara el gasto primario observado entre 
+2015 y 2025 con una proyección basada en la tenden-
+cia prepandemia. Mientras el gasto real se desvió per-
+Gráfico 2.
+Deuda neta (2018-2025)
+(% del PIB)
+Gráfico 3.
+Descomposición de la deuda neta (2023-2024)
+(% del PIB)
+46,3
+48,4
+60,7
+60,0
+57,7
+53,8
+60,0
+60,6
+Ancla:55 
+Límite:71 
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+2025
+60,0
+3,0
+2,4
+1,3
+-0,6
+Cierre 2023
+Otros
+Cierre 2024
+Costo
+ﬁnanciero
+Balance 
+primario
+Tasa de 
+cambio
+53,8
+Fuente: Fedesarrollo con base en datos del Ministerio de Hacienda.
+Gráfico 4.
+Gasto primario del Gobierno nacional
+(billones de pesos corrientes)
+261
+332
+100
+150
+200
+250
+300
+350
+$71
+billones
+(4% 
+del PIB)
+Proyectado PIB tendencial
+Observado
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+2025
+Pandemia
+2020
+Fuente: Fedesarrollo con base en datos del Ministerio de Hacienda. 
+
+===== PÁGINA 8 =====
+Tendencia Económica
+8
+manentemente de la trayectoria esperada tras 2020, la 
+proyección refleja lo que habría ocurrido si el gasto hu-
+biera crecido al ritmo promedio de la economía antes de 
+la pandemia. Entre 2015 y 2019, el gasto primario pro-
+medió 16,0% del PIB, aumentó a 20,2% durante el cho-
+que de la pandemia y se estabilizó en 18,8% entre 2021 
+y 2025. Si bien en 2020 era justificable un crecimiento 
+excepcional del gasto primario para mitigar los efectos 
+de la crisis, el problema radica en que este gasto nunca 
+regresó a los niveles esperados con base en la tendencia 
+histórica observada antes de la pandemia.
+Para 2025, el plan financiero proyecta un gasto primario 
+de $332,4 billones (18,6% del PIB), superior en $71,4 
+Tabla 4.
+Diferencia entre el escenario actual y tendencial del gasto primario en 2025*
+$ Billones
+% PIB
+Año 2025
+Escenario 
+actual
+Escenario 
+tendencial
+Diferencia
+Escenario 
+actual
+Escenario 
+tendencial
+Diferencia
+Gasto primario observado
+332,3
+260,9
+71,4
+18,5
+14,5
+4,0
+Funcionamiento
+300,2
+213,2
+87,0
+16,7
+11,9
+4,8
+  Gastos de personal
+41,5
+36,3
+5,2
+2,3
+2,0
+0,3
+  Transferencias
+245,3
+164,2
+81,1
+13,7
+9,1
+4,5
+     Salud
+44,9
+17,4
+27,6
+2,5
+1,0
+1,5
+     SGP
+73,7
+58,4
+15,3
+4,1
+3,3
+0,8
+     Pensiones
+69,2
+55,3
+13,9
+3,8
+3,1
+0,8
+     FEPC
+11,1
+0,0
+10,7
+0,6
+0,0
+0,6
+     Bonos pensionales PND
+5,4
+0,0
+5,4
+0,3
+0,0
+0,3
+     Deuda entidades
+5,4
+1,6
+3,8
+0,3
+0,1
+0,2
+     Universidades
+5,6
+4,7
+0,9
+0,3
+0,3
+0,0
+     Subsidios eléctricos
+4,8
+3,2
+1,6
+0,3
+0,2
+0,1
+     Contribuciones nomina
+9,4
+7,9
+1,5
+0,5
+0,4
+0,1
+     SENA, ICBF
+10,6
+9,5
+1,1
+0,6
+0,5
+0,1
+     Otras transferencias
+5,7
+6,3
+-0,7
+0,3
+0,4
+-0,1
+     Adquisición de bienes y servicios
+13,3
+12,6
+0,7
+0,7
+0,7
+0,0
+Inversión
+32,1
+47,7
+-15,6
+1,8
+2,7
+-0,9
+Fuente: Fedesarrollo con base en datos del Ministerio de Hacienda. *El ejercicio toma como base el año 2015 e imputa los crecimientos observados del PIB nominal en 
+cada año. Para el período 2020-2022, se asume un crecimiento promedio del 6,8%, calculado a partir del PIB nominal observado entre 2015 y 2019.
+billones (4,0% del PIB) frente al escenario contrafactual 
+que mantendría el crecimiento tendencial prepandemia 
+($261 billones). Este aumento se concentra en el gasto 
+en funcionamiento, que representa 4,8% del PIB, com-
+pensado parcialmente por una menor inversión pública 
+equivalente a 0,9% del PIB frente a la tendencia (Tabla 
+4). En particular, dentro del gasto en funcionamiento, el 
+95% del aumento en transferencias ($77 billones o 4,3% 
+del PIB) se concentra en seis rubros clave: salud, Siste-
+ma General de Participaciones (SGP), pensiones, Fondo 
+de Estabilización de Precios de los Combustibles (FEPC), 
+bonos pensionales y deuda de entidades públicas. Vea-
+mos los detalles a continuación.
+
+===== PÁGINA 9 =====
+Tendencia Económica
+9
+Salud. Las transferencias al sistema de salud represen-
+tan $27,6 billones (1,5% del PIB) del aumento perma-
+nente del gasto primario. Las principales presiones en el 
+componente de aseguramiento en salud provienen del 
+incremento de la Unidad de Pago por Capitación (UPC). 
+Además, las tensiones en el gasto están relacionadas con 
+la inclusión de nuevas tecnologías en el Plan de Benefi-
+cios en Salud y con la implementación de la Ley Estatuta-
+ria en Salud de 20154, la cual ha generado mayores com-
+promisos financieros para garantizar el acceso universal 
+a los servicios de salud (Gráfico 5).
+SGP. Las transferencias al Sistema General de Participa-
+ciones (SGP) suman $15,3 billones (0,8% del PIB) del 
+aumento del gasto primario frente al gasto tendencial. 
+Esto se debe a que los recursos destinados al SGP están 
+vinculados al crecimiento de los ingresos corrientes del 
+Gobierno nacional durante los últimos cuatro años, lo que 
+genera presiones constantes sobre la dinámica del gasto. 
+Así, el aumento en el recaudo tributario, impulsado por 
+las reformas tributarias de 2021 y 2022, dio lugar a un in-
+cremento de los ingresos tributarios del Gobierno nacio-
+nal a partir de 2023, lo que generó presiones adicionales 
+en los compromisos constitucionales de transferencias 
+de la nación a las entidades territoriales (Gráfico 6)5.
+4	
+La Ley 1751 de 2015 aumentó el gasto público al garantizar el ac-
+ceso universal a la salud, lo que impulsó la demanda de servicios, 
+medicamentos y tecnologías. Además, obliga al Estado a cubrir los 
+recobros, es decir, los pagos a las EPS por tratamientos no incluidos 
+en el plan de beneficios, pero ordenados judicialmente.
+5	
+El Comité Autónomo de la Regla Fiscal (Carf) estima que por cada 
+peso que se recaude por la reforma tributaria de 2022, se deben 
+destinar al Sistema General de Participaciones 0,07 pesos en 2024, 
+0,16 en 2025, 0,26 en 2026 y 0,38 pesos de 2027 en adelante.
+Pensiones. Las transferencias al sistema pensional re-
+presentan $13,9 billones (0,8% del PIB) del impacto per-
+manente sobre el gasto. Como se observa en el Gráfico 7, 
+en 2022 la presión fiscal se alivió temporalmente como 
+resultado de la mayor disponibilidad de recursos en Col-
+pensiones y de los traslados desde el Régimen de Ahorro 
+Individual con Solidaridad (RAIS) al Régimen de Prima 
+Media (RPM). Sin embargo, esta tendencia se revirtió 
+en 2023 por el acelerado aumento del salario mínimo, 
+que elevó el umbral mínimo de las mesadas pensionales. 
+Adicionalmente, el crecimiento sostenido de los trasla-
+dos desde el RAIS en la última década ha incrementado 
+el pago de pensiones, intensificando la presión sobre el 
+gasto público.
+FEPC. El Fondo de Estabilización de Precios de los Com-
+bustibles (FEPC) es una presión adicional en el gasto 
+de $10,7 billones (0,6% del PIB) para 2025. Aunque 
+en este año la presión del gasto disminuiría en 0,6 pun-
+tos porcentuales respecto a 2024, pasando de $20,5 a 
+$10,7 billones, desde 2021 este componente ha genera-
+do mayores tensiones debido al incremento del déficit del 
+fondo. Este déficit acumuló cerca de $80 billones entre 
+2021 y 2025, alcanzando un máximo de $26,3 billones 
+en 2023, en contraste con el balance neutro observado 
+antes de la pandemia (Gráfico 8).
+
+===== PÁGINA 10 =====
+Tendencia Económica
+10
+Gráfico 5.
+Gasto del GNC en salud
+(Billones de pesos corrientes)
+Gráfico 6.
+Gasto del GNC en SGP
+(Billones de pesos corrientes)
+44,9
+17,4
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+2025*
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+Gasto observado
+Gasto tendencial
+$27,6
+billones
+(1,5% 
+del PIB)
+73,7
+58,4
+0
+10
+20
+30
+40
+50
+60
+70
+80
+Gasto observado
+Gasto tendencial
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+2025*
+$15,3
+billones
+(0,8% 
+del PIB)
+Gráfico 7.
+Gasto del GNC en pensiones
+(Billones de pesos corrientes)
+Gráfico 8.
+Gasto del GNC en FEPC
+(Billones de pesos corrientes)
+69,2
+55,3
+0
+10
+20
+30
+40
+50
+60
+70
+80
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+2025*
+Gasto observado
+Gasto tendencial
+$13,9
+billones
+(0,8% 
+del PIB)
+10,7
+Gasto observado
+Gasto tendencial
+-10
+-5
+0
+5
+10
+15
+20
+25
+30
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+2025*
+$10,7
+billones
+(0,6% 
+del PIB)
+Fuente: Fedesarrollo con base en datos del Ministerio de Hacienda.
+
+===== PÁGINA 11 =====
+Tendencia Económica
+11
+Otros. Otras transferencias, como los bonos pensionales 
+y la deuda de entidades, contribuyeron en 0,5 puntos 
+porcentuales al aumento estructural del gasto primario 
+en 2025, lo que equivale a $9,2 billones. Los bonos pen-
+sionales garantizan la continuidad de los derechos de 
+afiliados que cotizaron en el Régimen de Prima Media 
+(RPM) antes de trasladarse al Régimen de Ahorro Indi-
+vidual con Solidaridad (RAIS), y se redimen al cumplir la 
+edad de pensión, sumándose al capital acumulado en 
+la cuenta individual. Su incremento en los últimos años 
+responde al envejecimiento acelerado de la población y 
+al creciente número de pensionados. Según la Super-
+intendencia Financiera, en 2024 los pensionados en 
+Colpensiones alcanzaron 1,738 millones, con un creci-
+miento promedio del 5% anual desde 2022, por encima 
+del 3,3% de 2015-2019. Además, el DANE proyecta un 
+aumento del 1,2% en la población en edad de jubilación 
+en 2025, lo que seguiría generando presiones de gasto 
+hacia adelante.
+Respecto a la deuda de entidades, estas pueden recu-
+rrir a créditos de corto plazo para cubrir necesidades 
+financieras inmediatas, incluyendo los aportes al Fondo 
+de Contingencias de las Entidades Estatales (Foncontin). 
+En este sentido, las transferencias del Gobierno nacional 
+al fondo han aumentado debido a la creciente estructu-
+ración de proyectos de concesión, el incremento en el 
+número de concesiones otorgadas y la ampliación de los 
+riesgos cubiertos por el Foncontin. Según el marco fiscal 
+de 2023, aunque la normalización del precio de los pea-
+jes ayudaría a reducir las presiones sobre el fondo, en los 
+años siguientes persistirán las contingencias asociadas 
+a las garantías de tráfico de proyectos bajo el esquema 
+de Asociaciones Público-Privadas (APP), lo que gene-
+raría una salida neta de recursos del fondo para cubrir 
+estas obligaciones.
+Inversión. A diferencia de los rubros asociados al funcio-
+namiento, el gasto en inversión en 2025 se situaría 0,9% 
+del PIB por debajo de su nivel tendencial. Si se hubiera 
+seguido la trayectoria de crecimiento histórica, la inver-
+sión sería del 2,7% del PIB en 2025, un nivel similar al 
+registrado en 2022 y 2023. Esto indica que las presiones 
+derivadas de otros compromisos del Gobierno han redu-
+cido el espacio disponible para la inversión, a pesar de 
+los niveles significativamente altos de gasto público.
+Evolución del recaudo tributario
+El Gráfico 9 muestra la evolución del recaudo tributario 
+entre 2015 y 2024. En el gráfico se incluyen tres referen-
+cias: la línea sólida representa el recaudo observado, la 
+línea punteada muestra la proyección basada en el cre-
+cimiento económico, y la línea de rayas refleja la meta 
+del marco fiscal del Gobierno. En general, se ve una ali-
+neación importante entre la proyección del Gobierno, la 
+estimación basada en el crecimiento y el dato observado, 
+hasta 2022. Sin embargo, desde 2023, la proyección del 
+Gobierno y la proyección asociada al crecimiento econó-
+mico se separan de forma permanente. 
+Para 2023, el Gobierno estableció una meta de ingresos 
+tributarios en el marco fiscal de $274,2 billones (17,4% 
+del PIB). Esta proyección representaba un incremento 
+de 29,4% ($62,2 billones) respecto al recaudo de 2022, 
+que fue de $211,9 billones (14,4% del PIB), marcando el 
+aumento nominal más alto de los últimos años. No obs-
+tante, el recaudo efectivo en 2023 se ubicó en $263,2 
+billones (16,7% del PIB), quedando $35,7 billones por 
+encima la estimación derivada del crecimiento tenden-
+cial ($227,5 billones), pero $11 billones por debajo de 
+la meta del marco fiscal. Aun así, debido a la entrada en 
+vigencia de la reforma tributaria de 2022, y el anticipo 
+de retenciones y autorretenciones de personas jurídicas 
+
+===== PÁGINA 12 =====
+Tendencia Económica
+12
+(1,0% del PIB), el incremento en el recaudo frente a 
+2022 fue notable, con una diferencia de $51,2 billones 
+(2,3% del PIB)6, consolidando un nivel de ingresos sin 
+precedentes y estableciendo una base de comparación 
+alta para la proyección de recaudo de los próximos años. 
+Gráfico 9.
+Ingresos tributarios del Gobierno nacional
+(Billones de pesos corrientes)
+260
+245
+259
+299
+100
+150
+200
+250
+300
+350
+2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+Proyectado PIB
+Observado
+Meta Marco Fiscal
+Fuente: Elaboración propia con base en datos del Ministerio de Hacienda.
+6	
+El aumento en los ingresos tributarios en 2023 frente a 2022 de 2,3 
+pps se explicó por: i) la implementación de la Ley 2277 de 2022 
+y la modificación del decreto de retenciones y autorretenciones de 
+personas jurídicas, en línea con dicha ley, lo que generó un incre-
+mento de (+1,0 pp); ii) la Ley 2155 de 2021, que elevó el impues-
+to de renta empresarial y estableció una sobretasa para el sector 
+financiero (+0,5 pp); iii) mayores ingresos del impuesto de renta 
+debido a los altos precios de materias primas y la recuperación 
+económica en 2022 (+0,5 pp); iv) un mayor recaudo por gestión de 
+la DIAN (+0,4 pp); y v) otros factores (+0,6 pp). Sin embargo, esto 
+fue parcialmente contrarrestado por la caída del recaudo externo 
+(-0,7 pp), debido a la reducción de importaciones producto de la 
+reducción en la demanda agregada.
+El Gobierno continuó proyectando el recaudo tributario 
+de 2024 y 2025 sobre una base inflada, sin considerar el 
+ajuste en la dinámica económica. En el presupuesto de 
+2024, se estimó un crecimiento anual del recaudo tribu-
+tario de 19,7%, lo que llevaría el recaudo a $314,9 billo-
+nes (18,7% del PIB). Sin embargo, debido al desajuste 
+entre las proyecciones y la capacidad real de recaudo de 
+la economía, meses después, el plan financiero redujo la 
+estimación a $290,3 billones. Posteriormente, en el mar-
+co fiscal, la meta se ajustó aún más a la baja en $31,7 
+billones, hasta $258,6 billones. Al cierre del año, el re-
+caudo efectivo fue de $244,6 billones, una cifra alineada 
+con la tendencia histórica previa a la pandemia ($244 
+billones), pero significativamente inferior a las proyeccio-
+nes oficiales: $46 billones por debajo de la meta del plan 
+financiero y $14 billones por debajo de la meta ajustada 
+en el marco fiscal.
+En esta misma línea, la actualización del plan financiero 
+para 2025 establece una meta de recaudo tributario de 
+$299,8 billones, cifra que supera en $39 billones la esti-
+mación consistente con el crecimiento esperado del PIB 
+nominal ($261 billones). Sin embargo, nuestros cálcu-
+los sugieren un faltante de $28 billones. Por un lado, las 
+reformas tributarias de 2021 y 2022 habrían generado 
+un aumento permanente en el recaudo cercano a $18 
+billones (1% del PIB), incremento que no se evidenció 
+en 2024 debido a los anticipos de renta realizados en 
+2023. Como resultado, la sobreestimación de ingresos en 
+el plan financiero sería del orden de $21 billones. Por otro 
+lado, Fedesarrollo proyecta que los aportes de los compo-
+nentes cíclico y petrolero al balance fiscal superarían en 
+0,1% y 0,3% del PIB, respectivamente, las estimaciones 
+oficiales, lo cual reduciría el déficit fiscal permitido en 0,4 
+puntos porcentuales, desde -5,1% del PIB (según el Go-
+bierno) hasta -4,7% del PIB. Esta diferencia representa 
+
+===== PÁGINA 13 =====
+Tendencia Económica
+13
+cerca de $7 billones, con lo cual el ajuste fiscal requerido 
+para cerrar la brecha ascendería a $28 billones.
+Mensajes finales: retos en 2025 y hacia adelante
+Desde la pandemia, Colombia ha experimentado un de-
+terioro estructural en su balance fiscal, impulsado por un 
+aumento permanente del gasto primario. Para 2025, este 
+gasto será un 4,0% del PIB superior al escenario tenden-
+cial, mientras que los ingresos tributarios solo superarían 
+dicho escenario en 1,0% del PIB, según las estimaciones 
+de Fedesarrollo. Además, las proyecciones recientes de 
+recaudo se han basado en supuestos optimistas, lo que 
+ha llevado a ajustes en el presupuesto de 2024 y exigirá 
+un recorte adicional de al menos $28 billones en 2025 
+para cumplir con la regla fiscal.
+Según los anuncios más recientes del Gobierno, en 2024 
+se cumplió la regla fiscal bajo el argumento de que la 
+caída en los ingresos, cercana al 1,5% del PIB, fue tran-
+sitoria y, por lo tanto, debía permitir mayor espacio de 
+gasto en el cálculo del balance estructural. Sin embargo, 
+la disminución de los ingresos tributarios en 2024 no fue 
+completamente transitoria. Las proyecciones oficiales de 
+recaudo para los años recientes se han calculado con 
+base en el nivel de ingresos de 2023, un año atípicamen-
+te alto. En este contexto, Fedesarrollo considera que el 
+Gobierno no cumplió con la regla fiscal en 2024 y que, 
+sin un recorte de al menos $28 billones en el gasto, tam-
+poco lo hará en 2025.
+A partir de 2026, será crucial reconocer la menor base 
+de recaudo y ajustar las proyecciones de gasto a nive-
+les compatibles con esta nueva realidad fiscal. Para ello, 
+será necesario adoptar medidas de ajuste del gasto y 
+mejorar la eficiencia en su ejecución. Asimismo, se de-
+berá retomar el debate sobre la ampliación de las bases 
+gravables en la tributación de las personas y fortalecer la 
+administración tributaria para combatir de manera efecti-
+va la evasión. La estrategia de incrementar la carga impo-
+sitiva sobre quienes ya contribuyen parece haber llegado 
+a su límite. En este escenario, se requiere replantear la 
+sostenibilidad fiscal con medidas estructurales, recono-
+ciendo que el nivel actual de gasto no es viable en el 
+mediano plazo.
+
+===== PÁGINA 14 =====
+Tendencia Económica
+14
+Referencias
+Ministerio de Hacienda y Crédito Público. (2024a). Actualización plan financiero 2025. 
+Ministerio de Hacienda y Crédito Público. (2024a). Marco fiscal de mediano plazo 2024. 
+Mejía, L. F. (2025, febrero 07). ¿Por qué Colombia tiene un problema fiscal? El Tiempo. Recuperado de: https://www.eltiempo.
+com/economia/sectores/por-que-colombia-tiene-un-problema-fiscal-analisis-de-luis-fernando-mejia-3423108 
+
+===== PÁGINA 15 =====
+15
+ACTUALIDAD
+Actualidad: Resultados del PIB en 2024
+*Con la colaboración de Sara Ramírez y Carolina Silva
+Introducción
+En 2024, la economía colombiana registró un crecimiento anual del 1,7%, acelerándo-
+se frente al 0,7% observado en 2023. Este resultado estuvo impulsado principalmente 
+por el dinamismo de los sectores de administración pública, salud y educación, agro-
+pecuario y actividades artísticas y de entretenimiento. En contraste, algunos sectores 
+continuaron con un desempeño débil y contribuyeron negativamente al crecimiento, 
+entre ellos la industria manufacturera, la explotación de minas y canteras, y el sector de 
+información y comunicaciones.
+Desde la perspectiva de la demanda, el crecimiento en 2024 estuvo impulsado por el 
+aumento de la inversión y por el dinamismo de las exportaciones. En particular, la for-
+mación bruta de capital fijo creció debido al desempeño del segmento de otros edificios 
+y estructuras, mientras que el componente de vivienda se contrajo, manteniendo la ten-
+dencia observada desde 2023. Aun así, la tasa de inversión se mantuvo en 16,5% del 
+PIB, lo que subraya la necesidad de un crecimiento más sostenido de la inversión para 
+aumentar su participación en la economía.
+Este artículo de Actualidad presenta los principales resultados del crecimiento del Pro-
+ducto Interno Bruto (PIB) en 2024, con énfasis en los sectores y componentes que 
+explicaron su evolución desde los enfoques de oferta y demanda. También se analiza 
+el comportamiento de la inversión, destacando los segmentos que impulsaron su creci-
+miento. Finalmente, se plantean las perspectivas para la actividad económica en el corto 
+plazo, señalando los factores que podrían afectar el crecimiento en 2025. Fedesarrollo 
+proyecta un crecimiento del 2,6% para este año, aunque con riesgos a la baja cuya pro-
+babilidad de materialización ha aumentado en los últimos meses. Estos están asociados 
+a la fragilidad del frente fiscal, una política monetaria más contractiva de lo previsto ante 
+una inflación por encima del rango meta, y un entorno internacional caracterizado por 
+alta volatilidad e incertidumbre.
+
+===== PÁGINA 16 =====
+16
+Tendencia Económica
+Dinámica del crecimiento del PIB 2024
+En 2024, la economía colombiana creció un 1,7%, ace-
+lerándose respecto al 0,7%1 registrado en 2023, en línea 
+con un crecimiento de 2,4% en el cuarto trimestre del 
+año (Gráfico 1). El resultado anual estuvo impulsado prin-
+cipalmente por el sector de administración pública, salud 
+y educación, que creció un 4,2% y aportó 0,7 puntos 
+porcentuales al crecimiento total, aunque se desaceleró 
+frente al 5% de 2023. El sector agropecuario también 
+fue un motor clave, con un crecimiento del 8,1% y una 
+contribución de 0,5 puntos porcentuales, mostrando 
+una notable aceleración frente al 1,7% de 2023. Las 
+actividades artísticas y de entretenimiento crecieron un 
+8,1%, con una contribución de 0,3 puntos porcentuales, 
+aunque a un ritmo menor que en 2023 (10,5%). Por su 
+parte, el comercio se expandió un 1,4%, aportando 0,2 
+puntos porcentuales y recuperándose de la contracción 
+del 3,6% en 2023.
+En contraste, algunos sectores mantuvieron un desem-
+peño débil. La industria manufacturera cayó un 2,1%, 
+aunque su contracción fue menor que en 2023 (-2,7%), 
+restando 0,2 puntos porcentuales al crecimiento total. 
+Asimismo, el sector de explotación de minas y canteras 
+registró una caída del 5,2%, en contraste con el creci-
+miento del 2,6% en 2023, representando una de las ma-
+yores contracciones del año.
+1	
+El DANE revisó el crecimiento de 2023 al alza en 0,1 puntos por-
+centuales, pasando de 0,6% en la publicación del 18 de noviembre 
+de 2024 a 0,7% en su última publicación. A nivel sectorial, las may-
+ores revisiones se registraron en los crecimientos de actividades 
+artísticas (3,5 puntos porcentuales), actividades profesionales (1,4 
+puntos porcentuales) y administración pública (1,2 puntos porcen-
+tuales).
+Al analizar la dinámica trimestral, se observa una mayor 
+aceleración de la economía colombiana en el último tri-
+mestre del año en comparación con los anteriores, con un 
+crecimiento anual del 2,4%. Este resultado se explicó por 
+el dinamismo de las actividades agropecuarias (6,5%), 
+la administración pública y defensa, salud y educación 
+(4,4%), y el comercio (4,3%), que en conjunto contri-
+buyeron con 1,8 puntos porcentuales al crecimiento del 
+período. En contraste, la explotación de minas y canteras 
+(-5,5%), las actividades financieras (-1,1%) y el sector de 
+información y comunicaciones (-0,7%) registraron caídas 
+anuales, restando en total 0,3 puntos porcentuales al cre-
+cimiento.
+Gráfico 1.
+Producto Interno Bruto (PIB)
+(Variación anual, %)
+4,5
+6,9
+3,9
+5,1 4,5
+3,0 2,1 1,4
+2,6 3,2
+-7,2
+10,8
+7,3
+0,7 0,8 1,7 2,1 2,41,7 2,6
+PIB anual
+PIB trimestral
+Pronóstico crecimiento
+I
+II
+III
+IV
+2024
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+2025
+Fuente: Fedesarrollo con base en datos del DANE.
+Enfoque de oferta
+El crecimiento del PIB en 2024 estuvo alineado con las 
+proyecciones de Fedesarrollo, que estimaban un creci-
+miento del 1,8%. A nivel sectorial, la administración pú-
+blica, salud y educación (4,2%) superó la expectativa de 
+
+===== PÁGINA 17 =====
+17
+Tendencia Económica
+3,2%, mientras que el sector agropecuario (8,1%) creció 
+conforme a lo previsto. Sin embargo, las actividades ar-
+tísticas y de entretenimiento (8,1%) se expandieron por 
+debajo de la proyección del 10,2%. El comercio creció 
+ligeramente por encima de lo esperado (1,4% frente a 
+1,3%), reflejando una recuperación tras la contracción 
+de 2023. La principal sorpresa negativa se concentró en 
+los sectores de construcción y minería, cuyos resultados 
+fueron inferiores a lo proyectado. La construcción creció 
+1,9%, por debajo del 2,4% proyectado, mientras que la 
+minería cayó 5,2%, frente a una estimación de -4,0% 
+(Tabla 1).
+A continuación, se presentan los resultados de las activi-
+dades de administración pública, agropecuarias, artísti-
+cas y comerciales, que representan el 47,1% del total de 
+la economía y aportaron en conjunto 1,7 puntos porcen-
+tuales al crecimiento total en 2024. También se examina 
+el desempeño del sector de la construcción, que, aun-
+que creció por debajo de lo esperado, mostró la mayor 
+aceleración frente a 2023, pasando de una contracción 
+del 3,1% en 2023 a un crecimiento del 1,9% en 2024. 
+Finalmente, se analizan los resultados de los sectores 
+de industria y minería, que registraron una contracción 
+y restaron 0,4 puntos porcentuales al crecimiento del 
+año anterior.
+Tabla 1.
+Variación anual y contribución al crecimiento de las 12 principales ramas de actividad
+Sector
+2023
+2024
+2024 - Fedesarrollo
+Variación 
+anual (%)
+Contribución 
+(puntos 
+porcentuales)
+Variación 
+anual (%)
+Contribución 
+(puntos 
+porcentuales)
+Variación 
+anual (%)
+Contribución 
+(puntos 
+porcentuales)
+Administración pública, salud y educación
+5,0
+0,8
+4,2
+0,7
+3,2
+0,5
+Agropecuario
+1,7
+0,1
+8,1
+0,5
+8,1
+0,5
+Actividades artísticas y de entretenimiento
+10,5
+0,4
+8,1
+0,3
+10,2
+0,4
+Gran rama de comercio
+-3,6
+-0,7
+1,4
+0,2
+1,3
+0,2
+Actividades inmobiliarias
+1,9
+0,2
+1,9
+0,2
+1,9
+0,2
+Impuestos
+-2,5
+-0,3
+1,1
+0,1
+0,9
+0,1
+Construcción
+-3,1
+-0,1
+1,9
+0,1
+2,4
+0,1
+Electricidad, gas y agua
+2,2
+0,1
+1,9
+0,1
+2,1
+0,1
+Actividades financieras y de seguros
+8,9
+0,4
+0,4
+0,0
+0,6
+0,0
+Actividades profesionales, científicas y técnicas
+2,0
+0,1
+0,1
+0,0
+0,1
+0,0
+Información y comunicaciones
+1,8
+0,1
+-0,8
+0,0
+-1,2
+0,0
+Explotación de minas y canteras
+2,6
+0,1
+-5,2
+-0,2
+-4,0
+-0,2
+Industrias manufactureras
+-2,7
+-0,3
+-2,1
+-0,2
+-2,3
+-0,3
+PIB
+0,71
+0,71
+1,74
+1,74
+1,77
+1,77
+Fuente: Fedesarrollo con base en datos del DANE.
+
+===== PÁGINA 18 =====
+18
+Tendencia Económica
+El sector de administración pública y defensa, educa-
+ción y salud registró una variación anual del 4,2% en 
+2024. Con estos resultados, se consolidó como el sector 
+que más contribuyó al dinamismo del PIB en los últimos 
+dos años, aportando 0,7 puntos porcentuales al creci-
+miento económico en 2024. Los tres subsectores que 
+lo conforman—administración pública (5,5%), salud 
+(5,4%) y educación (1,5%)—registraron resultados po-
+sitivos. El desempeño del subsector de administración 
+pública se explica principalmente por el incremento en 
+la contratación de personal en el ámbito de la defensa 
+y el sector judicial, lo que se tradujo en un aumento de 
+las remuneraciones de los asalariados. El crecimiento del 
+subsector de salud estuvo alineado con el incremento del 
+consumo de los hogares destinado a este fin (4,0%) y la 
+expansión de los servicios médicos. En cuanto al sub-
+sector de educación, su resultado fue impulsado por 
+el crecimiento de la educación de no mercado (2,8%), 
+mientras que la educación de mercado experimentó una 
+ligera contracción del 0,02%.
+Por otra parte, el sector agropecuario registró un creci-
+miento del 8,1% en 2024, aportando 0,5 puntos porcen-
+tuales al crecimiento económico y consolidándose como 
+el segundo sector con mayor impulso a la actividad pro-
+ductiva. Este dinamismo se explica por el crecimiento de 
+los cultivos agrícolas (8,3%) y del cultivo permanente de 
+café (22,5%), que contribuyeron con 4,9 y 1,7 puntos 
+porcentuales al crecimiento del sector, respectivamente. 
+Entre los cultivos agrícolas, se destacó el aumento en 
+la producción de leguminosas (20,6%), frutas cítricas 
+(17,5%) y flores (7,9%). Respecto al subsector de café, 
+según la Federación Nacional de Cafeteros, la produc-
+ción de café verde aumentó un 23,4% en 2024, revir-
+tiendo la caída del 11,9% en 2022 y acelerándose frente 
+al crecimiento del 2,4% en 2023. Asimismo, la ganadería 
+experimentó un crecimiento del 5,6%, contribuyendo po-
+sitivamente con 1,5 puntos porcentuales al dinamismo 
+del sector agropecuario.
+Las actividades artísticas, de entretenimiento y ser-
+vicios domésticos registraron una variación anual del 
+8,1% en 2024, aportando 0,3 puntos porcentuales al 
+crecimiento del PIB. Este desempeño estuvo impulsado 
+por el crecimiento del 8,5% en las actividades artísticas 
+y del 6,0% en los servicios domésticos. Dentro del pri-
+mer subsector, el segmento de juegos de azar y apuestas 
+ha sido un factor clave en la expansión, reflejando un 
+dinamismo significativo. Según el cuadro de oferta y uti-
+lización, con información disponible hasta 2023, la ofer-
+ta total de los servicios de juegos de azar y apuestas en 
+ese año creció un 31,2% respecto a 2022, acumulando 
+un incremento real del 322,9% desde 2019. Como re-
+sultado, su participación en la economía ha aumentado, 
+alcanzando en 2024 el 3,2% del PIB, lo que representa 
+un incremento de 2,3 puntos porcentuales frente a 2019 
+(0,9%) y superando actividades como la construcción de 
+edificaciones (2,1%) y el sector de información y comu-
+nicaciones (2,3%).
+El sector de comercio, reparación, transporte, aloja-
+miento y servicios de comida, que tiene la mayor par-
+ticipación en el PIB (18,9%), creció un 1,4% en 2024, 
+revirtiendo la caída del 3,6% de 2023 y aportando 0,2 
+puntos porcentuales al crecimiento total de la economía. 
+Su dinamismo estuvo impulsado por el crecimiento de 
+los subsectores de comercio y reparación de vehículos 
+(3,1%) y transporte y almacenamiento (2,0%), este últi-
+mo favorecido por la recuperación de los servicios terres-
+tres de carga, impulsados a su vez por el aumento de las 
+importaciones y exportaciones. No obstante, el subsector 
+de alojamiento y servicios de comida registró una con-
+tracción anual del 3,8%, reflejando la disminución del 
+gasto de los hogares en restaurantes y hoteles (-3,4%).
+
+===== PÁGINA 19 =====
+19
+Tendencia Económica
+El sector de la construcción creció un 1,9% en 2024, 
+aportando 0,1 puntos porcentuales al crecimiento de la 
+economía, explicado por el aumento en las obras civiles 
+(11,7%). De acuerdo con el Indicador de Producción de 
+Obras Civiles (IPOC), este resultado se atribuyó principal-
+mente a la construcción de centrales eléctricas, que cre-
+cieron un 54,8%, así como a la construcción de puertos, 
+canales, presas, acueductos y sistemas de riego (45,8%). 
+Sin embargo, el subsector de edificaciones mostró una 
+contracción del 2,5%, en línea con la reducción de las 
+iniciaciones de vivienda (-10,0%), impulsada principal-
+mente por la caída en el segmento no VIS (contribuyendo 
+con -5,7 puntos porcentuales). Los lanzamientos de vi-
+vienda también se contrajeron un 16,7% en 2024, ex-
+plicados principalmente por la caída en el segmento VIS 
+(contribuyendo con -8,5 puntos porcentuales). A pesar 
+de la moderada recuperación del sector en 2024, este 
+sigue 22,7% por debajo de los niveles previos a la pan-
+demia, mostrando el mayor rezago en su recuperación.
+A diferencia de los sectores mencionados, el sector de in-
+dustrias manufactureras registró una caída del 2,1% en 
+2024, restando 0,2 puntos porcentuales al crecimiento 
+del PIB y convirtiéndose en el sector con mayor impacto 
+negativo. La caída se atribuye a la contracción de todos 
+sus subsectores por segundo año consecutivo, con las 
+mayores disminuciones en coquización y refinación de 
+sustancias químicas (-3,6%), textiles (-3,2%), muebles 
+(-1,9%), alimentos y bebidas (-0,7%), fabricación de pro-
+ductos metalúrgicos (-0,6%) y transformación de madera 
+(-0,2%).
+Por su parte, el sector de explotación de minas y can-
+teras presentó la mayor contracción sectorial en 2024, 
+con una caída del 5,2%, restando 0,2 puntos porcen-
+tuales al crecimiento del PIB. Este desempeño se explica 
+principalmente por la caída en la producción de carbón 
+(-13,3%), la extracción de minerales metalíferos (-8,3%) 
+y las actividades de apoyo a la minería (-3,0%). Además, 
+la extracción de petróleo y gas natural cayó un 0,7%.
+Enfoque de demanda y recuperación de la inversión
+Desde el enfoque de la demanda, el crecimiento del PIB 
+en 2024 fue impulsado por la formación bruta de capital 
+fijo y las exportaciones (Gráfico 2). La inversión mostró 
+una recuperación, creciendo un 3,0% tras la contracción 
+del 12,7% en 2023, impulsada por el favorable dinamis-
+mo del segmento de otros edificios y estructuras. Las 
+exportaciones aumentaron un 2,0%, aunque a un ritmo 
+menor que en 2023 (3,1%), explicado principalmente 
+por el dinamismo de las exportaciones de servicios. Por 
+su parte, el consumo privado creció un 1,6%, acelerán-
+dose frente al 0,4% registrado el año anterior, impulsa-
+do por el crecimiento del consumo de bienes durables 
+(2,7%) y no durables (1,7%), así como por el gasto en 
+recreación y cultura (6,0%), servicios de salud (4,0%) y 
+muebles y artículos para el hogar (3,8%). En contraste, el 
+consumo público, que en 2023 había crecido un 1,6%, 
+se contrajo un 0,5% en 2024. Como resultado, el con-
+sumo final creció un 1,2%, superando el 0,6% de 2023. 
+Las importaciones crecieron 4,2% en comparación con 
+la contracción del 9,9% en 2023, reflejando la recupera-
+ción de la demanda interna. 
+En el último trimestre del año, el crecimiento (2,4%) es-
+tuvo impulsado por el dinamismo de la formación bruta 
+de capital (27,7%) y capital fijo (11,0%). En cuanto al 
+consumo, este aumentó un 1,4%, impulsado por el con-
+sumo privado (1,9%), mientras que el consumo públi-
+co se contrajo un 2,1%. Respecto al comercio exterior, 
+tanto las importaciones como las exportaciones regis-
+traron variaciones anuales positivas, del 10,6% y 2,2%, 
+respectivamente.
+
+===== PÁGINA 20 =====
+20
+Tendencia Económica
+Gráfico 2.
+Crecimiento económico por componente de gasto
+(Variación anual, %)
+-0,5
+2,0
+3,0
+7,6
+4,2
+1,6
+1,2
+1,7
+1,6
+3,1
+-12,7
+-16,0
+-9,9
+0,4
+0,6
+0,7
+2023
+2024
+Consumo público (14,7)
+Exportaciones (16,0)
+Formación bruta de capital ﬁjo (16,5)
+Formación bruta de capital (17,1)
+Importaciones (20,9)
+Consumo privado (73,1)
+Gasto de consumo ﬁnal (87,9)
+Producto interno bruto
+-20
+-15
+-10
+-5
+0
+5
+10
+Fuente: Fedesarrollo con base en datos del DANE.
+Nota: Organizado de mayor a menor participación en el PIB nominal de 2024.
+La formación bruta de capital fijo creció un 3,0% en 
+2024, revirtiendo parcialmente la contracción del 12,7% 
+registrada en 2023. Este crecimiento estuvo impulsa-
+do principalmente por el segmento de otros edificios y 
+estructuras (9,4%). En contraste, los segmentos de vi-
+vienda (-3,0%) y maquinaria y equipo (1,8%) tuvieron 
+un desempeño más débil. Esta dinámica se reflejó en el 
+sector de la construcción desde el enfoque de la ofer-
+ta, donde el crecimiento de otros edificios y estructuras 
+se asocia con el desempeño positivo de las obras civiles 
+(11,7%), mientras que la caída en vivienda se asocia a la 
+contracción del subsector de edificaciones (-2,5%) (Grá-
+fico 3, Panel A).
+Gráfico 3.
+Evolución reciente de la inversión y sus componentes
+Panel A.
+Inversión por componentes
+(Variación anual, %)
+Panel B.
+Tasa de inversión
+(% del PIB)
+8,2
+-0,8
+- 3,0
+9,4
+1,8
+3,0
+5,0
+2,0
+-4,4
+-5,5
+-22,6
+-12,7
+Recursos biológicos cultivados (2,3)
+Productos de propiedad intelectual (4,5)
+Vivienda (19,6)
+Otros ediﬁcios y estructuras (29,6)
+Maquinaria y equipo (44,0)
+Formación bruta de capital ﬁjo
+-25
+-20
+-15
+-10
+-5
+0
+5
+10
+2023
+2024
+19,9
+21,0
+22,6
+24,1
+21,9
+22,6
+22,0
+21,9
+21,1
+21,3
+22,7
+23,4
+22,1
+21,7
+21,2
+21,3
+18,4
+19,0
+19,1
+16,5
+16,5
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+Fuente: Fedesarrollo con base en datos del DANE
+Nota: Organizado de mayor a menor participación en el PIB nominal de 2024.
+
+===== PÁGINA 21 =====
+21
+Tendencia Económica
+El Indicador de Producción de Obras Civiles (IPOC), 
+que proporciona un análisis detallado de los diferentes 
+componentes del subsector, registró un crecimiento del 
+11,6% en 2024. Según este indicador, la recuperación 
+de las obras civiles obedeció principalmente al creci-
+miento del segmento de construcción de minas y plan-
+tas industriales (54,3%), dentro del cual la construcción 
+de centrales eléctricas se destacó con un aumento del 
+54,8%, aportando aproximadamente 3,9 puntos porcen-
+tuales al crecimiento del IPOC. Esto está alineado con la 
+última subasta de Obligaciones de Energía en Firme de 
+2024, que asignó compromisos a 33 plantas nuevas o en 
+construcción, de las cuales el 91% son solares. En con-
+traste, la construcción de infraestructura vial, que abarca 
+carreteras, calles, vías férreas, pistas de aterrizaje, puen-
+tes y túneles, y que representa cerca del 60% del IPOC, 
+creció apenas un 2,1%. Dentro de esta categoría, la sub-
+clase de carreteras, que constituye el 50,8% del total del 
+indicador, presentó una caída del 1,8% en 2024.
+A pesar del crecimiento de la inversión en 2024, la tasa 
+de inversión se mantuvo estable en el nivel de 2023 de 
+16,5% del PIB, en línea con el crecimiento del PIB no-
+minal (7,62%) y de la inversión en términos nominales 
+(7,65%) (Gráfico 3, Panel B). Este nivel sigue siendo 
+considerablemente inferior al de años anteriores, como 
+en 2015, cuando alcanzó el 23,4% del PIB, o incluso 
+2022, cuando se ubicó en 19,1% del PIB. La persistente 
+baja tasa de inversión refleja la incertidumbre política y 
+económica, la baja competitividad del sistema tributario 
+y el efecto de políticas monetarias contractivas, lo que ha 
+desincentivado la inversión privada.
+Perspectivas para 2025 y reflexiones finales
+Para 2025, se espera que la economía colombiana siga 
+su trayectoria de recuperación, con un crecimiento pro-
+yectado del 2,6%. Este desempeño estaría impulsado por 
+sectores como actividades artísticas, agropecuario, co-
+mercio, actividades financieras y administración pública. 
+La construcción mantendría su recuperación, apalanca-
+da en el dinamismo de las obras civiles, lo que también 
+beneficiaría al sector industrial. En contraste, el sector 
+minero seguiría enfrentando caídas, principalmente por 
+una menor producción de petróleo. Desde la perspectiva 
+de la demanda, el crecimiento respondería a un aumen-
+to en la formación bruta de capital fijo, especialmente 
+en infraestructura, y al dinamismo de las exportaciones. 
+Mientras tanto, el consumo privado continuaría expan-
+diéndose en un contexto de menor inflación y mayor flexi-
+bilidad monetaria, aunque a un ritmo inferior al promedio 
+de la economía.
+No obstante, existen riesgos que podrían afectar este 
+panorama. En primer lugar, la inflación ha descendido 
+con menor dinamismo del esperado, y varios factores po-
+drían llevarla a ubicarse por encima del 4% proyectado 
+por Fedesarrollo para 2025. Entre ellos destacan la per-
+sistente depreciación de la tasa de cambio, impulsada 
+principalmente por la incertidumbre local y la fragilidad 
+del panorama fiscal, y el aumento en las tarifas del gas 
+natural, debido a mayores costos de importación. Como 
+consecuencia, la política monetaria podría ser menos ex-
+pansiva de lo previsto. De hecho, los analistas encuesta-
+dos en la Encuesta de Opinión Financiera (EOF) de fe-
+brero ahora anticipan que la tasa de interés cierre el año 
+en 7,75%, superior al 7,0% estimado un mes atrás. Este 
+ajuste limitaría el repunte de la demanda interna.
+Otro riesgo clave es el fiscal. De acuerdo con Fedesarro-
+llo, las últimas cifras del Plan Financiero del Gobierno 
+indican que no se cumplió la regla fiscal en 2024, y la 
+incertidumbre sobre su cumplimiento en 2025 sigue la-
+tente. La persistencia de déficits fiscales por encima del 
+
+===== PÁGINA 22 =====
+22
+Tendencia Económica
+6% del PIB desde la pandemia, junto con una deuda 
+neta superior al 60% y en aumento, incrementa la vul-
+nerabilidad de las cuentas fiscales y su sostenibilidad. 
+Esto seguirá generando presiones al alza sobre la tasa 
+de cambio, la prima de riesgo y las tasas de interés, con 
+efectos negativos sobre el crecimiento económico.
+En el ámbito externo, persisten riesgos asociados a la 
+política comercial de Estados Unidos. En particular, la 
+posibilidad de que se impongan aranceles a las impor-
+taciones colombianas representa una amenaza significa-
+tiva. Estimaciones preliminares de Fedesarrollo sugieren 
+que un incremento del 25% en los aranceles podría re-
+ducir el crecimiento de las exportaciones en 5,4 puntos 
+porcentuales, generar una depreciación de hasta 17% 
+en 2025 y aumentar la inflación en 0,2 puntos porcen-
+tuales, frente a un escenario sin esta medida. Además, 
+esto impactaría el crecimiento económico en 0,7 puntos 
+porcentuales y reduciría las importaciones en 3,7 puntos 
+porcentuales, debido al menor dinamismo de la econo-
+mía y la depreciación cambiaria.
+Otro factor de riesgo es el desempeño de la inversión, 
+donde, si bien las obras civiles han impulsado su creci-
+miento, este se ha concentrado en segmentos distintos 
+a la infraestructura vial debido a barreras regulatorias y 
+administrativas que han frenado proyectos estratégicos. 
+La culminación de los 4G y la aceleración de los 5G son 
+clave por su efecto multiplicador en inversión y empleo. 
+Según Mejía y Delgado (2020), un aumento anual del 
+0,5% del PIB en inversión en infraestructura podría 
+elevar el crecimiento en 0,8 puntos y reducir desem-
+pleo y pobreza. Para lograrlo, es fundamental eliminar 
+estos obstáculos y fortalecer el financiamiento público 
+y privado.
+En este contexto, los riesgos para el crecimiento en 2025 
+se inclinan a la baja. Si estos factores persisten, podrían 
+prolongar la inflación y mantener altas las tasas de in-
+terés, afectando el consumo privado, que representa el 
+73,1% del PIB, y la inversión, que, aunque en recupe-
+ración, sigue en 16,5% del PIB, por debajo de los nive-
+les prepandemia. Para mitigar estos riesgos, es crucial 
+avanzar en la consolidación fiscal a corto plazo, manejar 
+con prudencia la relación comercial con Estados Unidos 
+y fortalecer el marco regulatorio para reducir la incerti-
+dumbre. Además, se deben eliminar las barreras que 
+frenan la infraestructura, priorizando la finalización de los 
+4G y agilizando los 5G. Estas medidas permitirían que 
+la economía mantenga su trayectoria de recuperación y 
+converja a tasas de crecimiento cercanas al 3% en los 
+próximos años.
+
+===== PÁGINA 23 =====
+23
+Tendencia Económica
+Referencias
+Dane. (2025a). Resultados del Producto Interno Bruto. Departamento Administrativo Nacional de Estadística (DANE).
+Dane. (2025b). Indicador de Producción de Obras Civiles (IPOC). Departamento Administrativo Nacional de Estadística 
+(DANE).
+Federación Nacional de Cafeteros. (2025). Estadísticas Cafeteras.
+Mejía, L. F., & Delgado, M. E. (2020). Impacto macroeconómico y social de la inversión en infraestructura en Colombia, 2021-
+2030. 
+
+===== PÁGINA 24 =====
+CALENDARIO ECONÓMICO
+Marzo 2025
+LUNES
+MARTES
+MIÉRCOLES
+JUEVES
+VIERNES
+SÁBADO
+1
+3
+4
+5
+6
+7
+8
+IPC - Zona Euro
+Exportaciones
+IPEC - Fedesarrollo
+IPC
+Tasa de desempleo - Estados 
+Unidos
+10
+11
+12
+13
+14
+15
+GEIH - Varios
+EOC - Fedesarrollo
+IPC - Estados Unidos
+EMMET
+EMC
+IPI
+Estadísticas de Licencias de 
+Contrucción (ELIC)
+Encuesta Mensual de Servi-
+cios (EMS)
+Encuesta Mensual de Aloja-
+miento (EMA)
+17
+18
+19
+20
+21
+22
+ISE
+EOF - Fedesarrollo
+Importaciones
+24
+25
+26
+27
+28
+29
+EOE - Fedesarrollo
+31
+GEIH - Mercado laboral
+
+===== PÁGINA 25 =====
+INVESTIGACIÓN
+Coyuntura y Proyecciones Económicas
+Política Macro y Fiscal
+Pobreza, Educación y Desigualdad
+Educación, Salud y Pensiones
+Mercado Laboral
+Organización industrial, Comercio y Mercados ﬁnancieros
+Análisis sectoriales
+Evaluaciones de impacto
+ENCUESTAS
+Opinión Empresarial
+Opinión del Consumidor
+Opinión Financiera
+PUBLICACIONES
+Coyuntura Económica y Social
+Tendencia Económica
+Economía Política
+Cuadernos de Fedesarrollo
+Prospectiva Económica
+EVENTOS
+Debates de Coyuntura
+Conferencias
+Seminarios
+MAYOR INFORMACIÓN OFICINA COMERCIAL
+Teléfono (601) 325 97 77 Ext.: 340
+E-mail: mruiz@fedesarrollo.org.co
+www.fedesarrollo.org.co
+Bogotá | Colombia

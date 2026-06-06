@@ -1,0 +1,47 @@
+gobierno,presidente,inicio,fin,indicador,valor_periodo,promedio_anual,unidad,fuente,nota
+1,Ernesto Samper,1994-08-07,1998-08-07,empresas_nuevas,sin dato público,sin dato público,unidades,Sin serie RUES,Serie RUES inicia en 2009-2010; datos 1994-1998 no disponibles públicamente
+1,Ernesto Samper,1994-08-07,1998-08-07,empresas_liquidadas,sin dato público,sin dato público,unidades,Sin serie RUES,
+1,Ernesto Samper,1994-08-07,1998-08-07,saldo_neto,sin dato público,sin dato público,unidades,Sin serie RUES,
+2,Andrés Pastrana,1998-08-07,2002-08-07,empresas_nuevas,sin dato público,sin dato público,unidades,Sin serie RUES,Crisis 1998-1999 sin serie
+2,Andrés Pastrana,1998-08-07,2002-08-07,empresas_liquidadas,sin dato público,sin dato público,unidades,Sin serie RUES,
+2,Andrés Pastrana,1998-08-07,2002-08-07,saldo_neto,sin dato público,sin dato público,unidades,Sin serie RUES,
+3,Álvaro Uribe I,2002-08-07,2006-08-07,empresas_nuevas,sin dato público,sin dato público,unidades,Sin serie RUES,Seguridad democrática; sin serie estadística
+3,Álvaro Uribe I,2002-08-07,2006-08-07,empresas_liquidadas,sin dato público,sin dato público,unidades,Sin serie RUES,
+3,Álvaro Uribe I,2002-08-07,2006-08-07,saldo_neto,sin dato público,sin dato público,unidades,Sin serie RUES,
+4,Álvaro Uribe II,2006-08-07,2010-08-07,empresas_nuevas,sin dato público anual,sin dato público,unidades,Sin serie RUES,Ley 1014/2006 (Emprendimiento) y Ley 1258/2008 (SAS) crean marco
+4,Álvaro Uribe II,2006-08-07,2010-08-07,personas_naturales,sin dato público,sin dato público,unidades,Sin serie RUES,
+4,Álvaro Uribe II,2006-08-07,2010-08-07,sociedades,sin dato público,sin dato público,unidades,Sin serie RUES,SAS introducida Ley 1258/2008
+4,Álvaro Uribe II,2006-08-07,2010-08-07,empresas_liquidadas,sin dato público,sin dato público,unidades,Sin serie RUES,
+4,Álvaro Uribe II,2006-08-07,2010-08-07,saldo_neto,sin dato público,sin dato público,unidades,Sin serie RUES,
+5,Juan Manuel Santos I,2010-08-07,2014-08-07,empresas_nuevas,861438,215360,unidades,Confecámaras 2016,2011-2014; Ley 1429/2010 (Formalización) genera primer pico formalización
+5,Juan Manuel Santos I,2010-08-07,2014-08-07,personas_naturales,646100,161525,unidades,Confecámaras 2016,~75% del total
+5,Juan Manuel Santos I,2010-08-07,2014-08-07,sociedades,213138,53285,unidades,Confecámaras 2016,~25% del total
+5,Juan Manuel Santos I,2010-08-07,2014-08-07,empresas_liquidadas,sin dato público anual,sin dato público,unidades,Sin serie anual,
+5,Juan Manuel Santos I,2010-08-07,2014-08-07,saldo_neto,sin dato público,sin dato público,unidades,Sin serie,
+5,Juan Manuel Santos I,2010-08-07,2014-08-07,top_ciudades,Bogotá ~28% / Antioquia ~12% / Valle ~9% / Santander ~6% / Cundinamarca ~5%,n/a,participación %,RUES 2015,Bogotá D.C. líder histórica
+5,Juan Manuel Santos I,2010-08-07,2014-08-07,tasa_entrada_bruta,23.1,23.1,%,RUES 2011-2015 promedio,Período 2011-2015
+5,Juan Manuel Santos I,2010-08-07,2014-08-07,tasa_salida_bruta,19.5,19.5,%,RUES 2011-2015 promedio,
+5,Juan Manuel Santos I,2010-08-07,2014-08-07,tasa_entrada_neta,3.6,3.6,%,RUES 2011-2015 promedio,
+5,Juan Manuel Santos I,2010-08-07,2014-08-07,supervivencia_5anios,29.7,29.7,% cohorte 2011,Confecámaras 2016,42.8% sociedades vs 25.2% PN
+6,Juan Manuel Santos II,2014-08-07,2018-08-07,empresas_nuevas,466666,233333,unidades,Confecámaras + Compite 2025,2015-2017 (2016 sin cifra anual)
+6,Juan Manuel Santos II,2014-08-07,2018-08-07,personas_naturales_2017,224300,224300,unidades,Confecámaras 2017,76% de 294.896
+6,Juan Manuel Santos II,2014-08-07,2018-08-07,sociedades_2017,70600,70600,unidades,Confecámaras 2017,24% de 294.896 (cifra alternativa)
+6,Juan Manuel Santos II,2014-08-07,2018-08-07,empresas_liquidadas,sin dato público anual,sin dato público,unidades,Sin serie anual,
+6,Juan Manuel Santos II,2014-08-07,2018-08-07,saldo_neto,sin dato público,sin dato público,unidades,Sin serie,
+6,Juan Manuel Santos II,2014-08-07,2018-08-07,hito_normativo_2016,Ley 1780/2016 (Emprendimiento Juvenil),n/a,ley,Congreso,Exención matrícula mercantil jóvenes 18-28 años
+7,Iván Duque,2018-08-07,2022-08-07,empresas_nuevas,1195571,298893,unidades,Compite INC 2025,2018-2021; 2018+2019+2020+2021 = 303.027+306.563+278.302+307.679
+7,Iván Duque,2018-08-07,2022-08-07,empresas_liquidadas_2020,509370,509370,micronegocios,DANE Boletín 2020,Microempresas <10 trabajadores (no es mismo universo que RUES)
+7,Iván Duque,2018-08-07,2022-08-07,tasa_creacion_2019,18.6,18.6,%,Compite 2025,
+7,Iván Duque,2018-08-07,2022-08-07,tasa_creacion_2020,18.9,18.9,%,Compite 2025,Recuperación pandemia
+7,Iván Duque,2018-08-07,2022-08-07,tasa_cancelacion_2020,sin dato público,sin dato público,%,Sin serie,
+7,Iván Duque,2018-08-07,2022-08-07,hito_normativo_2020,Ley 2069/2020 (Ley Emprendimiento),n/a,ley,Congreso,Emergencia económica; beneficios SAS
+7,Iván Duque,2018-08-07,2022-08-07,shock_2020,COVID-19: -86.9% abril 2020,sin dato público,%,Confecámaras 2020 III Trim,Caída más fuerte de la serie
+8,Gustavo Petro,2022-08-07,2026-08-07,empresas_nuevas_parcial,1088110,272028,unidades,Confecámaras 2022-2024 + 1S-2025,2022+2023+2024+1S-2025 = 310.731+305.997+297.475+173.907 (1S-2025 parcial)
+8,Gustavo Petro,2022-08-07,2026-08-07,empresas_liquidadas,sin dato público,sin dato público,unidades,Sin serie,
+8,Gustavo Petro,2022-08-07,2026-08-07,tasa_cancelacion_2024,16,16,%,Compite 2025,La más alta registrada; no recuperada aún
+8,Gustavo Petro,2022-08-07,2026-08-07,personas_naturales_2023,227569,227569,unidades,Confecámaras 2023,74.4% del total
+8,Gustavo Petro,2022-08-07,2026-08-07,sociedades_2023,78428,78428,unidades,Confecámaras 2023,25.6% del total
+8,Gustavo Petro,2022-08-07,2026-08-07,mujeres_lideran_PN_2022,62.5,62.5,%,Confecámaras 2022,Personas naturales lideradas por mujeres
+8,Gustavo Petro,2022-08-07,2026-08-07,empresas_que_generan_empleo_2023,46.5,46.5,%,Confecámaras 2023,Crearon al menos un empleo
+8,Gustavo Petro,2022-08-07,2026-08-07,top_sectores_2023,Comercio/Servicios/Industria,n/a,%,Confecámaras 2023,Sector comercio +2.5% vs 2022
+8,Gustavo Petro,2022-08-07,2026-08-07,empresas_activas_2023,1740168,1740168,unidades,MinCIT (RUES 2023),Histórico: stock más alto registrado

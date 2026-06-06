@@ -1,0 +1,1361 @@
+
+===== PÁGINA 1 =====
+SEGUIMIENTO FISCAL
+DT-CARF
+M a r z o  d e  2 0 2 5
+
+===== PÁGINA 2 =====
+2
+El presente seguimiento fiscal ofrece información sobre la evolución de cinco elementos de las finanzas
+públicas: 
+1. ¿Cómo van los ingresos del Gobierno?: Se revisa el comportamiento del recaudo tributario, a partir 
+del recaudo bruto de la DIAN, por ser el principal ingreso del Gobierno Central. En esta sección 
+encuentra el recaudo acumulado en lo corrido del año, comparado con el del año anterior y con una 
+meta mensualizada de recaudo calculada por la Dirección Técnica del CARF.
+2. ¿Cómo van los gastos del Gobierno?: Se presenta la ejecución presupuestal del Presupuesto 
+General de la Nación (PGN) en lo corrido del año, indicando el porcentaje de compromisos, 
+obligaciones y pagos. Se aclara que el PGN tiene una cobertura institucional más amplia que el 
+Gobierno Central.
+3. ¿Cómo van los intereses de la deuda?: Se calculan los componentes de indexaciones y prima o 
+descuento en colocación de TES según el comportamiento de la deuda en el mercado. Estos dos 
+componentes se incluyen en los intereses del GNC.
+4. ¿Cómo va el financiamiento interno?: se hace seguimiento a las distintas fuentes de financiación de
+la deuda interna.
+5. Cómo va la caja en pesos: se hace seguimiento a los saldos del Tesoro en el Banco de la República.
+Introducción
+
+===== PÁGINA 3 =====
+Contenido
+1.
+Cifras fiscales GNC a Enero 2025:
+a) Ingresos
+b) Gastos
+c)
+Balance
+d) Deuda
+2.
+Cifras a Febrero 2025:
+a) Gastos PGN
+b) Gastos GNC
+c)
+Financiamiento GNC
+3.
+Resumen
+4.
+Definiciones
+3
+
+===== PÁGINA 4 =====
+4
+El recaudo bruto acumulado a enero fue de COP 32,7 billones, 5,7% por encima del recaudo del mismo
+periodo en 2024 (2,4% en términos reales). Esta cifra representa un cumplimiento del 10,1% de la meta de
+recaudo bruto DIAN para 2025 (COP 323,9 billones).
+Recaudo enero por tipo de impuesto
+(COP Billones corrientes)
+Recaudo enero por tipo de impuesto
+(COP Billones constantes de 2025)
+a) Seguimiento recaudo tributario bruto
+Enero 2025
+Fuente: Estadísticas mensuales de Recaudo Bruto de la DIAN y cálculos propios. 
+4,4
+5,4
+5,6
+6,9
+6,7
+8,3
+11,2
+11,6
+11,7
+6,7
+7,8
+8,2
+9,1
+8,5
+9,8
+11,6
+13,2
+13,9
+1,6
+1,7
+2,0
+2,2
+2,0
+3,5
+4,0
+3,0
+3,7
+0,7
+0,7
+0,8
+0,6
+0,7
+0,8
+1,3
+1,3
+1,1
+15,1
+16,1
+17,2
+19,5
+18,5
+23,2
+29,2
+30,9
+32,7
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+2025
+Renta
+IVA
+Externos
+GMF
+Resto
+Total
+6,8
+8,1
+8,1
+9,8
+9,0
+9,9
+12,1
+12,0
+11,7
+10,3
+11,7
+11,9
+12,9
+11,4
+11,7
+12,5
+13,6
+13,9
+1,0
+1,0
+1,1
+0,9
+0,9
+1,0
+1,4
+1,4
+1,1
+23,4
+24,2
+24,9
+27,7
+24,8
+27,5
+31,7
+31,9
+32,7
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+2025
+Renta
+IVA
+Externos
+GMF
+Resto
+Total
+Nota: La meta proyectada corresponde a un cálculo propio de la DT-CARF a partir del comportamiento histórico (recaudo mensual y recaudo total histórico). La meta mensualizada de la
+DIAN no es pública.
+
+===== PÁGINA 5 =====
+5
+a) Seguimiento recaudo tributario bruto
+Enero 2025 –Consistente con meta Plan Financiero 2025
+•
+El total de recaudo bruto a enero de 2025 estuvo COP 3,6 billones por debajo de la meta. Equivalente a un complimiento de la
+meta estimada por el CARF de 90,1%.
+•
+Por su parte el recaudo neto (efectivo) a enero de 2025 se ubicó por debajo de la meta en COP 4,6 billones.
+•
+La meta implícita de recaudo con papeles y devoluciones en efectivo se estima en COP 2,7 billones; el observado fue COP 3,8
+billones.
+Fuente: Estadísticas mensuales de Recaudo Bruto de la DIAN y MHCP, cálculos DT-CARF
+Nota 1: La meta proyectada corresponde a un cálculo propio de la DT-CARF a partir del comportamiento histórico (recaudo mensual y recaudo total histórico). La meta mensualizada de la DIAN no es pública.
+Nota 2: Las metas de recaudo total bruto y neto corresponden a las cifras del MHCP socializadas en el documento de Plan Financiero 2025.
+32,7
+36,3
+55,8
+81,0
+111,0
+141,4
+170,8
+199,4
+219,3
+253,7
+273,2
+304,0
+324,0
+Ene
+Feb
+Mar
+Abr
+May
+Jun
+Jul
+Ago
+Sep
+Oct
+Nov
+Dic
+Total Recaudo Bruto vs meta consistente con MHCP 
+(COP -3,6 billones)
+(Recaudo acumulado, COP Bill.)
+Observado
+Proyectado
+Obs/Proy= 90,1%
+28,9
+33,5
+51,5
+74,8
+102,7
+130,5
+157,9
+184,3
+202,6
+234,1
+252,0
+280,5
+298,8
+Ene
+Feb
+Mar
+Abr
+May
+Jun
+Jul
+Ago
+Sep
+Oct
+Nov
+Dic
+Total Recaudo Neto vs meta consistente con MHCP 
+(COP -4,6 billones)
+(Recaudo acumulado, COP Bill.)
+Observado
+Proyectado
+Obs/Proy= 86,2%
+
+===== PÁGINA 6 =====
+6
+Nota: La meta proyectada corresponde a un cálculo propio de la DT-CARF a partir del comportamiento histórico (recaudo mensual y recaudo total histórico). La meta mensualizada de la DIAN no es pública.
+Fuente: Estadísticas mensuales de Recaudo Bruto de la DIAN y cálculos propios. 
+11,7
+13,2
+25,6
+34,0
+56,8
+67,0
+88,7
+99,1
+111,0
+122,5
+133,5
+143,6
+154,4
+Ene Feb Mar Abr May Jun
+Jul Ago Sep Oct Nov Dic
+Renta (COP -1,5 billones)
+(Recaudo acumulado, COP Bill.)
+Observado
+Proyectado
+Obs/Proy= 88,8%
+•
+El recaudo a enero de 2025 de los dos principales tributos internos, Renta e IVA, estuvo por debajo de la meta
+estimada. El recaudo de tributos externos estuvo por encima de la meta estimada por el CARF en 5,8%.
+3,7
+3,5
+7,0
+10,6
+14,3
+17,9
+21,7
+25,4
+29,4
+33,5
+37,7
+42,1
+46,7
+Ene Feb Mar Abr May Jun
+Jul Ago Sep Oct Nov Dic
+Externos (COP +0,2 billones)
+(Recaudo acumulado, COP Bill.)
+Observado
+Proyectado
+Obs/Proy= 105,8%
+13,9
+16,5 18,3
+29,0 30,8
+43,3 45,2
+56,8 58,8
+73,4 75,5
+88,5 90,9
+Ene Feb Mar Abr May Jun
+Jul Ago Sep Oct Nov Dic
+IVA (COP -2,6 billones)
+(Recaudo acumulado, COP Bill.)
+Observado
+Proyectado
+Obs/Proy= 84,4%
+a) Seguimiento recaudo tributario bruto
+Enero 2025 –Consistente con meta Plan Financiero 2025
+
+===== PÁGINA 7 =====
+7
+a) Seguimiento recaudo tributario bruto
+Enero 2025 - Consistente con proyección CARF
+•
+El recaudo bruto observado fue COP 0,5 billones superior a la proyección del CARF en enero.
+•
+El recaudo neto a enero de 2025 se ubicó por debajo de la proyección del CARF en COP 0,5 billones.
+Fuente: Estadísticas mensuales de Recaudo Bruto de la DIAN y MHCP, cálculos DT-CARF
+Nota 1: La meta proyectada corresponde a un cálculo propio de la DT-CARF a partir del comportamiento histórico (recaudo mensual y recaudo total histórico). La meta mensualizada de la DIAN no es pública.
+Nota 2: Las metas de recaudo total bruto y neto corresponden a las cifras del CARF socializadas en el pronunciamiento 15 de febrero de 2025.
+32,7
+32,2
+49,8
+72,2
+98,8
+125,9
+152,0
+177,4
+195,6
+226,1
+244,1
+271,6
+290,0
+Ene
+Feb
+Mar
+Abr
+May
+Jun
+Jul
+Ago
+Sep
+Oct
+Nov
+Dic
+Total Recaudo Bruto vs proyección CARF 
+(COP +0,5 billones)
+(Recaudo acumulado, COP Bill.)
+Observado
+Proyectado
+Obs/Proy= 101,6%
+28,9
+29,4
+45,5
+66,0
+90,5
+115,0
+139,0
+162,3
+178,8
+206,6
+222,9
+248,0
+264,8
+Ene
+Feb
+Mar
+Abr
+May
+Jun
+Jul
+Ago
+Sep
+Oct
+Nov
+Dic
+Total Recaudo Neto vs proyección CARF 
+(COP -0,5 billones)
+(Recaudo acumulado, COP Bill.)
+Observado
+Proyectado
+Obs/Proy= 98,2%
+
+===== PÁGINA 8 =====
+8
+b) Seguimiento preliminar de la ejecución presupuestal de GNC 
+Enero 2025
+Fuente: Informe Mensual de Ejecución del PGN. MHCP-DGPPTN. 
+Nota: Las cifras corresponden a la conversión que hace el CARF del gasto del Presupuesto General de la Nación (PGN) a Gobierno Nacional Central (GNC), que es la cobertura sobre la que recae la regla fiscal. En términos generales,
+la cobertura comprende los recursos del Presupuesto Nacional que hacen tránsito por el Tesoro Nacional (o dicho de otra manera, Recursos Nación y transacciones Con Situación de Fondos (CSF)); y excluye los gastos de
+financiamiento como las amortizaciones dentro del servicio de la deuda, los gastos por adquisición de activos financieros, disminución de pasivos, y gastos por tributos, multas, sanciones e intereses de mora (que van por debajo de la
+línea o no son considerados en las cifras fiscales). En términos del año fiscal, las cifras incluyen vigencia actual y rezago. En términos metodológicos, las cifras no incluyen ajustes de causación propios de la metodología de caja
+modificada como causación de intereses o el cálculo de deuda flotante, ni operaciones no presupuestales.
+•
+El gasto fiscal total del GNC en 2025 estimado por el CARF, que resulta de considerar los pagos del presupuesto de la vigencia y el
+rezago sin deuda flotante, fue 1,4% del PIB en enero de 2025, 0,1pp del PIB inferior al registrado en el mismo periodo de 2024.
+•
+El grueso del gasto de enero correspondió a funcionamiento. Por COP 21,1 billones (1,2 % del PIB).
+21,4
+21,1
+2,2
+2,0
+1,3
+1,6
+24,9
+24,8
+23,6
+23,2
+2024
+2025
+Intereses
+Inversión
+Funcionamiento
+Gasto total
+Gasto primario
+1,3
+1,2
+0,1
+0,1
+0,1
+0,1
+1,5
+1,4
+1,4
+1,3
+2024
+2025
+Comparativo ejecución presupuestal enero 
+2024 vs 2025
+(COP Billones corrientes)                                                                 (% del PIB)
+
+===== PÁGINA 9 =====
+9
+c) Balance total y primario del GNC
+Enero 2025
+Fuente: MHCP.
+-5,3
+-4,3
+-0,1
+-0,8
+-1,0
+-2,1
+-2,3
+-3,2
+-3,4
+-4,0
+-4,1
+-4,9
+-6,0
+-6,8
+-0,7
+-8,0
+-7,0
+-6,0
+-5,0
+-4,0
+-3,0
+-2,0
+-1,0
+0,0
+1,0
+Ene
+Feb
+Mar
+Abr
+May
+Jun
+Jul
+Ago
+Sep
+Oct
+Nov
+Dic
+Balance total GNC
+(% del PIB)
+2022
+2023
+2024
+2025
+-1,0
+-0,3
+0,0
+-0,3
+0,0
+-0,7
+-0,3
+-0,9
+-0,7
+-1,0
+-0,9
+-1,3
+-1,9
+-2,4
+-0,5
+-3,0
+-2,5
+-2,0
+-1,5
+-1,0
+-0,5
+0,0
+0,5
+1,0
+1,5
+2,0
+Ene
+Feb
+Mar
+Abr
+May
+Jun
+Jul
+Ago
+Sep
+Oct
+Nov
+Dic
+Balance primario GNC
+(% del PIB)
+2022
+2023
+2024
+2025
+•
+A enero, el déficit primario fue 0,5% del PIB y déficit total 0,7% del PIB. La meta establecida en el Plan Financiero de 2025 
+es un déficit primario de 0,2% del PIB, 0,3pp menos negativo que lo observado en enero de 2025.
+•
+En enero de 2025, el déficit total y primario son los más altos de los últimos años.
+
+===== PÁGINA 10 =====
+Contenido
+10
+1.
+Cifras fiscales GNC a Enero 2025:
+a) Ingresos
+b) Gastos
+c)
+Balance
+d) Deuda
+2.
+Cifras a Febrero 2025:
+a) Gastos PGN
+b) Gastos GNC
+c)
+Financiamiento GNC
+3.
+Resumen
+4.
+Definiciones
+
+===== PÁGINA 11 =====
+11
+•
+La ejecución de obligaciones a febrero de 2025 fue 9,5%, 1,2pp inferior a la observada en el mismo periodo de
+2024. Inversión es el componente con menores obligaciones en proporción a las apropiaciones.
+•
+La ejecución de compromisos a febrero de 2025 (20,3%) fue superior a la registrada un año atrás (18,2%)
+•
+La inversión presenta un mayor nivel de ejecución de compromisos (31,2%) frente al funcionamiento (20,9%) y la
+deuda (10,5%), y frente a su comportamiento en 2024 (26,7%).
+a) Seguimiento ejecución PGN
+Febrero 2025 – vigencia actual
+Ejecución presupuestal acumulada
+Febrero-2025 vs. Febrero-2024 
+(%)
+Fuente: Informe Mensual de Ejecución del PGN. MHCP-DGPPTN. 
+Ejecución presupuestal acumulada a febrero
+(Billones de pesos corrientes)
+Concepto
+Compromisos
+Obligaciones
+Pagos
+% Comp./Aprop.
+% Oblig./Aprop.
+% Pago/Aprop.
+feb-24
+feb-25
+feb-24
+feb-25
+feb-24
+feb-25
+Funcionamiento
+17,2 
+20,9 
+11,8 
+11,4 
+11,7 
+11,1 
+Inversión 
+26,7 
+31,2 
+5,3 
+2,1 
+5,1 
+2,1 
+Servicio de la deuda
+12,8 
+10,5 
+12,7 
+9,4 
+9,3 
+8,5 
+TOTAL
+18,2 
+20,3 
+10,7 
+9,5 
+9,9 
+9,1 
+328,0
+68,5
+37,4
+36,5
+112,6
+11,8
+10,6
+9,6
+82,5
+25,7
+1,8
+1,7
+523,0
+106,0
+49,8
+47,8
+ Apropiación
+Vigente
+ Compromiso
+ Obligación
+ Pago
+ I. Funcionamiento
+ II. Servicio de la deuda
+ III. Inversión
+ (I + II + III) Gasto total
+
+===== PÁGINA 12 =====
+12
+308,9 
+56,1 
+33,3 
+32,7 
+35,9 
+12,6 
+0,7 
+0,7 
+59,5 
+7,9 
+7,0 
+5,9 
+404,3 
+76,6 
+41,0 
+39,3 
+Apropiación vigente
+Compromiso
+Obligación
+Pago
+I. Funcionamiento
+II. Inversión
+III. Intereses
+(I+II+III) Gasto total
+b) Seguimiento preliminar de la ejecución presupuestal de GNC 
+Febrero 2025 – vigencia actual
+Fuente: Informe Mensual de Ejecución del PGN. MHCP-DGPPTN. 
+Nota: Las cifras corresponden a la conversión que hace el CARF del gasto del Presupuesto General de la Nación (PGN) a Gobierno Nacional Central (GNC), que es la cobertura sobre la que recae la regla fiscal. En términos generales,
+la cobertura comprende los recursos del Presupuesto Nacional que hacen tránsito por el Tesoro Nacional (o dicho de otra manera, Recursos Nación y transacciones Con Situación de Fondos (CSF)); y excluye los gastos de
+financiamiento como las amortizaciones dentro del servicio de la deuda, los gastos por adquisición de activos financieros, disminución de pasivos, y gastos por tributos, multas, sanciones e intereses de mora (que van por debajo de la
+línea o no son considerados en las cifras fiscales). En términos del año fiscal, las cifras incluyen vigencia actual, es decir, no incluye rezago presupuestal de la vigencia anterior. En términos metodológicos, las cifras no incluyen ajustes
+de causación propios de la metodología de caja modificada como causación de intereses o el cálculo de deuda flotante, ni operaciones no presupuestales.
+18,2%
+35,1%
+13,3%
+10,8%
+2,0%
+11,8%
+10,6%
+1,9%
+10%
+Ejecución medida como % de la apropiación vigente
+Ejecución presupuestal acumulada a febrero: 
+vigencia actual
+(COP Billones corrientes)
+Comparativo ejecución presupuestal febrero
+2024 vs 2025
+(% del PIB)
+Concepto
+Compromiso
+Obligación
+Pago
+2024
+2025
+Dif
+2024
+2025
+Dif
+2024
+2025
+Dif
+1
+2
+2 - 1
+1
+2
+2 - 1
+1
+2
+2 - 1
+Funcionamiento
+2,8
+3,1
+0,4
+1,9
+1,9
+-0,1
+1,9
+1,8
+-0,1
+Inversión
+1,1
+0,7
+-0,3
+0,2
+0,0
+-0,2
+0,2
+0,0
+-0,1
+Deuda
+0,5
+0,4
+0,0
+0,5
+0,4
+-0,1
+0,4
+0,3
+-0,1
+Func/to + Inversión
+3,8
+3,9
+0,0
+2,1
+1,9
+-0,2
+2,1
+1,9
+-0,2
+Gasto total
+4,3
+4,3
+0,0
+2,6
+2,3
+-0,3
+2,5
+2,2
+-0,3
+•
+El gasto, medido a través de la ejecución de pagos (de la vigencia actual), fue 2,2% del PIB con corte a febrero de 2025, 0,3pp
+inferior al registrado en el mismo periodo de 2024
+•
+El gasto en funcionamiento representa el 81,8% del gasto total con corte a febrero.
+•
+Los pagos correspondientes al presupuesto de la vigencia actual fueron COP 39,3 billones con corte a febrero de 2025.
+
+===== PÁGINA 13 =====
+13
+23,1 
+17,5 
+10,0 
+26,7 
+13,3 
+8,1 
+2,5 
+2,0 
+2,0 
+52,2 
+32,9 
+20,1 
+Compromiso
+Obligación
+Pago
+I. Funcionamiento
+II. Inversión
+III. Intereses
+(I+II+III) Gasto total
+b) Seguimiento preliminar de la ejecución presupuestal de GNC 
+Febrero 2025 – reserva presupuestal
+Fuente: Informe Mensual de Ejecución del PGN. MHCP-DGPPTN. 
+Nota: Las cifras corresponden a la conversión que hace el CARF del gasto del Presupuesto General de la Nación (PGN) a Gobierno Nacional Central (GNC), que es la cobertura sobre la que recae la regla fiscal. En términos generales,
+la cobertura comprende los recursos del Presupuesto Nacional que hacen tránsito por el Tesoro Nacional (o dicho de otra manera, Recursos Nación y transacciones Con Situación de Fondos (CSF)); y excluye los gastos de
+financiamiento como las amortizaciones dentro del servicio de la deuda, los gastos por adquisición de activos financieros, disminución de pasivos, y gastos por tributos, multas, sanciones e intereses de mora (que van por debajo de la
+línea o no son considerados en las cifras fiscales). En términos del año fiscal, las cifras corresponden a las reservas presupuestales de la vigencia anterior. En términos metodológicos, las cifras no incluyen ajustes de causación propios
+de la metodología de caja modificada como causación de intereses o el cálculo de deuda flotante, ni operaciones no presupuestales.
+76%
+49,9%
+82,7%
+43,1%
+30,5%
+80,8%
+Ejecución medida como % del  rezago constituido
+Ejecución presupuestal acumulada a febrero: 
+reservas presupuestales
+(COP Billones corrientes)
+Comparativo ejecución presupuestal febrero
+2024 vs 2025
+(% del PIB)
+Concepto
+Compromiso
+Obligación
+Pago
+2024
+2025
+Dif
+2024
+2025
+Dif
+2024
+2025
+Dif
+1
+2
+2 - 1
+1
+2
+2 - 1
+1
+2
+2 - 1
+Funcionamiento
+1,2
+1,3
+0,1
+0,7
+1,0
+0,3
+0,6
+0,6
+0,0
+Inversión
+0,8
+1,5
+0,7
+0,2
+0,7
+0,5
+0,2
+0,5
+0,3
+Deuda
+0,0
+0,1
+0,1
+0,0
+0,1
+0,1
+0,0
+0,1
+0,1
+Func/to + Inversión
+1,9
+2,8
+0,9
+0,9
+1,7
+0,8
+0,8
+1,0
+0,2
+Gasto total
+1,9
+2,9
+1,0
+0,9
+1,8
+0,9
+0,8
+1,1
+0,4
+•
+La ejecución de los pagos de reservas presupuestales ya alcanza cerca del 40% del nivel constituido.
+•
+La ejecución de pagos de la reserva a febrero de 2025 fue 1,1% del PIB, 0,4pp del PIB por encima del nivel observado en 2024
+•
+La diferencia entre la ejecución de obligaciones y de pagos (de 0,7pp del PIB; COP 12,8 billones), sugiere que las reservas ejercerán
+presiones sobre la liquidez en los próximos meses
+
+===== PÁGINA 14 =====
+14
+47 
+43 
+43 
+38 
+46 
+40 
+59 
+52 
+60 
+52 
+Gasto total
+Gasto primario
+2021
+2022
+2023
+2024
+2025
+b) Seguimiento preliminar de cifras fiscales de GNC 
+Febrero 2025
+Fuente: Informe Mensual de Ejecución del PGN. MHCP-DGPPTN. 
+•
+El gasto fiscal total y primario acumulado a febrero están en niveles similares a los observados en 2024, pero superior a los niveles
+reportados en los años del periodo 2021-2023.
+•
+El gasto primario acumulado a febrero es 0,4pp del PIB superior al promedio 2019-2024.
+•
+El gasto promedio mensual total y primario de febrero de 2025 es COP 34,8 billones y COP 28,5 billones, respectivamente. La meta
+promedio mensual de gasto total según Plan Financiero para 2025 es COP 34,9 billones (pero suele haber más pagos al final del año)
+Nota: Las cifras corresponden a la conversión que hace el CARF del gasto del Presupuesto General de la Nación (PGN) a Gobierno Nacional Central (GNC), que es la cobertura sobre la que recae la regla fiscal. En términos generales,
+la cobertura comprende los recursos del Presupuesto Nacional que hacen tránsito por el Tesoro Nacional (o dicho de otra manera, Recursos Nación y transacciones Con Situación de Fondos (CSF)); y excluye los gastos de
+financiamiento como las amortizaciones dentro del servicio de la deuda, los gastos por adquisición de activos financieros, disminución de pasivos, y gastos por tributos, multas, sanciones e intereses de mora (que van por debajo de la
+línea o no son considerados en las cifras fiscales). En términos del año fiscal, las cifras incluyen vigencia actual y rezago presupuestal de la vigencia anterior. En términos metodológicos, las cifras no incluyen ajustes de causación
+propios de la metodología de caja modificada como causación de intereses o el cálculo de deuda flotante, ni operaciones no presupuestales. Las cifras del 2021-2024 corresponde a las cifras fiscales oficiales (Puente fiscal).
+Gasto fiscal acumulado del GNC
+(billones constantes de 2025)
+Gasto fiscal acumulado del GNC
+(% del PIB)
+2,8%
+2,5%
+48
+43
+2,9%
+2,7%
+2,4%
+2,2%
+2,7%
+2,3%
+3,4%
+3,0%
+3,3%
+2,9%
+Gasto total
+Gasto primario
+2021
+2022
+2023
+2024
+2025
+
+===== PÁGINA 15 =====
+15
+Fuente: Banco de la República, cálculos CARF. 
+•
+La curva cero cupón de los TES COP tasa fija se empinó en febrero: la pendiente entre las tasas de 1 y 10 años aumentó
+27 puntos básicos (pbs), hasta 307 pbs, por encima del promedio de 208 pbs del último año y el histórico de 213 pbs.
+•
+Los títulos continuaron registrando valorizaciones en el mercado secundario a lo largo de febrero, sin embargo, no se
+han recuperado los niveles de un año atrás.
+•
+Lo anterior, se ha reflejado en altos costos de financiación en el mercado primario de TES. En febrero el diferencial entre
+las tasas de corte de las subastas y los cupones de los TES fue en promedio de 227pbs, superior a los 69 pbs observados
+en el mismo periodo de 2024.
+c) Seguimiento costos de financiación TES
+Febrero 2025
+49
+69
+79
+256
+262
+270
+168
+165
+189
+199
+346
+201
+227
+0
+50
+100
+150
+200
+250
+300
+350
+Ene
+Feb
+Mar
+Abr
+May
+Jun
+Jul
+Ago
+Sep
+Oct
+Nov
+Dic
+pbs
+2024
+2025
+6,25
+11,50
+7,25
+5
+6
+7
+8
+9
+10
+11
+12
+13
+2024
+2026
+2028
+2030
+2032
+2034
+2036
+2038
+2040
+2042
+2044
+2046
+2048
+2050
+2052
+Rendimeintos (%)
+29-feb-24
+31-ene-25
+28-feb-25
+Cupón TES en subasta
+Curva de rendimiento TES tasa fija
+Mercado Secundario
+Diferencial tasas de corte subastas TES vs. Cupón
+Mercado Primario
+
+===== PÁGINA 16 =====
+16
+0,2
+0,0
+-0,1
+-1,1
+-1,2
+-1,4
+-0,1
+-0,7
+-0,6
+-0,3
+-0,1
+-0,3
+-1,1
+-1,0
+ene-24
+feb-24
+mar-24
+abr-24
+may-24
+jun-24
+jul-24
+ago-24
+sep-24
+oct-24
+nov-24
+dic-24
+ene-25
+feb-25
+• Dados los aún altos niveles de tasas de rendimiento en el
+mercado
+secundario,
+en
+febrero
+continuaron
+observándose
+descuentos en la colocación de TES.
+• Los descuentos por subastas¹ en febrero fueron de COP 1
+billón, por lo que el acumulado del año ascendió al 36% de
+los descuentos acumulados de todo 2024 (COP 5,6 billones).
+• Por su parte, las indexaciones² se ubicaron en un nivel similar al
+de febrero de 2024 (COP 1,9 billones), en COP 2 billones.
+• En febrero el cumplimiento de la meta anual de colocación
+de TES de largo plazo³ fue de 30,2%, superior al cumplimiento
+del 7,3% en febrero de 2024. Se han colocado 22% de las
+subastas
+programadas
+y
+el
+50%
+de
+lo
+programado
+en
+colocaciones directas.
+¹ Diferencia entre el valor costo aprobado y valor nominal de las colocaciones de TES por subasta y
+no competitivas. No incluye entidades públicas. Signo positivo equivale a prima y signo negativo
+equivale a descuento.
+² Calculado a partir del saldo de deuda en UVR y la variación en UVR.
+³ Un total de COP 68,8 billones distribuido entre COP 45 billones en subastas y no competitivas, COP
+1,5 billones en bonos verdes y COP 22,3 billones en colocaciones directas.
+Fuente: SEN-BanRep, Ministerio de Hacienda. Cálculos propios de DT-CARF a partir de datos del MHCP y BanRep.
+c) Seguimiento colocaciones de TES y causaciones
+Febrero 2025
+4,6
+3,3
+4,0
+4,3
+4,7
+4,9
+3,4
+5,3
+4,3
+1,2
+0,9
+5,1
+4,8
+1,7
+0,6
+1,7
+1,8
+6,3
+4,6
+4,6
+3,3
+5,8
+4,4
+4,9
+5,2
+3,7
+5,9
+4,3
+1,2
+1,7
+2,7
+11,4
+9,4
+ene-24
+feb-24
+mar-24
+abr-24
+may-24
+jun-24
+jul-24
+ago-24
+sep-24
+oct-24
+nov-24
+dic-24
+ene-25
+feb-25
+Subastas y No Competitivas
+Entidades Públicas
+Total colocación
+Descuento/prima por colocación de TES
+COP Billones
+Colocaciones de TES – Mercado Primario
+COP Billones
+
+===== PÁGINA 17 =====
+17
+c) La posición de caja se ubicó en el mínimo histórico
+•
+La disponibilidad de caja en pesos se
+mantuvo
+en
+mínimos
+históricos
+en
+los
+primeros dos meses de 2025.
+•
+Al 28 de febrero la caja en pesos se ubicó
+en COP 11,1 billones (COP 13,5 billones
+menos que el promedio histórico).
+* Promedios con cifras desde 2014 a 2024 del BanRep
+Fuente: BanRep. Cálculos DT-CARF
+Saldos del Tesoro en el BanRep
+Febrero 2025
+24,6 
+35,4 
+11,1 
+3,7
+0
+10
+20
+30
+40
+50
+60
+Ene
+Feb
+Mar
+Abr
+May
+Jun
+Jul
+Ago
+Sep
+Oct
+Nov
+Dic
+COP Billones constantes de 2025
+Rango Interc.
+Min.
+Prom
+Máx.
+2025
+2024
+
+===== PÁGINA 18 =====
+Contenido
+18
+1.
+Cifras fiscales GNC a Enero 2025:
+a) Ingresos
+b) Gastos
+c)
+Balance
+d) Deuda
+2.
+Cifras a Febrero 2025:
+a) Gastos PGN
+b) Gastos GNC
+c)
+Financiamiento GNC
+3.
+Resumen
+4.
+Definiciones
+
+===== PÁGINA 19 =====
+19
+1.
+Las cifras de recaudo bruto y neto a enero de 2025 estuvieron COP 3,6 y 4,6 billones, respectivamente, por debajo de la
+meta del Plan Financiero del gobierno, mensualizada por el CARF. Las devoluciones en papeles y efectivo superaron lo
+proyectado, alcanzando COP 3,8 billones frente a los COP 2,7 billones esperados (según mensualización del CARF).
+2.
+Los gastos fiscal total y primario (medidos a través de pagos) en enero de 2025 fueron COP 24,8 y COP 23,2 billones,
+respectivamente. El grueso del gasto en inversión corresponde a la ejecución de la reserva presupuestal constituida en
+2024; la ejecución de la inversión correspondiente al PGN 2025 es baja.
+3.
+Los niveles de déficit total y primario fueron 0,7% y 0,5% del PIB, respectivamente, los más altos desde que se tienen
+registros. De acuerdo con la meta establecida en el Plan Financiero 2025, el balance primario deberá situarse al cierre
+de 2025 en -0,2% del PIB, es decir 0,3pp del PIB por encima del nivel ya alcanzado en enero de 2025.
+Resumen del seguimiento fiscal
+Enero 2025
+
+===== PÁGINA 20 =====
+20
+Resumen del seguimiento fiscal
+Febrero 2025
+1.
+El gasto total mensual y primario de febrero de 2025 es COP 34,8 billones y COP 28,5 billones, respectivamente. La meta de
+gasto mensual según Plan Financiero es COP 34,9 billones (la meta anual es COP 418,7 billones), pero es importante
+considerar que la ejecución del gasto suele ser mayor en los últimos meses del año.
+2.
+Con corte a febrero de 2025 se ha pagado 1,1% del PIB correspondiente a la reserva presupuestal constituida en 2024. Esta
+cifra es superior en 0,4pp del PIB a la registrada un año atrás. La diferencia entre obligaciones y pagos correspondientes a
+la reserva presupuestal (0,7pp del PIB o COP 12 billones) puede suponer presiones de liquidez en los próximos meses.
+3.
+La curva cero cupón de los TES COP tasa fija se empinó en febrero, moderando marginalmente la presión observada en
+diciembre de 2024. A pesar de haber registrado valorizaciones en el mercado secundario, las tasas de financiación en el
+mercado primario siguen elevadas respecto de los cupones de los títulos activos, lo que ha mantenido presión sobre la
+liquidez del tesoro.
+4.
+Lo anterior se ratifica, al observar las colocaciones de TES, que han estado sujetas a los altos niveles de tasas en el
+mercado secundario, con descuentos en subastas que sumaron COP 1 billón en febrero, lo que eleva el acumulado anual al
+36% del total de descuentos observados en 2024 (COP 5,6 billones).
+5.
+Durante los primeros dos meses de 2025 se ha colocado el 30,2% de la meta de colocación de TES de 2025, asociado tanto
+a colocaciones con creadores de mercado como con entidades públicas.
+6.
+Las dinámicas de ingresos, gastos y financiamiento reflejan el comportamiento de la disponibilidad de caja en pesos, que se
+mantiene en mínimos históricos en 2024.
+
+===== PÁGINA 21 =====
+Contenido
+21
+1.
+Cifras fiscales GNC a Enero 2025:
+a) Ingresos
+b) Gastos
+c)
+Balance
+d) Deuda
+2.
+Cifras a Febrero 2025:
+a) Gastos PGN
+b) Gastos GNC
+c)
+Financiamiento GNC
+3.
+Resumen
+4.
+Definiciones
+
+===== PÁGINA 22 =====
+22
+Seguimiento recaudo tributario
+El seguimiento al recaudo bruto mensual se realiza a partir de la siguiente metodología e indicadores:
+1.
+Comportamiento histórico del recaudo bruto acumulado: Se compara el recaudo en términos nominales y
+reales, calculando el crecimiento nominal y real para lo corrido del año.
+2.
+Comportamiento del recaudo acumulado frente a la meta mensualizada:
+La DT-CARF establece la meta mensual de recaudo partiendo de la meta anual de recaudo neto del Gobierno
+Nacional, comunicada en el Plan Financiero de 2025, COP 298,8 billones.
+Esta meta se desagrega incorporando la distribución por impuestos de la Gestión DIAN y las devoluciones en
+efectivo y en papeles, utilizando como referencia el comportamiento histórico de estos componentes.
+Adicionalmente, se analiza el comportamiento histórico de cada impuesto, evaluando su evolución mensual en
+relación con el total recaudado.
+Este enfoque permite incorporar la estacionalidad del calendario tributario y, a su vez, aislar posibles distorsiones
+generadas entre vigencias debido a reformas tributarias. Como resultado de este ejercicio, se obtienen las
+participaciones mensuales, reflejando las dinámicas específicas de cada impuesto. Al integrar estos elementos,
+se construyen las metas mensualizadas por impuesto, que se presentan tanto para la meta establecida por el
+MHCP como para la proyección estimada por la DT-CARF, permitiendo un seguimiento detallado y comparativo
+del comportamiento del recaudo fiscal.
+
+===== PÁGINA 23 =====
+23
+Seguimiento ejecución PGN 
+Fuente: MHCP (2023). Aspectos Generales del Proceso Presupuestal Colombiano – Sexta revisión.
+La ejecución presupuestal, es decir el avance en los gastos del Presupuesto, se puede analizar a
+través de los cuatro momentos presupuestales:
+1. Apropiaciones: Son las autorizaciones máximas de gasto establecidas por el Congreso para un
+periodo fiscal específico. Representan el límite de recursos disponibles para ser utilizados.
+2. Compromisos: Es la reserva de una parte de la apropiación para un gasto futuro específico. Se
+generan por los actos y contratos expedidos o celebrados por los órganos públicos, en desarrollo
+de la capacidad de contratar y de comprometer el presupuesto, en cumplimiento de las funciones
+asignadas por la ley.
+3. Obligaciones: Se generan cuando se hace exigible de pago el monto adeudado por la entidad
+pública como consecuencia del perfeccionamiento y cumplimiento (total o parcial) de los
+compromisos adquiridos, equivalente al valor de los bienes recibidos, servicios prestados y
+demás exigibilidades pendientes de pago.
+4. Pagos: Es el desembolso efectivo de los recursos para liquidar las obligaciones contraídas, una
+vez verificados los requisitos previstos en el respectivo acto administrativo o en el contrato.
+
+===== PÁGINA 24 =====
+24
+Seguimiento intereses causados y curvas TES
+La sección analiza el comportamiento de las curvas de TES y se calculan los componentes causados de
+los intereses correspondientes a la prima o descuento en colocación de TES, así como la indexación de
+los títulos a la UVR. Este seguimiento permite anticipar los efectos de la dinámica del mercado de deuda
+pública sobre el gasto por intereses del Balance del GNC en el periodo actual.
+1. Evolución de las curvas de rendimientos de los TES: permite cuantificar valorizaciones o
+desvalorizaciones de los TES en el mercado secundario y anticipar la dinámica de las tasas de
+colocación en las subastas de TES del mercado primario. Este análisis permite identificar posibles
+variaciones en las estimaciones del rubro de intereses del balance del GNC asociado a la ganancia o
+pérdida en colocación de TES.
+2. Cálculo de los componentes causados de los intereses: cuantifica el efecto del diferencial entre
+las tasas de corte en las subastas del mercado primario y las tasas cupón de los títulos emitidos para
+determinar la magnitud de la prima o descuento en colocación.
+3. Cálculo de las indexaciones: presenta el volumen acumulado de las indexaciones de los títulos
+denominados en UVR en lo corrido del año. Este resultado permite anticipar desviaciones sobre la
+estimación incorporada dentro de los gastos por intereses del balance fiscal del GNC.
+
+===== PÁGINA 25 =====

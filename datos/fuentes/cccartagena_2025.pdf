@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        <title>Página no encontrada (404) | Cámara de Comercio de Cartagena</title>
+        <meta name="description" content="La página que buscas no existe o fue movida. Vuelve al inicio para explorar nuestros servicios y trámites empresariales en Cartagena." />
+        <meta name="robots" content="noindex, follow" />
+        <meta name="googlebot" content="noindex, follow" />
+        <meta name="author" content="Cámara de Comercio de Cartagena" />
+        <meta name="publisher" content="Cámara de Comercio de Cartagena" />
+
+        <link rel="canonical" href="https://www.cccartagena.org.co/es" />
+        <link rel="alternate" hreflang="es" href="https://www.cccartagena.org.co/es" />
+        <link rel="alternate" hreflang="en" href="https://www.cccartagena.org.co/en" />
+        <link rel="alternate" hreflang="x-default" href="https://www.cccartagena.org.co/es" />
+
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content="Página no encontrada (404) | Cámara de Comercio de Cartagena" />
+        <meta property="og:description" content="La página que buscas no existe o fue movida. Vuelve al inicio para explorar nuestros servicios y trámites empresariales en Cartagena." />
+        <meta property="og:url" content="https://www.cccartagena.org.co/es" />
+        <meta property="og:image" content="/recursos/imagenes/og-image.jpg" />
+        <meta property="og:site_name" content="Cámara de Comercio de Cartagena" />
+        <meta property="og:locale" content="es_CO" />
+
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content="Página no encontrada (404) | Cámara de Comercio de Cartagena" />
+        <meta name="twitter:description" content="La página que buscas no existe o fue movida. Vuelve al inicio para explorar nuestros servicios y trámites empresariales en Cartagena." />
+        <meta name="twitter:image" content="/recursos/imagenes/og-image.jpg" />
+
+        <link rel="icon" type="image/x-icon" href="https://www.cccartagena.org.co/favicon.ico" />
+        <link type="text/css" rel="stylesheet" href="https://www.cccartagena.org.co/recursos/lib/node_modules/bootstrap/dist/css/bootstrap.min.css?cache=2026-06-06+12%3A12%3A39" />
+        <link href="https://www.cccartagena.org.co/recursos/css/main.css?cache=2026-06-06+12%3A12%3A39" rel="stylesheet" type="text/css" />
+    </head>
+
+    <body>
+        <main class="fondo-total2">
+            <div class="row justify-content-center no-gutters">
+                <div class="col-12 pb-4">
+                    <figure class="text-center"><img alt="Cámara de Comercio de Cartagena" src="https://www.cccartagena.org.co/recursos/imagenes/logo-camara-de-comercio.svg" class="img-fluid w-25" /></figure>
+                </div>
+
+                <div class="col-12 pb-2 text-center text-white">
+                    <h1 class="div-gracias mb-3">¡Ups! Esta página no existe</h1>
+                </div>
+
+                <div class="col-12 pb-4 text-center d-flex justify-content-center">
+                    <p class="hvr-wobble-horizontal btn-volver btn-primary"><a class="text-white" href="https://www.cccartagena.org.co/es">VOLVER AL INICIO</a></p>
+                </div>
+            </div>
+        </main>
+    </body>
+</html>

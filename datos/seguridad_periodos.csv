@@ -1,0 +1,63 @@
+gobierno,presidente,inicio,fin,indicador,valor_inicio,valor_fin,promedio_periodo,unidad,fuente,nota
+Samper (1994-1998),Ernesto Samper Pizano,1994-08-07,1998-08-07,homicidios_tasa,77.09,61.09,68.50,por 100k hab,Banco Mundial/UNODC,Descenso inicial por procesos de paz con FARC (1996-1998) pero fortalecimiento paramilitar
+Samper (1994-1998),Ernesto Samper Pizano,1994-08-07,1998-08-07,homicidios_total,24500,21000,22500,casos,Policía Nacional/Estimado,Serie Policía Nacional - datos parciales
+Samper (1994-1998),Ernesto Samper Pizano,1994-08-07,1998-08-07,secuestros,2582,3172,2850,casos,DANE/MinDefensa,Pico de secuestro extorsivo
+Samper (1994-1998),Ernesto Samper Pizano,1994-08-07,1998-08-07,cultivos_coca,0,160120,80060,hectáreas,UNODC/SIMCI,UNODC inicia medición 1999 - dato 1998 estimado
+Samper (1994-1998),Ernesto Samper Pizano,1994-08-07,1998-08-07,desplazamiento,150000,250000,200000,personas,CODHES/UARIV,Crisis de desplazamiento por expansión paramilitar
+Pastrana (1998-2002),Andrés Pastrana Arango,1998-08-07,2002-08-07,homicidios_tasa,61.09,70.40,66.50,por 100k hab,Banco Mundial/UNODC,Aumento durante fracaso proceso paz FARC
+Pastrana (1998-2002),Andrés Pastrana Arango,1998-08-07,2002-08-07,homicidios_total,21000,28500,24750,casos,Policía Nacional,Récord histórico de homicidios
+Pastrana (1998-2002),Andrés Pastrana Arango,1998-08-07,2002-08-07,secuestros,3172,2917,3050,casos,DANE/MinDefensa,Plan Rescate inicia operaciones
+Pastrana (1998-2002),Andrés Pastrana Arango,1998-08-07,2002-08-07,cultivos_coca,160120,102071,131095,hectáreas,UNODC/SIMCI,Reducción 36% por fumigación aérea
+Pastrana (1998-2002),Andrés Pastrana Arango,1998-08-07,2002-08-07,desplazamiento,250000,400000,325000,personas,CODHES/UARIV,Zona de distensión y expansión paramilitar
+Pastrana (1998-2002),Andrés Pastrana Arango,1998-08-07,2002-08-07,masacres,180,220,200,eventos,Indepaz (retroactivo),Metodología Indepaz aplicada retroactivamente
+Uribe I (2002-2006),Álvaro Uribe Vélez,2002-08-07,2006-08-07,homicidios_tasa,70.40,38.50,52.80,por 100k hab,Banco Mundial/UNODC,Descenso marcado por Política Seguridad Democrática
+Uribe I (2002-2006),Álvaro Uribe Vélez,2002-08-07,2006-08-07,homicidios_total,28500,16500,21500,casos,Policía Nacional,Reducción 42% en período
+Uribe I (2002-2006),Álvaro Uribe Vélez,2002-08-07,2006-08-07,secuestros,2917,687,1650,casos,DANE/MinDefensa,Reducción 76% - Plan Rescate intensivo
+Uribe I (2002-2006),Álvaro Uribe Vélez,2002-08-07,2006-08-07,cultivos_coca,102071,78000,88500,hectáreas,UNODC/SIMCI,Continúa reducción con erradicación manual
+Uribe I (2002-2006),Álvaro Uribe Vélez,2002-08-07,2006-08-07,desplazamiento,400000,280000,320000,personas,CODHES/UARIV,Reducción por control territorial
+Uribe I (2002-2006),Álvaro Uribe Vélez,2002-08-07,2006-08-07,masacres,220,95,145,eventos,Indepaz (retroactivo),Reducción significativa
+Uribe I (2002-2006),Álvaro Uribe Vélez,2002-08-07,2006-08-07,desmovilizados_auc,0,31000,15500,personas,Alto Comisionado Paz,Desmovilización AUC 2003-2006
+Uribe II (2006-2010),Álvaro Uribe Vélez,2006-08-07,2010-08-07,homicidios_tasa,38.50,34.52,36.20,por 100k hab,Banco Mundial/UNODC,Continúa descenso con Operación Jaque
+Uribe II (2006-2010),Álvaro Uribe Vélez,2006-08-07,2010-08-07,homicidios_total,16500,15500,15800,casos,Policía Nacional,Estabilización en mínimos
+Uribe II (2006-2010),Álvaro Uribe Vélez,2006-08-07,2010-08-07,secuestros,687,294,450,casos,DANE/MinDefensa,Mínimo histórico
+Uribe II (2006-2010),Álvaro Uribe Vélez,2006-08-07,2010-08-07,cultivos_coca,78000,62000,68500,hectáreas,UNODC/SIMCI,Mínimo histórico 2010
+Uribe II (2006-2010),Álvaro Uribe Vélez,2006-08-07,2010-08-07,desplazamiento,280000,220000,245000,personas,CODHES/UARIV,Continúa reducción
+Uribe II (2006-2010),Álvaro Uribe Vélez,2006-08-07,2010-08-07,masacres,95,48,65,eventos,Indepaz (retroactivo),Mínimos históricos
+Uribe II (2006-2010),Álvaro Uribe Vélez,2006-08-07,2010-08-07,falsos_positivos,1500,2000,1750,casos,JEP/CNJ,Casos ejecuciones extrajudiciales
+Santos I (2010-2014),Juan Manuel Santos Calderón,2010-08-07,2014-08-07,homicidios_tasa,34.52,27.80,30.50,por 100k hab,Banco Mundial/UNODC,Diálogos de paz La Habana 2012
+Santos I (2010-2014),Juan Manuel Santos Calderón,2010-08-07,2014-08-07,homicidios_total,15500,13200,14200,casos,Policía Nacional,Continúa descenso
+Santos I (2010-2014),Juan Manuel Santos Calderón,2010-08-07,2014-08-07,secuestros,294,175,220,casos,DANE/MinDefensa,Continúa reducción
+Santos I (2010-2014),Juan Manuel Santos Calderón,2010-08-07,2014-08-07,cultivos_coca,62000,69000,65500,hectáreas,UNODC/SIMCI,Incremento por suspensión fumigación
+Santos I (2010-2014),Juan Manuel Santos Calderón,2010-08-07,2014-08-07,desplazamiento,220000,180000,195000,personas,CODHES/UARIV,Ley de Víctimas 2011
+Santos I (2010-2014),Juan Manuel Santos Calderón,2010-08-07,2014-08-07,masacres,48,42,44,eventos,Indepaz,Estabilización
+Santos I (2010-2014),Juan Manuel Santos Calderón,2010-08-07,2014-08-07,victimas_conflicto,4800000,6200000,5500000,personas,UARIV,Registro único víctimas
+Santos II (2014-2018),Juan Manuel Santos Calderón,2014-08-07,2018-08-07,homicidios_tasa,27.80,23.82,25.50,por 100k hab,Banco Mundial/UNODC,Acuerdo de Paz 2016
+Santos II (2014-2018),Juan Manuel Santos Calderón,2014-08-07,2018-08-07,homicidios_total,13200,11500,12200,casos,Policía Nacional,Mínimos desde 1979
+Santos II (2014-2018),Juan Manuel Santos Calderón,2014-08-07,2018-08-07,secuestros,175,96,130,casos,DANE/MinDefensa,Mínimo histórico 2018
+Santos II (2014-2018),Juan Manuel Santos Calderón,2014-08-07,2018-08-07,cultivos_coca,69000,117000,93000,hectáreas,UNODC/SIMCI,Incremento 69% post-acuerdo
+Santos II (2014-2018),Juan Manuel Santos Calderón,2014-08-07,2018-08-07,desplazamiento,180000,145000,160000,personas,CODHES/UARIV,Reducción por Acuerdo Paz
+Santos II (2014-2018),Juan Manuel Santos Calderón,2014-08-07,2018-08-07,masacres,42,48,45,eventos,Indepaz,Ligero aumento post-acuerdo
+Santos II (2014-2018),Juan Manuel Santos Calderón,2014-08-07,2018-08-07,lideres_sociales,78,152,110,asesinatos/año,Indepaz,Inicio conteo sistemático 2016
+Santos II (2014-2018),Juan Manuel Santos Calderón,2014-08-07,2018-08-07,firmantes_paz,25,50,35,asesinatos/año,Indepaz,Excombatientes FARC asesinados
+Santos II (2014-2018),Juan Manuel Santos Calderón,2014-08-07,2018-08-07,victimas_minas,450,180,290,víctimas/año,OAICRE,Reducción por desminado
+Duque (2018-2022),Iván Duque Márquez,2018-08-07,2022-08-07,homicidios_tasa,23.82,26.50,25.80,por 100k hab,Banco Mundial/UNODC,Aumento por disidencias
+Duque (2018-2022),Iván Duque Márquez,2018-08-07,2022-08-07,homicidios_total,11500,13800,12650,casos,Policía Nacional,Incremento 20%
+Duque (2018-2022),Iván Duque Márquez,2018-08-07,2022-08-07,secuestros,96,135,115,casos,DANE/MinDefensa,Aumento por grupos armados
+Duque (2018-2022),Iván Duque Márquez,2018-08-07,2022-08-07,cultivos_coca,117000,230000,175000,hectáreas,UNODC/SIMCI,Récord histórico 2022
+Duque (2018-2022),Iván Duque Márquez,2018-08-07,2022-08-07,desplazamiento,145000,280000,210000,personas,CODHES/UARIV,Aumento por violencia rural
+Duque (2018-2022),Iván Duque Márquez,2018-08-07,2022-08-07,masacres,48,94,72,eventos,Indepaz,Aumento significativo
+Duque (2018-2022),Iván Duque Márquez,2018-08-07,2022-08-07,lideres_sociales,152,177,165,asesinatos/año,Indepaz,Récord de asesinatos
+Duque (2018-2022),Iván Duque Márquez,2018-08-07,2022-08-07,firmantes_paz,50,65,58,asesinatos/año,Indepaz,Continúa asesinato firmantes
+Duque (2018-2022),Iván Duque Márquez,2018-08-07,2022-08-07,victimas_minas,180,95,130,víctimas/año,OAICRE,Continúa desminado
+Petro (2022-2026),Gustavo Petro Urrego,2022-08-07,2026-08-07,homicidios_tasa,26.50,24.91,25.50,por 100k hab,Banco Mundial/UNODC,Estabilización relativa
+Petro (2022-2026),Gustavo Petro Urrego,2022-08-07,2026-08-07,homicidios_total,13800,12500,13000,casos,Policía Nacional,Ligero descenso
+Petro (2022-2026),Gustavo Petro Urrego,2022-08-07,2026-08-07,secuestros,135,110,120,casos,DANE/MinDefensa,Estabilización
+Petro (2022-2026),Gustavo Petro Urrego,2022-08-07,2026-08-07,cultivos_coca,230000,253000,240000,hectáreas,UNODC/SIMCI,Récord 2023 - leve reducción
+Petro (2022-2026),Gustavo Petro Urrego,2022-08-07,2026-08-07,desplazamiento,280000,190000,230000,personas,CODHES/UARIV,Reducción por Paz Total
+Petro (2022-2026),Gustavo Petro Urrego,2022-08-07,2026-08-07,masacres,94,21*,55,eventos,Indepaz,*21 en 59 días 2026
+Petro (2022-2026),Gustavo Petro Urrego,2022-08-07,2026-08-07,lideres_sociales,177,95*,135,asesinatos/año,Indepaz,*corte parcial 2026
+Petro (2022-2026),Gustavo Petro Urrego,2022-08-07,2026-08-07,firmantes_paz,65,40*,52,asesinatos/año,Indepaz,*corte parcial 2026
+Petro (2022-2026),Gustavo Petro Urrego,2022-08-07,2026-08-07,victimas_minas,95,45*,65,víctimas/año,OAICRE,*corte parcial 2026
+Petro (2022-2026),Gustavo Petro Urrego,2022-08-07,2026-08-07,acciones_eln,85,45,60,eventos/año,Defensoría/FIP,Diálogos Paz Total
+Petro (2022-2026),Gustavo Petro Urrego,2022-08-07,2026-08-07,acciones_disidencias,250,180,210,eventos/año,Defensoría/FIP,Disidencias FARC-EP
+Petro (2022-2026),Gustavo Petro Urrego,2022-08-07,2026-08-07,acciones_clan_golfo,120,85,100,eventos/año,Defensoría/FIP,EGC - Estado Mayor Central

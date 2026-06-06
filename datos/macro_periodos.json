@@ -1,0 +1,842 @@
+{
+  "1": {
+    "presidente": "Ernesto Samper",
+    "inicio": "1994-08-07",
+    "fin": "1998-08-07",
+    "indicadores": {
+      "PIB_crecimiento_anual": {
+        "valor_inicio": "5.39",
+        "valor_fin": "0.57",
+        "unidad": "% anual",
+        "fuente": "Banco Mundial API NY.GDP.MKTP.KD.ZG (consultado 2026-06-06); 2025=DANE PIB IV trim 2025 preliminar",
+        "nota": "PIB inicio=ano previo. PIB inicio=1993 (ano previo a Samper). SMMLV inicio=vigente en ago-1994 ($98,700). Pobreza/Gini pre-2012 NO comparables con post-2012 (metodologia DANE cambio en 2012)."
+      },
+      "PIB_per_capita_USD": {
+        "valor_inicio": "2325.92",
+        "valor_fin": "2604.87",
+        "unidad": "USD/persona",
+        "fuente": "Banco Mundial API NY.GDP.PCAP.CD (consultado 2026-06-06)",
+        "nota": "Promedio anual corriente. PIB inicio=1993 (ano previo a Samper). SMMLV inicio=vigente en ago-1994 ($98,700). Pobreza/Gini pre-2012 NO comparables con post-2012 (metodologia DANE cambio en 2012)."
+      },
+      "Inflacion_IPC": {
+        "valor_inicio": "22.85",
+        "valor_fin": "18.68",
+        "unidad": "% anual",
+        "fuente": "Banco Mundial API FP.CPI.TOTL.ZG (consultado 2026-06-06); 2025=DANE IPC cierre 5,1%",
+        "nota": "IPC fin de ano. PIB inicio=1993 (ano previo a Samper). SMMLV inicio=vigente en ago-1994 ($98,700). Pobreza/Gini pre-2012 NO comparables con post-2012 (metodologia DANE cambio en 2012)."
+      },
+      "Desempleo_nacional": {
+        "valor_inicio": "8.25",
+        "valor_fin": "15.00",
+        "unidad": "% PEA",
+        "fuente": "Banco Mundial API SL.UEM.TOTL.ZS (consultado 2026-06-06); estimación ILO",
+        "nota": "Modelo ILO BM. PIB inicio=1993 (ano previo a Samper). SMMLV inicio=vigente en ago-1994 ($98,700). Pobreza/Gini pre-2012 NO comparables con post-2012 (metodologia DANE cambio en 2012)."
+      },
+      "Pobreza_monetaria": {
+        "valor_inicio": "sin dato publico disponible",
+        "valor_fin": "52.5",
+        "unidad": "%",
+        "fuente": "DANE pobreza monetaria nacional; pre-2012 metodologia previa (NO comparable con post-2012); 2025=DANE preliminar",
+        "nota": "DANE. PIB inicio=1993 (ano previo a Samper). SMMLV inicio=vigente en ago-1994 ($98,700). Pobreza/Gini pre-2012 NO comparables con post-2012 (metodologia DANE cambio en 2012)."
+      },
+      "Gini": {
+        "valor_inicio": "sin dato publico disponible",
+        "valor_fin": "56.3",
+        "unidad": "indice 0-100",
+        "fuente": "Banco Mundial API SI.POV.GINI; valores 1997-1998 y 2006-2007 DANE Encuesta de Hogares",
+        "nota": "Banco Mundial/DANE. PIB inicio=1993 (ano previo a Samper). SMMLV inicio=vigente en ago-1994 ($98,700). Pobreza/Gini pre-2012 NO comparables con post-2012 (metodologia DANE cambio en 2012)."
+      },
+      "Deuda_publica_PIB": {
+        "valor_inicio": "11.4",
+        "valor_fin": "22.0",
+        "unidad": "% PIB",
+        "fuente": "Minhacienda Balance GNC 1994-2025 (% PIB DANE cierre); 2025=58,5% Comunicado MH 19-05-2026",
+        "nota": "Minhacienda GNC cierre (% PIB DANE). PIB inicio=1993 (ano previo a Samper). SMMLV inicio=vigente en ago-1994 ($98,700). Pobreza/Gini pre-2012 NO comparables con post-2012 (metodologia DANE cambio en 2012)."
+      },
+      "TRM_promedio_anual": {
+        "valor_inicio": "826.54",
+        "valor_fin": "1426.42",
+        "unidad": "COP/USD",
+        "fuente": "Banco Mundial API PA.NUS.FCRF (consultado 2026-06-06); 2025=4.052,86 Banrep promedio anual",
+        "nota": "BM; 2025=Banrep. PIB inicio=1993 (ano previo a Samper). SMMLV inicio=vigente en ago-1994 ($98,700). Pobreza/Gini pre-2012 NO comparables con post-2012 (metodologia DANE cambio en 2012)."
+      },
+      "Salario_minimo_mensual": {
+        "valor_inicio": "98700",
+        "valor_fin": "203825",
+        "unidad": "COP nominal",
+        "fuente": "Ministerio del Trabajo (Decretos anuales SMMLV); Wikipedia",
+        "nota": "SMMLV vigente al inicio/fin. PIB inicio=1993 (ano previo a Samper). SMMLV inicio=vigente en ago-1994 ($98,700). Pobreza/Gini pre-2012 NO comparables con post-2012 (metodologia DANE cambio en 2012)."
+      },
+      "Salario_minimo_var_real_acum": {
+        "valor_inicio": "-18.1",
+        "valor_fin": "-18.1",
+        "unidad": "% real acum",
+        "fuente": "Ministerio del Trabajo (Decretos anuales SMMLV); Wikipedia",
+        "nota": "Var real SMMLV = (SMMLV_f/SMMLV_i)/cumulative IPC - 1. PIB inicio=1993 (ano previo a Samper). SMMLV inicio=vigente en ago-1994 ($98,700). Pobreza/Gini pre-2012 NO comparables con post-2012 (metodologia DANE cambio en 2012)."
+      },
+      "IED_flujos_netos_periodo": {
+        "valor_inicio": "suma",
+        "valor_fin": "13917",
+        "unidad": "USD millones",
+        "fuente": "Banco Mundial API BX.KLT.DINV.CD.WD (consultado 2026-06-06); 2025=Banrep comunicado ene-2026 (US$9.174M)",
+        "nota": "Suma 1994-1998. PIB inicio=1993 (ano previo a Samper). SMMLV inicio=vigente en ago-1994 ($98,700). Pobreza/Gini pre-2012 NO comparables con post-2012 (metodologia DANE cambio en 2012)."
+      },
+      "Export_totales_periodo": {
+        "valor_inicio": "suma",
+        "valor_fin": "51801",
+        "unidad": "USD millones FOB",
+        "fuente": "DANE - Serie Exportaciones (SerieCafeCarbonPetroleoNotradicionales abril 2026)",
+        "nota": "Suma 1994-1998. PIB inicio=1993 (ano previo a Samper). SMMLV inicio=vigente en ago-1994 ($98,700). Pobreza/Gini pre-2012 NO comparables con post-2012 (metodologia DANE cambio en 2012)."
+      },
+      "Export_petroleras_periodo": {
+        "valor_inicio": "suma",
+        "valor_fin": "11481",
+        "unidad": "USD millones FOB",
+        "fuente": "DANE - Serie Exportaciones - Petroleo y derivados FOB",
+        "nota": "Suma 1994-1998 petroleo y derivados. PIB inicio=1993 (ano previo a Samper). SMMLV inicio=vigente en ago-1994 ($98,700). Pobreza/Gini pre-2012 NO comparables con post-2012 (metodologia DANE cambio en 2012)."
+      },
+      "Export_no_petroleras_periodo": {
+        "valor_inicio": "suma",
+        "valor_fin": "40320",
+        "unidad": "USD millones FOB",
+        "fuente": "DANE - Exportaciones no tradicionales (proxy no petrolero)",
+        "nota": "Suma 1994-1998 no tradicionales (incluye carbon, cafe, otros). PIB inicio=1993 (ano previo a Samper). SMMLV inicio=vigente en ago-1994 ($98,700). Pobreza/Gini pre-2012 NO comparables con post-2012 (metodologia DANE cambio en 2012)."
+      }
+    }
+  },
+  "2": {
+    "presidente": "Andrés Pastrana",
+    "inicio": "1998-08-07",
+    "fin": "2002-08-07",
+    "indicadores": {
+      "PIB_crecimiento_anual": {
+        "valor_inicio": "3.43",
+        "valor_fin": "2.50",
+        "unidad": "% anual",
+        "fuente": "Banco Mundial API NY.GDP.MKTP.KD.ZG (consultado 2026-06-06); 2025=DANE PIB IV trim 2025 preliminar",
+        "nota": "PIB inicio=ano previo. Periodo crisis 1998-1999. Desempleo duplica 1998-2000."
+      },
+      "PIB_per_capita_USD": {
+        "valor_inicio": "2604.87",
+        "valor_fin": "2428.93",
+        "unidad": "USD/persona",
+        "fuente": "Banco Mundial API NY.GDP.PCAP.CD (consultado 2026-06-06)",
+        "nota": "Promedio anual corriente. Periodo crisis 1998-1999. Desempleo duplica 1998-2000."
+      },
+      "Inflacion_IPC": {
+        "valor_inicio": "18.68",
+        "valor_fin": "6.35",
+        "unidad": "% anual",
+        "fuente": "Banco Mundial API FP.CPI.TOTL.ZG (consultado 2026-06-06); 2025=DANE IPC cierre 5,1%",
+        "nota": "IPC fin de ano. Periodo crisis 1998-1999. Desempleo duplica 1998-2000."
+      },
+      "Desempleo_nacional": {
+        "valor_inicio": "15.00",
+        "valor_fin": "14.48",
+        "unidad": "% PEA",
+        "fuente": "Banco Mundial API SL.UEM.TOTL.ZS (consultado 2026-06-06); estimación ILO",
+        "nota": "Modelo ILO BM. Periodo crisis 1998-1999. Desempleo duplica 1998-2000."
+      },
+      "Pobreza_monetaria": {
+        "valor_inicio": "52.5",
+        "valor_fin": "49.4",
+        "unidad": "%",
+        "fuente": "DANE pobreza monetaria nacional; pre-2012 metodologia previa (NO comparable con post-2012); 2025=DANE preliminar",
+        "nota": "DANE. Periodo crisis 1998-1999. Desempleo duplica 1998-2000."
+      },
+      "Gini": {
+        "valor_inicio": "56.3",
+        "valor_fin": "56.0",
+        "unidad": "indice 0-100",
+        "fuente": "Banco Mundial API SI.POV.GINI; valores 1997-1998 y 2006-2007 DANE Encuesta de Hogares",
+        "nota": "Banco Mundial/DANE. Periodo crisis 1998-1999. Desempleo duplica 1998-2000."
+      },
+      "Deuda_publica_PIB": {
+        "valor_inicio": "22.0",
+        "valor_fin": "39.4",
+        "unidad": "% PIB",
+        "fuente": "Minhacienda Balance GNC 1994-2025 (% PIB DANE cierre); 2025=58,5% Comunicado MH 19-05-2026",
+        "nota": "Minhacienda GNC cierre (% PIB DANE). Periodo crisis 1998-1999. Desempleo duplica 1998-2000."
+      },
+      "TRM_promedio_anual": {
+        "valor_inicio": "1426.42",
+        "valor_fin": "2504.68",
+        "unidad": "COP/USD",
+        "fuente": "Banco Mundial API PA.NUS.FCRF (consultado 2026-06-06); 2025=4.052,86 Banrep promedio anual",
+        "nota": "BM; 2025=Banrep. Periodo crisis 1998-1999. Desempleo duplica 1998-2000."
+      },
+      "Salario_minimo_mensual": {
+        "valor_inicio": "203825",
+        "valor_fin": "309000",
+        "unidad": "COP nominal",
+        "fuente": "Ministerio del Trabajo (Decretos anuales SMMLV); Wikipedia",
+        "nota": "SMMLV vigente al inicio/fin. Periodo crisis 1998-1999. Desempleo duplica 1998-2000."
+      },
+      "Salario_minimo_var_real_acum": {
+        "valor_inicio": "-8.1",
+        "valor_fin": "-8.1",
+        "unidad": "% real acum",
+        "fuente": "Ministerio del Trabajo (Decretos anuales SMMLV); Wikipedia",
+        "nota": "Var real SMMLV = (SMMLV_f/SMMLV_i)/cumulative IPC - 1. Periodo crisis 1998-1999. Desempleo duplica 1998-2000."
+      },
+      "IED_flujos_netos_periodo": {
+        "valor_inicio": "suma",
+        "valor_fin": "11449",
+        "unidad": "USD millones",
+        "fuente": "Banco Mundial API BX.KLT.DINV.CD.WD (consultado 2026-06-06); 2025=Banrep comunicado ene-2026 (US$9.174M)",
+        "nota": "Suma 1998-2002. Periodo crisis 1998-1999. Desempleo duplica 1998-2000."
+      },
+      "Export_totales_periodo": {
+        "valor_inicio": "suma",
+        "valor_fin": "59946",
+        "unidad": "USD millones FOB",
+        "fuente": "DANE - Serie Exportaciones (SerieCafeCarbonPetroleoNotradicionales abril 2026)",
+        "nota": "Suma 1998-2002. Periodo crisis 1998-1999. Desempleo duplica 1998-2000."
+      },
+      "Export_petroleras_periodo": {
+        "valor_inicio": "suma",
+        "valor_fin": "17420",
+        "unidad": "USD millones FOB",
+        "fuente": "DANE - Serie Exportaciones - Petroleo y derivados FOB",
+        "nota": "Suma 1998-2002 petroleo y derivados. Periodo crisis 1998-1999. Desempleo duplica 1998-2000."
+      },
+      "Export_no_petroleras_periodo": {
+        "valor_inicio": "suma",
+        "valor_fin": "42526",
+        "unidad": "USD millones FOB",
+        "fuente": "DANE - Exportaciones no tradicionales (proxy no petrolero)",
+        "nota": "Suma 1998-2002 no tradicionales (incluye carbon, cafe, otros). Periodo crisis 1998-1999. Desempleo duplica 1998-2000."
+      }
+    }
+  },
+  "3": {
+    "presidente": "Álvaro Uribe I",
+    "inicio": "2002-08-07",
+    "fin": "2006-08-07",
+    "indicadores": {
+      "PIB_crecimiento_anual": {
+        "valor_inicio": "1.68",
+        "valor_fin": "6.72",
+        "unidad": "% anual",
+        "fuente": "Banco Mundial API NY.GDP.MKTP.KD.ZG (consultado 2026-06-06); 2025=DANE PIB IV trim 2025 preliminar",
+        "nota": "PIB inicio=ano previo. Recuperacion acelerada. PIB > 4%. Salario real crece."
+      },
+      "PIB_per_capita_USD": {
+        "valor_inicio": "2428.93",
+        "valor_fin": "3789.85",
+        "unidad": "USD/persona",
+        "fuente": "Banco Mundial API NY.GDP.PCAP.CD (consultado 2026-06-06)",
+        "nota": "Promedio anual corriente. Recuperacion acelerada. PIB > 4%. Salario real crece."
+      },
+      "Inflacion_IPC": {
+        "valor_inicio": "6.35",
+        "valor_fin": "4.29",
+        "unidad": "% anual",
+        "fuente": "Banco Mundial API FP.CPI.TOTL.ZG (consultado 2026-06-06); 2025=DANE IPC cierre 5,1%",
+        "nota": "IPC fin de ano. Recuperacion acelerada. PIB > 4%. Salario real crece."
+      },
+      "Desempleo_nacional": {
+        "valor_inicio": "14.48",
+        "valor_fin": "11.09",
+        "unidad": "% PEA",
+        "fuente": "Banco Mundial API SL.UEM.TOTL.ZS (consultado 2026-06-06); estimación ILO",
+        "nota": "Modelo ILO BM. Recuperacion acelerada. PIB > 4%. Salario real crece."
+      },
+      "Pobreza_monetaria": {
+        "valor_inicio": "49.4",
+        "valor_fin": "42.0",
+        "unidad": "%",
+        "fuente": "DANE pobreza monetaria nacional; pre-2012 metodologia previa (NO comparable con post-2012); 2025=DANE preliminar",
+        "nota": "DANE. Recuperacion acelerada. PIB > 4%. Salario real crece."
+      },
+      "Gini": {
+        "valor_inicio": "56.0",
+        "valor_fin": "53.5",
+        "unidad": "indice 0-100",
+        "fuente": "Banco Mundial API SI.POV.GINI; valores 1997-1998 y 2006-2007 DANE Encuesta de Hogares",
+        "nota": "Banco Mundial/DANE. Recuperacion acelerada. PIB > 4%. Salario real crece."
+      },
+      "Deuda_publica_PIB": {
+        "valor_inicio": "39.4",
+        "valor_fin": "31.8",
+        "unidad": "% PIB",
+        "fuente": "Minhacienda Balance GNC 1994-2025 (% PIB DANE cierre); 2025=58,5% Comunicado MH 19-05-2026",
+        "nota": "Minhacienda GNC cierre (% PIB DANE). Recuperacion acelerada. PIB > 4%. Salario real crece."
+      },
+      "TRM_promedio_anual": {
+        "valor_inicio": "2504.68",
+        "valor_fin": "2358.59",
+        "unidad": "COP/USD",
+        "fuente": "Banco Mundial API PA.NUS.FCRF (consultado 2026-06-06); 2025=4.052,86 Banrep promedio anual",
+        "nota": "BM; 2025=Banrep. Recuperacion acelerada. PIB > 4%. Salario real crece."
+      },
+      "Salario_minimo_mensual": {
+        "valor_inicio": "309000",
+        "valor_fin": "408000",
+        "unidad": "COP nominal",
+        "fuente": "Ministerio del Trabajo (Decretos anuales SMMLV); Wikipedia",
+        "nota": "SMMLV vigente al inicio/fin. Recuperacion acelerada. PIB > 4%. Salario real crece."
+      },
+      "Salario_minimo_var_real_acum": {
+        "valor_inicio": "-0.1",
+        "valor_fin": "-0.1",
+        "unidad": "% real acum",
+        "fuente": "Ministerio del Trabajo (Decretos anuales SMMLV); Wikipedia",
+        "nota": "Var real SMMLV = (SMMLV_f/SMMLV_i)/cumulative IPC - 1. Recuperacion acelerada. PIB > 4%. Salario real crece."
+      },
+      "IED_flujos_netos_periodo": {
+        "valor_inicio": "suma",
+        "valor_fin": "23956",
+        "unidad": "USD millones",
+        "fuente": "Banco Mundial API BX.KLT.DINV.CD.WD (consultado 2026-06-06); 2025=Banrep comunicado ene-2026 (US$9.174M)",
+        "nota": "Suma 2002-2006. Recuperacion acelerada. PIB > 4%. Salario real crece."
+      },
+      "Export_totales_periodo": {
+        "valor_inicio": "suma",
+        "valor_fin": "87549",
+        "unidad": "USD millones FOB",
+        "fuente": "DANE - Serie Exportaciones (SerieCafeCarbonPetroleoNotradicionales abril 2026)",
+        "nota": "Suma 2002-2006. Recuperacion acelerada. PIB > 4%. Salario real crece."
+      },
+      "Export_petroleras_periodo": {
+        "valor_inicio": "suma",
+        "valor_fin": "22777",
+        "unidad": "USD millones FOB",
+        "fuente": "DANE - Serie Exportaciones - Petroleo y derivados FOB",
+        "nota": "Suma 2002-2006 petroleo y derivados. Recuperacion acelerada. PIB > 4%. Salario real crece."
+      },
+      "Export_no_petroleras_periodo": {
+        "valor_inicio": "suma",
+        "valor_fin": "64772",
+        "unidad": "USD millones FOB",
+        "fuente": "DANE - Exportaciones no tradicionales (proxy no petrolero)",
+        "nota": "Suma 2002-2006 no tradicionales (incluye carbon, cafe, otros). Recuperacion acelerada. PIB > 4%. Salario real crece."
+      }
+    }
+  },
+  "4": {
+    "presidente": "Álvaro Uribe II",
+    "inicio": "2006-08-07",
+    "fin": "2010-08-07",
+    "indicadores": {
+      "PIB_crecimiento_anual": {
+        "valor_inicio": "4.83",
+        "valor_fin": "4.49",
+        "unidad": "% anual",
+        "fuente": "Banco Mundial API NY.GDP.MKTP.KD.ZG (consultado 2026-06-06); 2025=DANE PIB IV trim 2025 preliminar",
+        "nota": "PIB inicio=ano previo. Boom commodities. TRM baja. Exportaciones petroleras se multiplican x10."
+      },
+      "PIB_per_capita_USD": {
+        "valor_inicio": "3789.85",
+        "valor_fin": "6398.30",
+        "unidad": "USD/persona",
+        "fuente": "Banco Mundial API NY.GDP.PCAP.CD (consultado 2026-06-06)",
+        "nota": "Promedio anual corriente. Boom commodities. TRM baja. Exportaciones petroleras se multiplican x10."
+      },
+      "Inflacion_IPC": {
+        "valor_inicio": "4.29",
+        "valor_fin": "2.27",
+        "unidad": "% anual",
+        "fuente": "Banco Mundial API FP.CPI.TOTL.ZG (consultado 2026-06-06); 2025=DANE IPC cierre 5,1%",
+        "nota": "IPC fin de ano. Boom commodities. TRM baja. Exportaciones petroleras se multiplican x10."
+      },
+      "Desempleo_nacional": {
+        "valor_inicio": "11.09",
+        "valor_fin": "11.15",
+        "unidad": "% PEA",
+        "fuente": "Banco Mundial API SL.UEM.TOTL.ZS (consultado 2026-06-06); estimación ILO",
+        "nota": "Modelo ILO BM. Boom commodities. TRM baja. Exportaciones petroleras se multiplican x10."
+      },
+      "Pobreza_monetaria": {
+        "valor_inicio": "42.0",
+        "valor_fin": "37.2",
+        "unidad": "%",
+        "fuente": "DANE pobreza monetaria nacional; pre-2012 metodologia previa (NO comparable con post-2012); 2025=DANE preliminar",
+        "nota": "DANE. Boom commodities. TRM baja. Exportaciones petroleras se multiplican x10."
+      },
+      "Gini": {
+        "valor_inicio": "53.5",
+        "valor_fin": "54.4",
+        "unidad": "indice 0-100",
+        "fuente": "Banco Mundial API SI.POV.GINI; valores 1997-1998 y 2006-2007 DANE Encuesta de Hogares",
+        "nota": "Banco Mundial/DANE. Boom commodities. TRM baja. Exportaciones petroleras se multiplican x10."
+      },
+      "Deuda_publica_PIB": {
+        "valor_inicio": "31.8",
+        "valor_fin": "27.7",
+        "unidad": "% PIB",
+        "fuente": "Minhacienda Balance GNC 1994-2025 (% PIB DANE cierre); 2025=58,5% Comunicado MH 19-05-2026",
+        "nota": "Minhacienda GNC cierre (% PIB DANE). Boom commodities. TRM baja. Exportaciones petroleras se multiplican x10."
+      },
+      "TRM_promedio_anual": {
+        "valor_inicio": "2358.59",
+        "valor_fin": "1899.00",
+        "unidad": "COP/USD",
+        "fuente": "Banco Mundial API PA.NUS.FCRF (consultado 2026-06-06); 2025=4.052,86 Banrep promedio anual",
+        "nota": "BM; 2025=Banrep. Boom commodities. TRM baja. Exportaciones petroleras se multiplican x10."
+      },
+      "Salario_minimo_mensual": {
+        "valor_inicio": "408000",
+        "valor_fin": "515000",
+        "unidad": "COP nominal",
+        "fuente": "Ministerio del Trabajo (Decretos anuales SMMLV); Wikipedia",
+        "nota": "SMMLV vigente al inicio/fin. Boom commodities. TRM baja. Exportaciones petroleras se multiplican x10."
+      },
+      "Salario_minimo_var_real_acum": {
+        "valor_inicio": "0.6",
+        "valor_fin": "0.6",
+        "unidad": "% real acum",
+        "fuente": "Ministerio del Trabajo (Decretos anuales SMMLV); Wikipedia",
+        "nota": "Var real SMMLV = (SMMLV_f/SMMLV_i)/cumulative IPC - 1. Boom commodities. TRM baja. Exportaciones petroleras se multiplican x10."
+      },
+      "IED_flujos_netos_periodo": {
+        "valor_inicio": "suma",
+        "valor_fin": "40666",
+        "unidad": "USD millones",
+        "fuente": "Banco Mundial API BX.KLT.DINV.CD.WD (consultado 2026-06-06); 2025=Banrep comunicado ene-2026 (US$9.174M)",
+        "nota": "Suma 2006-2010. Boom commodities. TRM baja. Exportaciones petroleras se multiplican x10."
+      },
+      "Export_totales_periodo": {
+        "valor_inicio": "suma",
+        "valor_fin": "164136",
+        "unidad": "USD millones FOB",
+        "fuente": "DANE - Serie Exportaciones (SerieCafeCarbonPetroleoNotradicionales abril 2026)",
+        "nota": "Suma 2006-2010. Boom commodities. TRM baja. Exportaciones petroleras se multiplican x10."
+      },
+      "Export_petroleras_periodo": {
+        "valor_inicio": "suma",
+        "valor_fin": "52637",
+        "unidad": "USD millones FOB",
+        "fuente": "DANE - Serie Exportaciones - Petroleo y derivados FOB",
+        "nota": "Suma 2006-2010 petroleo y derivados. Boom commodities. TRM baja. Exportaciones petroleras se multiplican x10."
+      },
+      "Export_no_petroleras_periodo": {
+        "valor_inicio": "suma",
+        "valor_fin": "111499",
+        "unidad": "USD millones FOB",
+        "fuente": "DANE - Exportaciones no tradicionales (proxy no petrolero)",
+        "nota": "Suma 2006-2010 no tradicionales (incluye carbon, cafe, otros). Boom commodities. TRM baja. Exportaciones petroleras se multiplican x10."
+      }
+    }
+  },
+  "5": {
+    "presidente": "Juan Manuel Santos I",
+    "inicio": "2010-08-07",
+    "fin": "2014-08-07",
+    "indicadores": {
+      "PIB_crecimiento_anual": {
+        "valor_inicio": "1.14",
+        "valor_fin": "4.50",
+        "unidad": "% anual",
+        "fuente": "Banco Mundial API NY.GDP.MKTP.KD.ZG (consultado 2026-06-06); 2025=DANE PIB IV trim 2025 preliminar",
+        "nota": "PIB inicio=ano previo. Crisis Lehman 2008-2009. PIB per capita cae."
+      },
+      "PIB_per_capita_USD": {
+        "valor_inicio": "6398.30",
+        "valor_fin": "8187.21",
+        "unidad": "USD/persona",
+        "fuente": "Banco Mundial API NY.GDP.PCAP.CD (consultado 2026-06-06)",
+        "nota": "Promedio anual corriente. Crisis Lehman 2008-2009. PIB per capita cae."
+      },
+      "Inflacion_IPC": {
+        "valor_inicio": "2.27",
+        "valor_fin": "2.90",
+        "unidad": "% anual",
+        "fuente": "Banco Mundial API FP.CPI.TOTL.ZG (consultado 2026-06-06); 2025=DANE IPC cierre 5,1%",
+        "nota": "IPC fin de ano. Crisis Lehman 2008-2009. PIB per capita cae."
+      },
+      "Desempleo_nacional": {
+        "valor_inicio": "11.15",
+        "valor_fin": "8.80",
+        "unidad": "% PEA",
+        "fuente": "Banco Mundial API SL.UEM.TOTL.ZS (consultado 2026-06-06); estimación ILO",
+        "nota": "Modelo ILO BM. Crisis Lehman 2008-2009. PIB per capita cae."
+      },
+      "Pobreza_monetaria": {
+        "valor_inicio": "37.2",
+        "valor_fin": "28.5",
+        "unidad": "%",
+        "fuente": "DANE pobreza monetaria nacional; pre-2012 metodologia previa (NO comparable con post-2012); 2025=DANE preliminar",
+        "nota": "DANE. Crisis Lehman 2008-2009. PIB per capita cae."
+      },
+      "Gini": {
+        "valor_inicio": "54.4",
+        "valor_fin": "53.6",
+        "unidad": "indice 0-100",
+        "fuente": "Banco Mundial API SI.POV.GINI; valores 1997-1998 y 2006-2007 DANE Encuesta de Hogares",
+        "nota": "Banco Mundial/DANE. Crisis Lehman 2008-2009. PIB per capita cae."
+      },
+      "Deuda_publica_PIB": {
+        "valor_inicio": "27.7",
+        "valor_fin": "30.7",
+        "unidad": "% PIB",
+        "fuente": "Minhacienda Balance GNC 1994-2025 (% PIB DANE cierre); 2025=58,5% Comunicado MH 19-05-2026",
+        "nota": "Minhacienda GNC cierre (% PIB DANE). Crisis Lehman 2008-2009. PIB per capita cae."
+      },
+      "TRM_promedio_anual": {
+        "valor_inicio": "1899.00",
+        "valor_fin": "2001.11",
+        "unidad": "COP/USD",
+        "fuente": "Banco Mundial API PA.NUS.FCRF (consultado 2026-06-06); 2025=4.052,86 Banrep promedio anual",
+        "nota": "BM; 2025=Banrep. Crisis Lehman 2008-2009. PIB per capita cae."
+      },
+      "Salario_minimo_mensual": {
+        "valor_inicio": "515000",
+        "valor_fin": "616000",
+        "unidad": "COP nominal",
+        "fuente": "Ministerio del Trabajo (Decretos anuales SMMLV); Wikipedia",
+        "nota": "SMMLV vigente al inicio/fin. Crisis Lehman 2008-2009. PIB per capita cae."
+      },
+      "Salario_minimo_var_real_acum": {
+        "valor_inicio": "4.4",
+        "valor_fin": "4.4",
+        "unidad": "% real acum",
+        "fuente": "Ministerio del Trabajo (Decretos anuales SMMLV); Wikipedia",
+        "nota": "Var real SMMLV = (SMMLV_f/SMMLV_i)/cumulative IPC - 1. Crisis Lehman 2008-2009. PIB per capita cae."
+      },
+      "IED_flujos_netos_periodo": {
+        "valor_inicio": "suma",
+        "valor_fin": "68496",
+        "unidad": "USD millones",
+        "fuente": "Banco Mundial API BX.KLT.DINV.CD.WD (consultado 2026-06-06); 2025=Banrep comunicado ene-2026 (US$9.174M)",
+        "nota": "Suma 2010-2014. Crisis Lehman 2008-2009. PIB per capita cae."
+      },
+      "Export_totales_periodo": {
+        "valor_inicio": "suma",
+        "valor_fin": "270436",
+        "unidad": "USD millones FOB",
+        "fuente": "DANE - Serie Exportaciones (SerieCafeCarbonPetroleoNotradicionales abril 2026)",
+        "nota": "Suma 2010-2014. Crisis Lehman 2008-2009. PIB per capita cae."
+      },
+      "Export_petroleras_periodo": {
+        "valor_inicio": "suma",
+        "valor_fin": "137956",
+        "unidad": "USD millones FOB",
+        "fuente": "DANE - Serie Exportaciones - Petroleo y derivados FOB",
+        "nota": "Suma 2010-2014 petroleo y derivados. Crisis Lehman 2008-2009. PIB per capita cae."
+      },
+      "Export_no_petroleras_periodo": {
+        "valor_inicio": "suma",
+        "valor_fin": "132480",
+        "unidad": "USD millones FOB",
+        "fuente": "DANE - Exportaciones no tradicionales (proxy no petrolero)",
+        "nota": "Suma 2010-2014 no tradicionales (incluye carbon, cafe, otros). Crisis Lehman 2008-2009. PIB per capita cae."
+      }
+    }
+  },
+  "6": {
+    "presidente": "Juan Manuel Santos II",
+    "inicio": "2014-08-07",
+    "fin": "2018-08-07",
+    "indicadores": {
+      "PIB_crecimiento_anual": {
+        "valor_inicio": "5.13",
+        "valor_fin": "2.56",
+        "unidad": "% anual",
+        "fuente": "Banco Mundial API NY.GDP.MKTP.KD.ZG (consultado 2026-06-06); 2025=DANE PIB IV trim 2025 preliminar",
+        "nota": "PIB inicio=ano previo. Caida fuerte del petroleo 2014-2016. TRM duplica 2014->2016."
+      },
+      "PIB_per_capita_USD": {
+        "valor_inicio": "8187.21",
+        "valor_fin": "6816.97",
+        "unidad": "USD/persona",
+        "fuente": "Banco Mundial API NY.GDP.PCAP.CD (consultado 2026-06-06)",
+        "nota": "Promedio anual corriente. Caida fuerte del petroleo 2014-2016. TRM duplica 2014->2016."
+      },
+      "Inflacion_IPC": {
+        "valor_inicio": "2.90",
+        "valor_fin": "3.24",
+        "unidad": "% anual",
+        "fuente": "Banco Mundial API FP.CPI.TOTL.ZG (consultado 2026-06-06); 2025=DANE IPC cierre 5,1%",
+        "nota": "IPC fin de ano. Caida fuerte del petroleo 2014-2016. TRM duplica 2014->2016."
+      },
+      "Desempleo_nacional": {
+        "valor_inicio": "8.80",
+        "valor_fin": "9.36",
+        "unidad": "% PEA",
+        "fuente": "Banco Mundial API SL.UEM.TOTL.ZS (consultado 2026-06-06); estimación ILO",
+        "nota": "Modelo ILO BM. Caida fuerte del petroleo 2014-2016. TRM duplica 2014->2016."
+      },
+      "Pobreza_monetaria": {
+        "valor_inicio": "28.5",
+        "valor_fin": "27.0",
+        "unidad": "%",
+        "fuente": "DANE pobreza monetaria nacional; pre-2012 metodologia previa (NO comparable con post-2012); 2025=DANE preliminar",
+        "nota": "DANE. Caida fuerte del petroleo 2014-2016. TRM duplica 2014->2016."
+      },
+      "Gini": {
+        "valor_inicio": "53.6",
+        "valor_fin": "51.6",
+        "unidad": "indice 0-100",
+        "fuente": "Banco Mundial API SI.POV.GINI; valores 1997-1998 y 2006-2007 DANE Encuesta de Hogares",
+        "nota": "Banco Mundial/DANE. Caida fuerte del petroleo 2014-2016. TRM duplica 2014->2016."
+      },
+      "Deuda_publica_PIB": {
+        "valor_inicio": "30.7",
+        "valor_fin": "40.7",
+        "unidad": "% PIB",
+        "fuente": "Minhacienda Balance GNC 1994-2025 (% PIB DANE cierre); 2025=58,5% Comunicado MH 19-05-2026",
+        "nota": "Minhacienda GNC cierre (% PIB DANE). Caida fuerte del petroleo 2014-2016. TRM duplica 2014->2016."
+      },
+      "TRM_promedio_anual": {
+        "valor_inicio": "2001.11",
+        "valor_fin": "2955.70",
+        "unidad": "COP/USD",
+        "fuente": "Banco Mundial API PA.NUS.FCRF (consultado 2026-06-06); 2025=4.052,86 Banrep promedio anual",
+        "nota": "BM; 2025=Banrep. Caida fuerte del petroleo 2014-2016. TRM duplica 2014->2016."
+      },
+      "Salario_minimo_mensual": {
+        "valor_inicio": "616000",
+        "valor_fin": "781242",
+        "unidad": "COP nominal",
+        "fuente": "Ministerio del Trabajo (Decretos anuales SMMLV); Wikipedia",
+        "nota": "SMMLV vigente al inicio/fin. Caida fuerte del petroleo 2014-2016. TRM duplica 2014->2016."
+      },
+      "Salario_minimo_var_real_acum": {
+        "valor_inicio": "1.4",
+        "valor_fin": "1.4",
+        "unidad": "% real acum",
+        "fuente": "Ministerio del Trabajo (Decretos anuales SMMLV); Wikipedia",
+        "nota": "Var real SMMLV = (SMMLV_f/SMMLV_i)/cumulative IPC - 1. Caida fuerte del petroleo 2014-2016. TRM duplica 2014->2016."
+      },
+      "IED_flujos_netos_periodo": {
+        "valor_inicio": "suma",
+        "valor_fin": "66648",
+        "unidad": "USD millones",
+        "fuente": "Banco Mundial API BX.KLT.DINV.CD.WD (consultado 2026-06-06); 2025=Banrep comunicado ene-2026 (US$9.174M)",
+        "nota": "Suma 2014-2018. Caida fuerte del petroleo 2014-2016. TRM duplica 2014->2016."
+      },
+      "Export_totales_periodo": {
+        "valor_inicio": "suma",
+        "valor_fin": "202570",
+        "unidad": "USD millones FOB",
+        "fuente": "DANE - Serie Exportaciones (SerieCafeCarbonPetroleoNotradicionales abril 2026)",
+        "nota": "Suma 2014-2018. Caida fuerte del petroleo 2014-2016. TRM duplica 2014->2016."
+      },
+      "Export_petroleras_periodo": {
+        "valor_inicio": "suma",
+        "valor_fin": "84501",
+        "unidad": "USD millones FOB",
+        "fuente": "DANE - Serie Exportaciones - Petroleo y derivados FOB",
+        "nota": "Suma 2014-2018 petroleo y derivados. Caida fuerte del petroleo 2014-2016. TRM duplica 2014->2016."
+      },
+      "Export_no_petroleras_periodo": {
+        "valor_inicio": "suma",
+        "valor_fin": "118069",
+        "unidad": "USD millones FOB",
+        "fuente": "DANE - Exportaciones no tradicionales (proxy no petrolero)",
+        "nota": "Suma 2014-2018 no tradicionales (incluye carbon, cafe, otros). Caida fuerte del petroleo 2014-2016. TRM duplica 2014->2016."
+      }
+    }
+  },
+  "7": {
+    "presidente": "Iván Duque",
+    "inicio": "2018-08-07",
+    "fin": "2022-08-07",
+    "indicadores": {
+      "PIB_crecimiento_anual": {
+        "valor_inicio": "1.36",
+        "valor_fin": "7.33",
+        "unidad": "% anual",
+        "fuente": "Banco Mundial API NY.GDP.MKTP.KD.ZG (consultado 2026-06-06); 2025=DANE PIB IV trim 2025 preliminar",
+        "nota": "PIB inicio=ano previo. Pandemia COVID-19 (2020). PIB -7,2%, pobreza 42,5%."
+      },
+      "PIB_per_capita_USD": {
+        "valor_inicio": "6816.97",
+        "valor_fin": "6680.45",
+        "unidad": "USD/persona",
+        "fuente": "Banco Mundial API NY.GDP.PCAP.CD (consultado 2026-06-06)",
+        "nota": "Promedio anual corriente. Pandemia COVID-19 (2020). PIB -7,2%, pobreza 42,5%."
+      },
+      "Inflacion_IPC": {
+        "valor_inicio": "3.24",
+        "valor_fin": "10.18",
+        "unidad": "% anual",
+        "fuente": "Banco Mundial API FP.CPI.TOTL.ZG (consultado 2026-06-06); 2025=DANE IPC cierre 5,1%",
+        "nota": "IPC fin de ano. Pandemia COVID-19 (2020). PIB -7,2%, pobreza 42,5%."
+      },
+      "Desempleo_nacional": {
+        "valor_inicio": "9.36",
+        "valor_fin": "10.54",
+        "unidad": "% PEA",
+        "fuente": "Banco Mundial API SL.UEM.TOTL.ZS (consultado 2026-06-06); estimación ILO",
+        "nota": "Modelo ILO BM. Pandemia COVID-19 (2020). PIB -7,2%, pobreza 42,5%."
+      },
+      "Pobreza_monetaria": {
+        "valor_inicio": "27.0",
+        "valor_fin": "36.6",
+        "unidad": "%",
+        "fuente": "DANE pobreza monetaria nacional; pre-2012 metodologia previa (NO comparable con post-2012); 2025=DANE preliminar",
+        "nota": "DANE. Pandemia COVID-19 (2020). PIB -7,2%, pobreza 42,5%."
+      },
+      "Gini": {
+        "valor_inicio": "51.6",
+        "valor_fin": "54.8",
+        "unidad": "indice 0-100",
+        "fuente": "Banco Mundial API SI.POV.GINI; valores 1997-1998 y 2006-2007 DANE Encuesta de Hogares",
+        "nota": "Banco Mundial/DANE. Pandemia COVID-19 (2020). PIB -7,2%, pobreza 42,5%."
+      },
+      "Deuda_publica_PIB": {
+        "valor_inicio": "40.7",
+        "valor_fin": "54.9",
+        "unidad": "% PIB",
+        "fuente": "Minhacienda Balance GNC 1994-2025 (% PIB DANE cierre); 2025=58,5% Comunicado MH 19-05-2026",
+        "nota": "Minhacienda GNC cierre (% PIB DANE). Pandemia COVID-19 (2020). PIB -7,2%, pobreza 42,5%."
+      },
+      "TRM_promedio_anual": {
+        "valor_inicio": "2955.70",
+        "valor_fin": "4256.19",
+        "unidad": "COP/USD",
+        "fuente": "Banco Mundial API PA.NUS.FCRF (consultado 2026-06-06); 2025=4.052,86 Banrep promedio anual",
+        "nota": "BM; 2025=Banrep. Pandemia COVID-19 (2020). PIB -7,2%, pobreza 42,5%."
+      },
+      "Salario_minimo_mensual": {
+        "valor_inicio": "781242",
+        "valor_fin": "1000000",
+        "unidad": "COP nominal",
+        "fuente": "Ministerio del Trabajo (Decretos anuales SMMLV); Wikipedia",
+        "nota": "SMMLV vigente al inicio/fin. Pandemia COVID-19 (2020). PIB -7,2%, pobreza 42,5%."
+      },
+      "Salario_minimo_var_real_acum": {
+        "valor_inicio": "2.4",
+        "valor_fin": "2.4",
+        "unidad": "% real acum",
+        "fuente": "Ministerio del Trabajo (Decretos anuales SMMLV); Wikipedia",
+        "nota": "Var real SMMLV = (SMMLV_f/SMMLV_i)/cumulative IPC - 1. Pandemia COVID-19 (2020). PIB -7,2%, pobreza 42,5%."
+      },
+      "IED_flujos_netos_periodo": {
+        "valor_inicio": "suma",
+        "valor_fin": "59490",
+        "unidad": "USD millones",
+        "fuente": "Banco Mundial API BX.KLT.DINV.CD.WD (consultado 2026-06-06); 2025=Banrep comunicado ene-2026 (US$9.174M)",
+        "nota": "Suma 2018-2022. Pandemia COVID-19 (2020). PIB -7,2%, pobreza 42,5%."
+      },
+      "Export_totales_periodo": {
+        "valor_inicio": "suma",
+        "valor_fin": "210750",
+        "unidad": "USD millones FOB",
+        "fuente": "DANE - Serie Exportaciones (SerieCafeCarbonPetroleoNotradicionales abril 2026)",
+        "nota": "Suma 2018-2022. Pandemia COVID-19 (2020). PIB -7,2%, pobreza 42,5%."
+      },
+      "Export_petroleras_periodo": {
+        "valor_inicio": "suma",
+        "valor_fin": "73798",
+        "unidad": "USD millones FOB",
+        "fuente": "DANE - Serie Exportaciones - Petroleo y derivados FOB",
+        "nota": "Suma 2018-2022 petroleo y derivados. Pandemia COVID-19 (2020). PIB -7,2%, pobreza 42,5%."
+      },
+      "Export_no_petroleras_periodo": {
+        "valor_inicio": "suma",
+        "valor_fin": "136952",
+        "unidad": "USD millones FOB",
+        "fuente": "DANE - Exportaciones no tradicionales (proxy no petrolero)",
+        "nota": "Suma 2018-2022 no tradicionales (incluye carbon, cafe, otros). Pandemia COVID-19 (2020). PIB -7,2%, pobreza 42,5%."
+      }
+    }
+  },
+  "8": {
+    "presidente": "Gustavo Petro",
+    "inicio": "2022-08-07",
+    "fin": "2026-08-07",
+    "indicadores": {
+      "PIB_crecimiento_anual": {
+        "valor_inicio": "10.80",
+        "valor_fin": "2.60",
+        "unidad": "% anual",
+        "fuente": "Banco Mundial API NY.GDP.MKTP.KD.ZG (consultado 2026-06-06); 2025=DANE PIB IV trim 2025 preliminar",
+        "nota": "PIB inicio=ano previo. Recuperacion post-pandemia. PIB 2025 preliminar 2,6% (DANE). SMMLV 2026=$1.750.905 (Decreto 00159/2025)."
+      },
+      "PIB_per_capita_USD": {
+        "valor_inicio": "6680.45",
+        "valor_fin": "sin dato publico disponible (BM sin cifra 2025)",
+        "unidad": "USD/persona",
+        "fuente": "Banco Mundial API NY.GDP.PCAP.CD (consultado 2026-06-06)",
+        "nota": "Promedio anual corriente. Recuperacion post-pandemia. PIB 2025 preliminar 2,6% (DANE). SMMLV 2026=$1.750.905 (Decreto 00159/2025)."
+      },
+      "Inflacion_IPC": {
+        "valor_inicio": "10.18",
+        "valor_fin": "5.10",
+        "unidad": "% anual",
+        "fuente": "Banco Mundial API FP.CPI.TOTL.ZG (consultado 2026-06-06); 2025=DANE IPC cierre 5,1%",
+        "nota": "IPC fin de ano. Recuperacion post-pandemia. PIB 2025 preliminar 2,6% (DANE). SMMLV 2026=$1.750.905 (Decreto 00159/2025)."
+      },
+      "Desempleo_nacional": {
+        "valor_inicio": "10.54",
+        "valor_fin": "8.29",
+        "unidad": "% PEA",
+        "fuente": "Banco Mundial API SL.UEM.TOTL.ZS (consultado 2026-06-06); estimación ILO",
+        "nota": "Modelo ILO BM. Recuperacion post-pandemia. PIB 2025 preliminar 2,6% (DANE). SMMLV 2026=$1.750.905 (Decreto 00159/2025)."
+      },
+      "Pobreza_monetaria": {
+        "valor_inicio": "36.6",
+        "valor_fin": "30.4",
+        "unidad": "%",
+        "fuente": "DANE pobreza monetaria nacional; pre-2012 metodologia previa (NO comparable con post-2012); 2025=DANE preliminar",
+        "nota": "DANE. Recuperacion post-pandemia. PIB 2025 preliminar 2,6% (DANE). SMMLV 2026=$1.750.905 (Decreto 00159/2025)."
+      },
+      "Gini": {
+        "valor_inicio": "54.8",
+        "valor_fin": "54.4",
+        "unidad": "indice 0-100",
+        "fuente": "Banco Mundial API SI.POV.GINI; valores 1997-1998 y 2006-2007 DANE Encuesta de Hogares",
+        "nota": "Banco Mundial/DANE. Recuperacion post-pandemia. PIB 2025 preliminar 2,6% (DANE). SMMLV 2026=$1.750.905 (Decreto 00159/2025)."
+      },
+      "Deuda_publica_PIB": {
+        "valor_inicio": "54.9",
+        "valor_fin": "58.5",
+        "unidad": "% PIB",
+        "fuente": "Minhacienda Balance GNC 1994-2025 (% PIB DANE cierre); 2025=58,5% Comunicado MH 19-05-2026",
+        "nota": "Minhacienda GNC cierre (% PIB DANE). Recuperacion post-pandemia. PIB 2025 preliminar 2,6% (DANE). SMMLV 2026=$1.750.905 (Decreto 00159/2025)."
+      },
+      "TRM_promedio_anual": {
+        "valor_inicio": "4256.19",
+        "valor_fin": "4052.86",
+        "unidad": "COP/USD",
+        "fuente": "Banco Mundial API PA.NUS.FCRF (consultado 2026-06-06); 2025=4.052,86 Banrep promedio anual",
+        "nota": "BM; 2025=Banrep. Recuperacion post-pandemia. PIB 2025 preliminar 2,6% (DANE). SMMLV 2026=$1.750.905 (Decreto 00159/2025)."
+      },
+      "Salario_minimo_mensual": {
+        "valor_inicio": "1000000",
+        "valor_fin": "1423500",
+        "unidad": "COP nominal",
+        "fuente": "Ministerio del Trabajo (Decretos anuales SMMLV); Wikipedia",
+        "nota": "SMMLV vigente al inicio/fin. Recuperacion post-pandemia. PIB 2025 preliminar 2,6% (DANE). SMMLV 2026=$1.750.905 (Decreto 00159/2025)."
+      },
+      "Salario_minimo_var_real_acum": {
+        "valor_inicio": "3.2",
+        "valor_fin": "3.2",
+        "unidad": "% real acum",
+        "fuente": "Ministerio del Trabajo (Decretos anuales SMMLV); Wikipedia",
+        "nota": "Var real SMMLV = (SMMLV_f/SMMLV_i)/cumulative IPC - 1. Recuperacion post-pandemia. PIB 2025 preliminar 2,6% (DANE). SMMLV 2026=$1.750.905 (Decreto 00159/2025)."
+      },
+      "IED_flujos_netos_periodo": {
+        "valor_inicio": "suma",
+        "valor_fin": "56834",
+        "unidad": "USD millones",
+        "fuente": "Banco Mundial API BX.KLT.DINV.CD.WD (consultado 2026-06-06); 2025=Banrep comunicado ene-2026 (US$9.174M)",
+        "nota": "Suma 2022-2026. Recuperacion post-pandemia. PIB 2025 preliminar 2,6% (DANE). SMMLV 2026=$1.750.905 (Decreto 00159/2025)."
+      },
+      "Export_totales_periodo": {
+        "valor_inicio": "suma",
+        "valor_fin": "206438",
+        "unidad": "USD millones FOB",
+        "fuente": "DANE - Serie Exportaciones (SerieCafeCarbonPetroleoNotradicionales abril 2026)",
+        "nota": "Suma 2022-2026. Recuperacion post-pandemia. PIB 2025 preliminar 2,6% (DANE). SMMLV 2026=$1.750.905 (Decreto 00159/2025)."
+      },
+      "Export_petroleras_periodo": {
+        "valor_inicio": "suma",
+        "valor_fin": "62075",
+        "unidad": "USD millones FOB",
+        "fuente": "DANE - Serie Exportaciones - Petroleo y derivados FOB",
+        "nota": "Suma 2022-2026 petroleo y derivados. Recuperacion post-pandemia. PIB 2025 preliminar 2,6% (DANE). SMMLV 2026=$1.750.905 (Decreto 00159/2025)."
+      },
+      "Export_no_petroleras_periodo": {
+        "valor_inicio": "suma",
+        "valor_fin": "144363",
+        "unidad": "USD millones FOB",
+        "fuente": "DANE - Exportaciones no tradicionales (proxy no petrolero)",
+        "nota": "Suma 2022-2026 no tradicionales (incluye carbon, cafe, otros). Recuperacion post-pandemia. PIB 2025 preliminar 2,6% (DANE). SMMLV 2026=$1.750.905 (Decreto 00159/2025)."
+      }
+    }
+  }
+}
