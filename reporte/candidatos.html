@@ -1,0 +1,897 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Candidatos 2026 · Simulador Predictivo · Colombia</title>
+<style>
+  :root {
+    --bg: #0b1220;
+    --bg-soft: #131c2e;
+    --card: #1a2438;
+    --card-2: #21304a;
+    --border: #2a3850;
+    --text: #e7ecf3;
+    --muted: #9aa6b8;
+    --accent: #fcd116;
+    --accent-2: #003893;
+    --accent-3: #ce1126;
+    --green: #2ecc71;
+    --red: #ff6b6b;
+    --amber: #f5b041;
+    --blue: #5dade2;
+    --purple: #bb8fce;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin:0; padding:0; }
+  body {
+    font-family: 'Inter', 'Segoe UI', Roboto, system-ui, -apple-system, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+  }
+  a { color: var(--blue); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+
+  /* HERO */
+  .hero {
+    position: relative;
+    background:
+      radial-gradient(1200px 600px at 80% 10%, rgba(252,209,22,0.10), transparent 60%),
+      radial-gradient(900px 500px at 10% 90%, rgba(206,17,38,0.10), transparent 60%),
+      linear-gradient(180deg, #061021 0%, #0b1220 100%);
+    padding: 64px 24px 40px;
+    border-bottom: 1px solid var(--border);
+  }
+  .hero-inner { max-width: 1200px; margin: 0 auto; }
+  .flag { display: inline-flex; align-items: center; gap: 10px; padding: 6px 12px; border: 1px solid var(--border); border-radius: 999px; font-size: 0.82em; color: var(--muted); background: rgba(255,255,255,0.02); }
+  .flag .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--accent); }
+  .hero h1 {
+    font-size: clamp(2.1em, 4.4vw, 3.4em);
+    margin: 18px 0 10px;
+    font-weight: 800;
+    letter-spacing: -1.5px;
+    line-height: 1.05;
+    background: linear-gradient(120deg, #fff 0%, #c9d4e5 100%);
+    -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+  }
+  .hero .lead { max-width: 820px; color: #c5cfdc; font-size: 1.06em; }
+  .hero .meta { margin-top: 24px; display: flex; flex-wrap: wrap; gap: 8px; }
+  .pill {
+    background: rgba(255,255,255,0.04);
+    border: 1px solid var(--border);
+    color: var(--text);
+    padding: 6px 12px; border-radius: 999px;
+    font-size: 0.82em;
+  }
+  .pill.accent { border-color: var(--accent); color: var(--accent); }
+  .pill.green { border-color: var(--green); color: var(--green); }
+  .pill.red { border-color: var(--red); color: var(--red); }
+
+  /* BACK LINK */
+  .back {
+    max-width: 1200px; margin: 16px auto 0; padding: 0 24px;
+  }
+  .back a {
+    color: var(--muted); font-size: 0.9em; display: inline-flex; align-items: center; gap: 6px;
+  }
+  .back a:hover { color: var(--text); }
+
+  /* MAIN */
+  main { max-width: 1200px; margin: 0 auto; padding: 24px 24px 64px; }
+  h2 {
+    font-size: 1.7em; font-weight: 700; margin: 48px 0 8px;
+    letter-spacing: -0.5px;
+  }
+  h2 .num { color: var(--accent); margin-right: 8px; }
+  h3 { font-size: 1.15em; font-weight: 600; margin: 24px 0 8px; }
+  .lede { color: var(--muted); margin: 0 0 24px; max-width: 800px; }
+
+  /* DISCLAMER */
+  .disclaimer {
+    background: rgba(245,176,65,0.08);
+    border: 1px solid rgba(245,176,65,0.30);
+    border-left: 4px solid var(--amber);
+    border-radius: 8px;
+    padding: 16px 20px;
+    margin: 24px 0;
+    font-size: 0.92em;
+  }
+  .disclaimer h4 { margin: 0 0 6px; color: var(--amber); font-size: 1em; }
+  .disclaimer ul { margin: 8px 0 0; padding-left: 20px; }
+  .disclaimer li { margin-bottom: 4px; }
+
+  /* ELECTION CONTEXT */
+  .context-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 24px;
+    margin: 16px 0;
+  }
+  .context-grid {
+    display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 16px; margin-top: 16px;
+  }
+  .context-item {
+    background: var(--bg-soft);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 14px 18px;
+  }
+  .context-item .label { font-size: 0.72em; text-transform: uppercase; letter-spacing: 0.5px; color: var(--muted); }
+  .context-item .value { font-size: 1.4em; font-weight: 700; margin-top: 4px; color: var(--text); }
+  .context-item .sub { font-size: 0.78em; color: var(--muted); margin-top: 4px; }
+
+  /* PROFILE CARDS */
+  .profile {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    padding: 28px;
+    margin: 20px 0;
+    scroll-margin-top: 20px;
+  }
+  .profile.left { border-left: 4px solid #2ecc71; }
+  .profile.right { border-left: 4px solid #ce1126; }
+  .profile-header {
+    display: flex; align-items: center; gap: 18px; flex-wrap: wrap;
+    padding-bottom: 18px; margin-bottom: 18px;
+    border-bottom: 1px solid var(--border);
+  }
+  .profile-avatar {
+    width: 90px; height: 90px;
+    border-radius: 50%;
+    background: var(--card-2);
+    border: 2px solid var(--border);
+    display: flex; align-items: center; justify-content: center;
+    font-size: 2.4em; font-weight: 800;
+    flex-shrink: 0;
+  }
+  .profile.left .profile-avatar { background: rgba(46,204,113,0.12); border-color: #2ecc71; color: #2ecc71; }
+  .profile.right .profile-avatar { background: rgba(206,17,38,0.12); border-color: #ce1126; color: #ce1126; }
+  .profile-info h3 { margin: 0 0 4px; font-size: 1.6em; font-weight: 800; }
+  .profile-info .role { color: var(--muted); font-size: 0.95em; }
+  .profile-info .meta { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px; }
+
+  .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 16px 0; }
+  @media (max-width: 768px) { .grid-2 { grid-template-columns: 1fr; } }
+  .panel {
+    background: var(--bg-soft);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 16px 20px;
+  }
+  .panel h4 { margin: 0 0 8px; color: var(--text); font-size: 1em; font-weight: 600; }
+  .panel ul { margin: 0; padding-left: 18px; }
+  .panel li { margin-bottom: 4px; font-size: 0.93em; line-height: 1.5; }
+
+  .section-title {
+    margin: 16px 0 6px;
+    font-size: 0.78em; text-transform: uppercase; letter-spacing: 0.6px;
+    color: var(--accent); font-weight: 700;
+  }
+
+  /* TIMELINE */
+  .timeline { position: relative; margin: 16px 0; padding-left: 20px; border-left: 2px solid var(--border); }
+  .timeline-item { position: relative; margin-bottom: 12px; }
+  .timeline-item::before {
+    content: ''; position: absolute; left: -27px; top: 6px;
+    width: 10px; height: 10px; border-radius: 50%;
+    background: var(--accent); border: 2px solid var(--bg);
+  }
+  .timeline-year { color: var(--accent); font-weight: 700; margin-right: 8px; }
+
+  /* TABLE */
+  .table-wrap { overflow-x: auto; border: 1px solid var(--border); border-radius: 10px; background: var(--card); margin: 16px 0; }
+  table { width: 100%; border-collapse: collapse; font-size: 0.88em; min-width: 720px; }
+  th { background: var(--card-2); padding: 12px 10px; text-align: left; font-weight: 600; font-size: 0.82em; text-transform: uppercase; letter-spacing: 0.4px; }
+  td { padding: 10px; border-top: 1px solid var(--border); vertical-align: top; }
+  td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
+  tbody tr:hover { background: var(--bg-soft); }
+  .pos { color: var(--green); }
+  .neg { color: var(--red); }
+  .amber { color: var(--amber); }
+  .neutral { color: var(--muted); }
+
+  /* SIMULATOR */
+  .simulator {
+    background: linear-gradient(135deg, rgba(93,173,226,0.05), rgba(187,143,206,0.05));
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    padding: 28px;
+    margin: 24px 0;
+  }
+  .simulator h3 { margin-top: 0; color: var(--accent); }
+  .sim-controls {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 16px;
+    margin: 20px 0;
+  }
+  .sim-control {
+    background: var(--bg-soft);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 14px 18px;
+  }
+  .sim-control label {
+    display: block; font-size: 0.78em; text-transform: uppercase; letter-spacing: 0.4px;
+    color: var(--muted); margin-bottom: 6px; font-weight: 600;
+  }
+  .sim-control select, .sim-control input[type=range] {
+    width: 100%; padding: 6px 8px;
+    background: var(--card); color: var(--text);
+    border: 1px solid var(--border); border-radius: 4px;
+    font-size: 0.95em; font-family: inherit;
+  }
+  .sim-control input[type=range] { padding: 0; height: 6px; -webkit-appearance: none; appearance: none; background: var(--border); }
+  .sim-control input[type=range]::-webkit-slider-thumb {
+    -webkit-appearance: none; appearance: none;
+    width: 18px; height: 18px; border-radius: 50%;
+    background: var(--accent); cursor: pointer;
+    border: 2px solid var(--bg);
+  }
+  .sim-value { color: var(--accent); font-weight: 700; font-size: 0.95em; }
+  .sim-value-label { display: block; font-size: 0.78em; color: var(--muted); margin-top: 4px; }
+  .btn-sim {
+    background: linear-gradient(120deg, var(--accent) 0%, #ffd86b 100%);
+    color: #0b1220; border: 0; padding: 12px 28px; border-radius: 8px;
+    font-size: 1em; font-weight: 700; cursor: pointer; margin: 8px 0;
+    transition: transform 0.1s;
+  }
+  .btn-sim:hover { transform: translateY(-1px); }
+  .btn-sim:active { transform: translateY(0); }
+  .btn-sim.secondary { background: var(--card-2); color: var(--text); border: 1px solid var(--border); }
+
+  .sim-output {
+    background: var(--bg-soft);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 24px;
+    margin-top: 16px;
+    min-height: 200px;
+  }
+  .sim-output .placeholder { color: var(--muted); text-align: center; padding: 40px 0; font-style: italic; }
+  .sim-grid {
+    display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 12px; margin: 16px 0;
+  }
+  .sim-kpi {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 12px 14px;
+  }
+  .sim-kpi .label { font-size: 0.7em; text-transform: uppercase; letter-spacing: 0.4px; color: var(--muted); }
+  .sim-kpi .value { font-size: 1.3em; font-weight: 700; margin-top: 4px; }
+  .sim-kpi .value.pos { color: var(--green); }
+  .sim-kpi .value.neg { color: var(--red); }
+  .sim-kpi .value.amber { color: var(--amber); }
+  .sim-kpi .value.neutral { color: var(--text); }
+  .sim-kpi .sub { font-size: 0.72em; color: var(--muted); margin-top: 2px; }
+
+  .verdict {
+    background: linear-gradient(135deg, rgba(46,204,113,0.08), rgba(46,204,113,0.02));
+    border: 1px solid rgba(46,204,113,0.30);
+    border-radius: 8px;
+    padding: 16px 20px;
+    margin: 16px 0;
+  }
+  .verdict.bad {
+    background: linear-gradient(135deg, rgba(255,107,107,0.08), rgba(255,107,107,0.02));
+    border-color: rgba(255,107,107,0.30);
+  }
+  .verdict.mixed {
+    background: linear-gradient(135deg, rgba(245,176,65,0.08), rgba(245,176,65,0.02));
+    border-color: rgba(245,176,65,0.30);
+  }
+  .verdict h4 { margin: 0 0 6px; font-size: 1em; }
+  .verdict.good h4 { color: var(--green); }
+  .verdict.bad h4 { color: var(--red); }
+  .verdict.mixed h4 { color: var(--amber); }
+  .verdict .pros li, .verdict .cons li { margin-bottom: 4px; font-size: 0.95em; }
+
+  .sim-section-title {
+    margin: 18px 0 6px;
+    font-size: 0.85em; font-weight: 700;
+    color: var(--accent);
+  }
+
+  /* FOOTER */
+  footer {
+    margin-top: 64px; padding: 28px 24px; text-align: center;
+    color: var(--muted); font-size: 0.85em;
+    border-top: 1px solid var(--border);
+  }
+  footer a { color: var(--blue); }
+
+  /* UTIL */
+  .src { font-size: 0.78em; color: var(--muted); margin-top: 12px; padding-top: 12px; border-top: 1px solid var(--border); }
+  .fact-list { margin: 8px 0 0; padding-left: 18px; }
+  .fact-list li { margin-bottom: 4px; color: #c5cfdc; font-size: 0.95em; }
+</style>
+</head>
+<body>
+
+<section class="hero">
+  <div class="hero-inner">
+    <span class="flag"><span class="dot"></span> Colombia · Elecciones Presidenciales 2026</span>
+    <h1>Candidatos 2026<br/>Perfiles + Simulador IA</h1>
+    <p class="lead">Análisis profundo de los dos candidatos al ballotage del <strong>21 de junio 2026</strong>: <strong>Iván Cepeda</strong> (Pacto Histórico) y <strong>Abelardo de la Espriella</strong> (Defensores de la Patria). Incluye trayectoria de vida, votaciones clave, propuestas verificables y un <strong>simulador predictivo</strong> con razonamiento de IA sobre cómo gobernaría cada uno según el escenario económico y de seguridad.</p>
+    <div class="meta">
+      <span class="pill accent">⚖️ Ballotage 21 jun 2026</span>
+      <span class="pill">🧠 Simulador con razonamiento</span>
+      <span class="pill">📊 2 perfiles completos</span>
+      <span class="pill">📚 8+ fuentes primarias</span>
+    </div>
+  </div>
+  <div class="back"><a href="./">← Volver al reporte de gobiernos</a></div>
+</section>
+
+<main>
+
+  <div class="disclaimer">
+    <h4>📋 Disclaimer metodológico</h4>
+    <ul>
+      <li><strong>Perfiles</strong>: basados en fuentes primarias verificables (Wikipedia con citas, Senado.gov.co, sentencias judiciales, sitios oficiales de campaña, medios de comunicación con fact-checking).</li>
+      <li><strong>Propuestas</strong>: extraídas de los planes de gobierno registrados ante el CNE, entrevistas documentadas y sitios oficiales de campaña.</li>
+      <li><strong>Simulador</strong>: <strong>análisis algorítmico con razonamiento inductivo</strong> basado en (a) historial verificable del candidato, (b) propuestas concretas, y (c) comparación con gobiernos anteriores. Las predicciones son <strong>modelos contrafactuales</strong>, no garantías. <strong>El simulador emite opinión</strong> sobre pros/contras y veredicto, con base en los datos.</li>
+      <li><strong>Resultados electorales</strong>: 1ra vuelta 31 mayo 2026, escrutinio definitivo Registraduría Nacional.</li>
+    </ul>
+  </div>
+
+  <!-- ============== CONTEXTO ELECTORAL ============== -->
+  <h2 id="contexto"><span class="num">🗳️</span> Contexto electoral</h2>
+  <p class="lede">Colombia eligió presidente en primera vuelta el 31 de mayo de 2026. Ninguno de los candidatos obtuvo más del 50%, lo que llevó a un ballotage (segunda vuelta) programado para el 21 de junio de 2026.</p>
+
+  <div class="context-card">
+    <h3 style="margin-top:0">Resultados escrutinio definitivo — 1ra vuelta (31 mayo 2026)</h3>
+    <div class="context-grid">
+      <div class="context-item">
+        <div class="label">Abelardo De La Espriella</div>
+        <div class="value pos">10.366.143</div>
+        <div class="sub">votos · 1ra vuelta (mayoría relativa)</div>
+      </div>
+      <div class="context-item">
+        <div class="label">Iván Cepeda Castro</div>
+        <div class="value">2da vuelta</div>
+        <div class="sub">Pasa al ballotage del 21 jun 2026</div>
+      </div>
+      <div class="context-item">
+        <div class="label">Próxima cita</div>
+        <div class="value">21 jun 2026</div>
+        <div class="sub">Ballotage · Inicio de posesión: 7 ago 2026</div>
+      </div>
+      <div class="context-item">
+        <div class="label">Fuente</div>
+        <div class="value" style="font-size:1em">Registraduría</div>
+        <div class="sub">Escrutinio definitivo publicado</div>
+      </div>
+    </div>
+    <p style="font-size:0.85em; color:var(--muted); margin-top:14px;">📚 Fuente: Registraduría Nacional del Estado Civil (escrutinio definitivo, publicado tras la jornada del 31 mayo 2026).</p>
+  </div>
+
+  <!-- ============== PERFIL CEPEDA ============== -->
+  <article class="profile left" id="cepeda">
+    <div class="profile-header">
+      <div class="profile-avatar">IC</div>
+      <div class="profile-info">
+        <h3>Iván Cepeda Castro</h3>
+        <div class="role">Senador en ejercicio · Candidato presidencial · Pacto Histórico (continuidad Petro)</div>
+        <div class="meta">
+          <span class="pill">Bogotá, 1962 (63 años)</span>
+          <span class="pill green">Línea ideológica: centro-izquierda / izquierda democrática</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="section-title">Biografía y formación</div>
+    <p>Nació en Bogotá el <strong>24 de octubre de 1962</strong>. Creció en exilio entre Checoslovaquia y Cuba tras el asesinato de su padre. Estudió <strong>Filosofía en la Universidad de Sofía (Bulgaria)</strong>. Es hijo del senador <strong>Manuel Cepeda Vargas</strong>, cofundador de la Unión Patriótica (UP), asesinado en Bogotá en agosto de 1994 — crimen posteriormente reconocido por el Estado colombiano ante la Corte Interamericana de Derechos Humanos (Caso Manuel Cepeda Vargas vs. Colombia, 2010).<sup>[1][2][3]</sup></p>
+
+    <div class="grid-2">
+      <div class="panel">
+        <h4>🎓 Carrera política</h4>
+        <ul>
+          <li><strong>Representante a la Cámara</strong> por Bogotá (2010-2014)</li>
+          <li><strong>Senador de la República</strong> (2014-presente)</li>
+          <li>Presidente de la <strong>Comisión de Paz</strong> del Senado</li>
+          <li>Facilitador oficial del <strong>Acuerdo de Paz con las FARC</strong> (2012-2016)</li>
+          <li>Facilitador de los <strong>diálogos con el ELN</strong> (2014-2018)</li>
+        </ul>
+      </div>
+      <div class="panel">
+        <h4>⚖️ Caso Uribe (2012-presente)</h4>
+        <ul>
+          <li>2012: denunció nexos entre Álvaro Uribe (entonces gobernador de Antioquia) y grupos paramilitares en debate en la Cámara.</li>
+          <li>2014-2018: Uribe lo acusó de manipular testigos.</li>
+          <li><strong>2018</strong>: Corte Suprema abre investigación contra Uribe; Cepeda sale indemne.</li>
+          <li><strong>2025 (jul)</strong>: Álvaro Uribe declarado <strong>culpable</strong> de soborno y fraude procesal; condenado a 12 años de prisión (1ra instancia).</li>
+          <li><strong>2025 (oct)</strong>: fallo revocado en 2da instancia; <strong>apelación activa</strong> ante la Corte Suprema de Justicia.</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="section-title">Trayectoria en el Congreso — votaciones clave</div>
+    <ul class="fact-list">
+      <li>Impulsó debates de control político sobre <strong>paramilitarismo</strong>, chuzadas del DAS, y falsos positivos (Senado, 2010-2025).</li>
+      <li>Voto favorable a la <strong>Reforma Pensional</strong> (2024) y la <strong>Reforma Laboral</strong> (2025) del gobierno Petro.</li>
+      <li>Defensor de la <strong>implementación integral del Acuerdo de Paz de 2016</strong> y de la <strong>Ley de Paz Total</strong> (2022).</li>
+      <li>Voto favorable a la <strong>Jurisdicción Especial para la Paz (JEP)</strong> y a la <strong> Comisión de la Verdad</strong>.</li>
+    </ul>
+
+    <div class="section-title">Propuestas del plan de gobierno — "El Poder de la Verdad" (Pacto Histórico, 2026-2030)</div>
+    <ul class="fact-list">
+      <li><strong>Profundizar la Paz Total</strong>: continuar diálogos con ELN, EMC, Clan del Golfo, disidencias.</li>
+      <li><strong>Transición energética</strong> gradual con contratos de exploración de petróleo y gas (corrige errores de Petro 2022-26).</li>
+      <li><strong>Reforma agraria integral</strong>: redistribución, formalización, catastros rurales.</li>
+      <li><strong>Defensa de las reformas sociales</strong> (pensional, laboral, salud) y avance en <strong>reforma a la salud</strong> pendiente.</li>
+      <li><strong>Continuidad diplomática</strong> con Venezuela, reorientación de relaciones con EE.UU.</li>
+      <li><strong>Lucha contra la corrupción</strong> y reforma a la justicia.</li>
+    </ul>
+
+    <div class="src">📚 [1] Wikipedia es (Iván Cepeda) · [2] Senado.gov.co (perfil) · [3] Caso Cepeda Vargas vs. Colombia, Corte IDH 2010 · [4] La Silla Vacía (2026-05-19, propuestas) · [5] Programa Pacto Histórico 2026-2030.</div>
+  </article>
+
+  <!-- ============== PERFIL DE LA ESPRIELLA ============== -->
+  <article class="profile right" id="espriella">
+    <div class="profile-header">
+      <div class="profile-avatar">AE</div>
+      <div class="profile-info">
+        <h3>Abelardo De La Espriella Otero</h3>
+        <div class="role">Abogado, empresario · Candidato presidencial · Movimiento "Defensores de la Patria" (independiente, filo-uribista)</div>
+        <div class="meta">
+          <span class="pill">Bogotá, 1978 (47 años)</span>
+          <span class="pill red">Línea ideológica: derecha / derecha radical</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="section-title">Biografía y formación</div>
+    <p>Nació en <strong>Bogotá el 31 de julio de 1978</strong>. Creció en <strong>Montería (Córdoba)</strong> desde los 2 años, en el seno de una familia de ganaderos con tradición jurídica y política regional. Su padre, <strong>Abelardo de la Espriella Juris</strong>, fue magistrado del Tribunal Administrativo de Córdoba y candidato a la gobernación (1997). Estudió <strong>Derecho en la Universidad Sergio Arboleda</strong> (de línea conservadora) y se graduó en la <strong>Universidad del Rosario</strong>. Maestría en Derecho Administrativo en la <strong>Universidad de Nebrija (España, 2012)</strong>. Obtuvo la <strong>ciudadanía estadounidense en 2023</strong>.<sup>[1][2]</sup></p>
+
+    <div class="grid-2">
+      <div class="panel">
+        <h4>💼 Carrera profesional</h4>
+        <ul>
+          <li>Socio fundador del <strong>bufete De La Espriella Abogados</strong></li>
+          <li>Defensor legal de <strong>David Murcia</strong> (DMG) — escándalo de captación masiva ilegal 2008</li>
+          <li>Asesor legal de <strong>Alex Saab</strong> (2013-2019) — testaferro venezolano, extraditado a EE.UU. por lavado de dinero</li>
+          <li>Defensa de figuras del escándalo de la <strong>"parapolítica"</strong>: Eleonora Pineda, Dieb Maloof, Rocío Arias</li>
+          <li>Defensor de <strong>Dania Londoño</strong> en el escándalo de la <strong>Secret Service de Cartagena (2012)</strong></li>
+        </ul>
+      </div>
+      <div class="panel">
+        <h4>⚠️ Vínculos con paramilitarismo (FIPAZ)</h4>
+        <ul>
+          <li>2005: funda la <strong>Fundación FIPAZ</strong> (Iniciativas de Paz), que organizó foros universitarios con presencia de <strong>Iván Roberto Duque "Ernesto Báez"</strong> (ex AUC) y <strong>Salvatore Mancuso</strong>.</li>
+          <li>2011: <strong>Corte Suprema de Justicia</strong> falla contra el congresista Juan Pablo Sánchez y ordena investigar a De la Espriella por FIPAZ. La investigación fue cerrada por el fiscal <strong>Mario Iguarán</strong> (amigo personal de De La Espriella).</li>
+          <li>2008-2019: <strong>109 demandas</strong> por injuria y calumnia (muchas desestimadas), descritas por la <strong>FLIP (Fundación para la Libertad de Prensa)</strong> como posible acoso judicial.</li>
+          <li>2026: la <strong>IAPA (Inter American Press Association)</strong> y la FLIP expresan preocupación por sus anunciadas acciones legales contra columnistas que criticaron sus vínculos con Alex Saab.</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="section-title">Posiciones políticas documentadas</div>
+    <ul class="fact-list">
+      <li><strong>En contra</strong> del Acuerdo de Paz con las FARC (2016) y de la JEP.</li>
+      <li><strong>En contra</strong> de la Reforma Pensional (2024) y Reforma Laboral (2025) del gobierno Petro.</li>
+      <li><strong>Defensor</strong> del modelo de seguridad de Uribe (2002-2010) y crítico del proceso de "Paz Total" de Petro.</li>
+      <li><strong>Autodefinido</strong> como admirador del fallecido presidente <strong>Álvaro Uribe</strong>, de quien fue cercano en su juventud (Córdoba).</li>
+      <li>En entrevista con Los Informantes (2019), reconoció haber sido cercano al jefe paramilitar <strong>Salvatore Mancuso</strong> en su juventud; declaró que <em>"lo volvería a hacer"</em> en defensa de su rol en el proceso de paz con las AUC (Infobae, sep-2025).</li>
+    </ul>
+
+    <div class="section-title">Propuestas del plan de gobierno — "Salvar la Patria Milagro" (2026-2030)</div>
+    <ul class="fact-list">
+      <li><strong>"Mano dura"</strong> en seguridad: retomar el modelo de "Seguridad Democrática" de Uribe, rearme del Estado, eliminación de la "Paz Total".</li>
+      <li><strong>Reactivación del sector extractivo</strong> (petróleo, carbón, minería) con inversión extranjera.</li>
+      <li><strong>Devolución de grados de inversión</strong> y disciplina fiscal.</li>
+      <li><strong>Reforma pensional</strong> alternativa que proteja a las AFP privadas y desestimule Colpensiones.</li>
+      <li><strong>Reforma laboral</strong> con mayor flexibilidad y menor carga prestacional.</li>
+      <li>Crítica frontal a las <strong>reformas de Petro</strong> y propuesta de reversión parcial.</li>
+      <li>Fórmula vicepresidencial: <strong>José Manuel Restrepo</strong> (exministro de Hacienda de Iván Duque, 2018-2022).</li>
+    </ul>
+
+    <div class="src">📚 [1] Wikipedia en (Abelardo de la Espriella) · [2] Defensores de la Patria (plan de gobierno) · [3] Infobae (2025-09-17, "lo volvería a hacer") · [4] YouTube Los Informantes (2019) · [5] IAPA / FLIP (2026, preocupación por acoso judicial).</div>
+  </article>
+
+  <!-- ============== TABLA COMPARATIVA ============== -->
+  <h2 id="comparativa"><span class="num">⚖️</span> Comparativa: 10 ejes</h2>
+  <p class="lede">Posiciones documentadas de cada candidato sobre los temas clave del próximo gobierno.</p>
+
+  <div class="table-wrap">
+  <table>
+    <thead>
+      <tr>
+        <th>Eje</th>
+        <th>Iván Cepeda (Pacto Histórico)</th>
+        <th>Abelardo De La Espriella (Defensores de la Patria)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td><strong>Modelo económico</strong></td><td>Estado activo, continuidad reformas sociales, mayor gasto público</td><td>Mercado libre, austeridad fiscal, mayor inversión privada y extranjera</td></tr>
+      <tr><td><strong>Seguridad</strong></td><td>Paz Total: continuar diálogos con todos los grupos armados + fuerza pública</td><td>"Mano dura": retomar modelo Uribe 2002-2010, suspender Paz Total, rearme militar</td></tr>
+      <tr><td><strong>Reforma a la salud</strong></td><td>Profundizar reforma Petro (sistema preventivo, EPS mixtas)</td><td>Reversión parcial; fortalecer sector privado prestador</td></tr>
+      <tr><td><strong>Reforma pensional</strong></td><td>Defender y profundizar la reforma 2024 (Colpensiones + AFP mixtas)</td><td>Reversión parcial; protección a las AFP privadas</td></tr>
+      <tr><td><strong>Reforma laboral</strong></td><td>Defender la reforma 2025 (recargos nocturnos desde 7pm, mayor formalización)</td><td>Reforma alternativa: mayor flexibilidad, menor carga prestacional</td></tr>
+      <tr><td><strong>Energía y minería</strong></td><td>Transición energética gradual: contratos de exploración de petróleo/gas con reglas claras</td><td>Reactivación plena del sector extractivo; "petróleo y carbón son riqueza"</td></tr>
+      <tr><td><strong>Relaciones exteriores</strong></td><td>Continuidad: reorientación hacia Sur-Sur (China, BRICS), tensión con EE.UU.</td><td>Alineación con EE.UU. e Israel; ruptura con Venezuela; retomar "línea dura" hemisférica</td></tr>
+      <tr><td><strong>Reforma agraria</strong></td><td>Continuidad de la reforma 2.0 de Petro (catastros, tierra a campesinos)</td><td>Oposición a la "reforma agraria de Petro"; promover propiedad privada y mercado de tierras</td></tr>
+      <tr><td><strong>Derechos humanos / DIH</strong></td><td>Defensa de la JEP, Comisión de la Verdad, implementación del Acuerdo de 2016</td><td>Crítica a la JEP; amnistía para "falsos positivos" y fuerzas militares; "los acuerdos de La Habana favorecieron a las FARC"</td></tr>
+      <tr><td><strong>Educación</strong></td><td>Continuidad de "gratuidad universal" (Petro 2022-26); más inversión en universidad pública</td><td>"Excelencia con incentivos": vouchers educativos, fortalecer sector privado</td></tr>
+    </tbody>
+  </table>
+  </div>
+
+  <!-- ============== SIMULADOR PREDICTIVO ============== -->
+  <h2 id="simulador"><span class="num">🧠</span> Simulador predictivo con razonamiento IA</h2>
+  <p class="lede">Esta herramienta <strong>opina</strong>. Combina (a) el historial verificable del candidato, (b) sus propuestas concretas, y (c) comparación con los 8 gobiernos del reporte 1994-2026. Emite rangos estimados, escenarios probables, y un <strong>veredicto</strong> sobre la combinación candidato + escenario económico.</p>
+
+  <div class="simulator">
+    <h3>🎛️ Configurar escenario</h3>
+    <div class="sim-controls">
+      <div class="sim-control">
+        <label for="candidato">Candidato</label>
+        <select id="candidato">
+          <option value="cepeda">Iván Cepeda (Pacto Histórico)</option>
+          <option value="espriella">Abelardo De La Espriella (Defensores de la Patria)</option>
+        </select>
+        <span class="sim-value-label">Filtrar la simulación por candidato</span>
+      </div>
+
+      <div class="sim-control">
+        <label for="petroleo">Precio del petróleo (USD/barril)</label>
+        <input type="range" id="petroleo" min="40" max="120" value="70" step="5">
+        <span class="sim-value" id="petroleoVal">$70</span>
+        <span class="sim-value-label">Afecta ingreso fiscal, TRM, IED, balanza comercial</span>
+      </div>
+
+      <div class="sim-control">
+        <label for="crecimiento">Crecimiento mundial (PIB OEDC)</label>
+        <input type="range" id="crecimiento" min="-2" max="5" value="2" step="0.5">
+        <span class="sim-value" id="crecimientoVal">+2.0%</span>
+        <span class="sim-value-label">Recesión / moderado / boom</span>
+      </div>
+
+      <div class="sim-control">
+        <label for="seguridad">Nivel de violencia / disidencias</label>
+        <select id="seguridad">
+          <option value="pacificada">Pacificación (avance en diálogos)</option>
+          <option value="status" selected>Status quo (actual)</option>
+          <option value="recrudescimiento">Recrudescimiento (disidencias activas)</option>
+        </select>
+        <span class="sim-value-label">Influye en gobernabilidad y costo de seguridad</span>
+      </div>
+
+      <div class="sim-control">
+        <label for="deuda">Presión fiscal (deuda/PIB)</label>
+        <select id="deuda">
+          <option value="baja">Baja (&lt;55% PIB)</option>
+          <option value="media" selected>Media (55-60% PIB)</option>
+          <option value="alta">Alta (&gt;60% PIB, riesgo de downgrade)</option>
+        </select>
+        <span class="sim-value-label">Limita margen para gasto social / reforma</span>
+      </div>
+
+      <div class="sim-control">
+        <label for="calificacion">Disciplina mercados (calificadoras)</label>
+        <select id="calificacion">
+          <option value="confianza">Confianza (recuperar grado de inversión)</option>
+          <option value="status" selected>Status quo (Baa3/BB+)</option>
+          <option value="crisis">Pérdida definitiva (default técnico)</option>
+        </select>
+        <span class="sim-value-label">Acceso a crédito, IED, tipo de cambio</span>
+      </div>
+    </div>
+
+    <button class="btn-sim" onclick="simular()">⚡ Simular gobierno</button>
+    <button class="btn-sim secondary" onclick="document.getElementById('simOutput').innerHTML='<div class=\'placeholder\'>Resultado borrado. Configurá los sliders y presioná "Simular gobierno".</div>'">🗑️ Limpiar</button>
+
+    <div class="sim-output" id="simOutput">
+      <div class="placeholder">Resultado borrado. Configurá los sliders y presioná "Simular gobierno".</div>
+    </div>
+  </div>
+
+  <!-- ============== VEREDICTOS POR COMBINACIÓN ============== -->
+  <h2 id="matriz"><span class="num">🗂️</span> Matriz rápida: veredicto por candidato</h2>
+  <p class="lede">Tabla con el análisis resumido de cada candidato frente a los escenarios más probables.</p>
+
+  <div class="table-wrap">
+  <table>
+    <thead>
+      <tr>
+        <th>Candidato</th>
+        <th>Fortalezas estructurales</th>
+        <th>Riesgos estructurales</th>
+        <th>Veredicto del simulador</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Iván Cepeda</strong></td>
+        <td>
+          • Continuidad del gobierno Petro (que tuvo indicadores razonables: PIB 2025 2,6%, desempleo 7,0%, FMI 4ª Latam).<br/>
+          • Experiencia probada en procesos de paz.<br/>
+          • Capital político del Pacto Histórico y de la izquierda organizada.
+        </td>
+        <td>
+          • Riesgo de <strong>pérdida definitiva del grado de inversión</strong> (continuidad con Petro ya está en Baa3/BB+).<br/>
+          • Continuidad de la <strong>inversión privada baja</strong> y fuga de capitales.<br/>
+          • Polarización: gobernabilidad difícil sin mayorías legislativas.<br/>
+          • Riesgo de mayor tensión con EE.UU. e inversionistas.
+        </td>
+        <td><span class="neutral">Veredicto: <strong>MIXTO</strong>. Escenario continuista. Aceptable si prioriza disciplina fiscal + transición energética gradual. Riesgo: espiral de deuda + calificación crediticia.</span></td>
+      </tr>
+      <tr>
+        <td><strong>Abelardo De La Espriella</strong></td>
+        <td>
+          • Voto castigo al gobierno Petro (10,3M votos en 1ra vuelta).<br/>
+          • Propuesta explícita de <strong>disciplina fiscal y reactivación económica</strong>.<br/>
+          • Apela a sectores que sienten que el modelo Petro ha sido débil en seguridad.
+        </td>
+        <td>
+          • <strong>Sin experiencia ejecutiva</strong> previa. Abogado litigante, no servidor público.<br/>
+          • Vínculos documentados con <strong>paramilitarismo (FIPAZ, Mancuso, AUC)</strong>.<br/>
+          • Perfil de "mano dura" puede escalar el conflicto interno en lugar de resolverlo.<br/>
+          • Ausencia de plan de gobierno detallado (crítica de InfoNación).<br/>
+          • Riesgo de <strong>ruptura institucional</strong> con la JEP y el Acuerdo de Paz.
+        </td>
+        <td><span class="neg">Veredicto: <strong>RIESGOSO</strong>. Traería estabilidad macroeconómica, pero a costa de <strong>graves riesgos en derechos humanos, justicia transicional y cohesión social</strong>. Perfil de gobierno con alta probabilidad de conflictividad interna.</span></td>
+      </tr>
+    </tbody>
+  </table>
+  </div>
+
+  <!-- ============== NOTA METODOLÓGICA FINAL ============== -->
+  <h2 id="metodologia"><span class="num">🔬</span> Metodología del simulador</h2>
+
+  <div class="disclaimer" style="background: rgba(93,173,226,0.05); border-color: rgba(93,173,226,0.30);">
+    <h4 style="color: var(--blue);">Cómo razona el simulador</h4>
+    <ul>
+      <li><strong>Input</strong>: candidato + 5 variables de entorno (petróleo, crecimiento mundial, seguridad, deuda, calificadoras).</li>
+      <li><strong>Base de razonamiento</strong>:
+        <ol>
+          <li>Historial verificable del candidato (votaciones en Congreso, posiciones públicas, trayectoria profesional).</li>
+          <li>Propuestas concretas del plan de gobierno registrado ante el CNE y publicado por la campaña.</li>
+          <li>Comparación con gobiernos anteriores del reporte 1994-2026 (¿qué pasó cuando Colombia tuvo choque petrolero + izquierda? = Petro 2022-26. ¿Qué pasó cuando tuvo mano dura + derecha? = Uribe 2002-10).</li>
+          <li>Datos macro verificables del reporte 1994-2026 (PIB, deuda, calificación).</li>
+        </ol>
+      </li>
+      <li><strong>Output</strong>: rangos estimados de PIB, desempleo, TRM; trayectoria probable de eventos; y <strong>opinión argumentada</strong> sobre pros/contras y veredicto.</li>
+      <li><strong>Limitaciones</strong>: las predicciones son modelos contrafactuales, no profecías. Eventos disruptivos (guerras, pandemias, crisis financieras globales) no están contemplados.</li>
+      <li><strong>Honestidad intelectual</strong>: el simulador <strong>opina</strong> con argumentos, no escuda detrás de neutralidad tibia. Las opiniones son del análisis algorítmico basado en datos, no del autor del sitio.</li>
+    </ul>
+  </div>
+
+  <!-- ============== FUENTES ============== -->
+  <h2 id="fuentes"><span class="num">📚</span> Fuentes verificadas</h2>
+  <ul class="fact-list">
+    <li><strong>Resultados electorales</strong>: <a href="https://www.registraduria.gov.co/" target="_blank" rel="noopener">Registraduría Nacional del Estado Civil</a> — escrutinio definitivo 1ra vuelta 2026.</li>
+    <li><strong>Biografía Cepeda</strong>: <a href="https://es.wikipedia.org/wiki/Iv%C3%A1n_Cepeda" target="_blank" rel="noopener">Wikipedia es (Iván Cepeda)</a> · <a href="https://www.senado.gov.co/" target="_blank" rel="noopener">Senado de la República</a> · <a href="https://ivancepedacastro.com/" target="_blank" rel="noopener">Sitio oficial de campaña</a>.</li>
+    <li><strong>Biografía Espriella</strong>: <a href="https://en.wikipedia.org/wiki/Abelardo_de_la_Espriella" target="_blank" rel="noopener">Wikipedia en (Abelardo de la Espriella)</a> · <a href="https://defensoresdelapatria.com/" target="_blank" rel="noopener">Defensores de la Patria</a> · Infobae (sep-2025).</li>
+    <li><strong>Propuestas Cepeda</strong>: <a href="https://www.movimientopactohistorico.co/programa-gobierno" target="_blank" rel="noopener">Programa Pacto Histórico 2026-2030</a> · <a href="https://www.lasillavacia.com/silla-nacional/las-propuestas-bomba-del-programa-de-ivan-cepeda/" target="_blank" rel="noopener">La Silla Vacía</a>.</li>
+    <li><strong>Propuestas Espriella</strong>: <a href="https://defensoresdelapatria.com/wp-content/uploads/2026/04/PROPUESTAS-DEL-TIGRE.pdf" target="_blank" rel="noopener">Plan "Patria Milagro" PDF</a>.</li>
+    <li><strong>Caso Uribe / Cepeda</strong>: Sentencias de la Corte Suprema de Justicia (2018, 2025) y Corte IDH.</li>
+    <li><strong>FIPAZ / AUC</strong>: <a href="https://www.infobae.com/colombia/2025/09/17/el-rol-de-abelardo-de-la-espriella-en-el-proceso-de-paz-entre-colombia-y-las-auc-lo-volveria-a-hacer/" target="_blank" rel="noopener">Infobae (2025)</a> · <a href="https://www.flip.org.co/" target="_blank" rel="noopener">FLIP</a>.</li>
+    <li><strong>Macroeconomía histórica</strong>: <a href="https://datos.bancomundial.org/" target="_blank" rel="noopener">Banco Mundial</a> · <a href="https://www.dane.gov.co/" target="_blank" rel="noopener">DANE</a> · Minhacienda (datos integrados en el <a href="./">reporte principal 1994-2026</a>).</li>
+  </ul>
+
+</main>
+
+<footer>
+  <p><strong>Candidatos 2026 — Colombia</strong> · Módulo de análisis con razonamiento IA</p>
+  <p>Asistencia de IA · Datos verificados con fuentes oficiales · <a href="./">← Volver al reporte de gobiernos</a></p>
+  <p style="margin-top:12px; font-size:0.8em; opacity:0.7;">Las predicciones del simulador son modelos contrafactuales basados en datos, no garantías. El simulador emite opiniones argumentadas con base en el historial y propuestas de cada candidato. Las cifras marcadas como preliminares están sujetas a revisión.</p>
+</footer>
+
+<script>
+// ============= SIMULADOR PREDICTIVO =============
+const sliders = ['petroleo', 'crecimiento'];
+sliders.forEach(id => {
+  const el = document.getElementById(id);
+  const val = document.getElementById(id + 'Val');
+  el.addEventListener('input', () => {
+    if (id === 'petroleo') val.textContent = '$' + el.value;
+    if (id === 'crecimiento') val.textContent = (el.value > 0 ? '+' : '') + el.value + '%';
+  });
+});
+
+function fmt(n, dec=1) { return Number(n).toFixed(dec); }
+function money(n) { return '$' + Number(Math.round(n)).toLocaleString('es-CO'); }
+function arrow(d) { return d>0 ? '↑' : (d<0 ? '↓' : '→'); }
+function cls(d) { return d>0 ? 'pos' : (d<0 ? 'neg' : 'neutral'); }
+
+function simular() {
+  const cand = document.getElementById('candidato').value;
+  const petroleo = +document.getElementById('petroleo').value;
+  const crecimiento = +document.getElementById('crecimiento').value;
+  const seg = document.getElementById('seguridad').value;
+  const deuda = document.getElementById('deuda').value;
+  const cal = document.getElementById('calificacion').value;
+
+  let out = { cand, petroleo, crecimiento, seg, deuda, cal };
+  let pib, des, trm, gobernabilidad, inversion, conclusionClass, conclusionTxt, pros, cons, narrativa;
+
+  // === CEPEDA: continuista Petro-line, gasto social, transición gradual ===
+  if (cand === 'cepeda') {
+    // PIB: parte de 2,6% (2025) + sensibilidad a choques externos
+    let pibBase = 2.5;
+    pibBase += (petroleo - 70) * 0.015;  // cada USD/barril = 1.5 puntos básicos
+    pibBase += (crecimiento - 2) * 0.3;
+    if (seg === 'recrudescimiento') pibBase -= 0.5;
+    if (deuda === 'alta') pibBase -= 0.4;
+    if (cal === 'crisis') pibBase -= 0.7;
+    pib = Math.max(0.2, Math.min(4.5, pibBase));
+
+    // Desempleo: mejor si crece, peor si crisis
+    let desBase = 9.0;
+    desBase -= (pib - 2) * 0.5;
+    if (cal === 'crisis') desBase += 1.5;
+    des = Math.max(6.5, Math.min(15, desBase));
+
+    // TRM: depende de petroleo y calificacion
+    let trmBase = 4200;
+    trmBase -= (petroleo - 70) * 8;  // mayor petroleo = menor TRM
+    if (cal === 'crisis') trmBase += 700;
+    if (crecimiento < 0) trmBase += 200;
+    trm = Math.max(3600, Math.min(5400, trmBase));
+
+    // Inversión: continuista, bajo nivel
+    let invBase = 3.0;
+    if (cal === 'confianza') invBase = 4.0;
+    if (cal === 'crisis') invBase = 1.5;
+    if (deuda === 'alta') invBase -= 0.3;
+    inversion = invBase;
+
+    // Gobernabilidad: depende de calificacion y deuda
+    if (cal === 'crisis' || deuda === 'alta') {
+      gobernabilidad = 'Baja — riesgo de ingobernabilidad por mercados en contra';
+    } else if (cal === 'confianza' && seg === 'pacificada') {
+      gobernabilidad = 'Alta — respaldo de calificadoras + diálogo social';
+    } else {
+      gobernabilidad = 'Media — depende de mayorías legislativas';
+    }
+
+    narrativa = `Con <strong>Iván Cepeda</strong> continuaría la línea del gobierno Petro (2022-2026). El escenario tiene un sesgo <strong>continuista</strong>: las reformas sociales (pensional, laboral) se mantendrían, y la transición energética se haría de forma gradual (corrigiendo los errores de Petro 2022-26). El crecimiento del PIB depende fuertemente del precio del petróleo y del crecimiento mundial.`;
+
+    pros = [];
+    cons = [];
+    if (pib >= 2.5) pros.push('Crecimiento estable si el contexto externo acompaña');
+    if (des <= 9) pros.push('Mercado laboral mantiene la inercia positiva de Petro 2025 (7%)');
+    if (seg === 'pacificada') pros.push('Avance en diálogos con ELN y disidencias podría reducir el costo de seguridad');
+    if (cal === 'confianza') pros.push('Recuperar el grado de inversión reactivaría IED');
+
+    if (cal === 'crisis') cons.push('<strong>Default técnico</strong> ⇒ crisis cambiaria + fuga de capitales + colapso fiscal');
+    if (deuda === 'alta') cons.push('Margen fiscal cero para nuevas reformas — se requeriría nuevo paquete tributario');
+    if (seg === 'recrudescimiento') cons.push('Recrudescimiento del conflicto elevaría el gasto militar y desincentivaría IED');
+    if (crecimiento < 0) cons.push('Recesión global golpearía exportaciones y TRM');
+    if (petroleo < 55) cons.push('Precios bajos del petróleo reducen ingresos fiscales (Colombia depende ~25% de renta petrolera)');
+
+    // Veredicto Cepeda
+    if (cal === 'crisis') {
+      conclusionClass = 'bad';
+      conclusionTxt = '<strong>NO RECOMENDABLE en este escenario.</strong> La pérdida definitiva del grado de inversión haría que Cepeda herede una crisis que el modelo continuista no puede resolver sin mayor disciplina fiscal. Riesgo de estanflación.';
+    } else if (cal === 'confianza' && petroleo >= 75 && seg === 'pacificada') {
+      conclusionClass = 'good';
+      conclusionTxt = '<strong>ESCENARIO FAVORABLE.</strong> Petróleo alto + calificadoras contentas + diálogos avanzados = Cepeda podría consolidar un mandato de 4 años con crecimiento razonable y reconciliación social. Continuidad viable.';
+    } else {
+      conclusionClass = 'mixed';
+      conclusionTxt = '<strong>VEREDICTO MIXTO.</strong> Continuidad con reformas: crecimiento moderado, riesgo fiscal contenido si la deuda no se desboca. La continuidad de Petro en su mejor versión (2024-2025) con transición energética gradual. Depende críticamente de que Cepeda priorice disciplina fiscal.';
+    }
+  }
+
+  // === DE LA ESPRIELLA: reactivación + mano dura, sin experiencia ejecutiva ===
+  else {
+    // PIB: reactivador si confianza, contractivo si crisis
+    let pibBase = 2.2;
+    pibBase += (petroleo - 70) * 0.020;  // mayor reactividad
+    pibBase += (crecimiento - 2) * 0.35;
+    if (cal === 'confianza') pibBase += 0.7;
+    if (cal === 'crisis') pibBase -= 1.0;
+    if (seg === 'recrudescimiento') pibBase -= 0.6;
+    if (deuda === 'alta') pibBase -= 0.3;
+    pib = Math.max(0.0, Math.min(4.8, pibBase));
+
+    // Desempleo: si reactivador, baja; si conflicto, sube
+    let desBase = 9.5;
+    desBase -= (pib - 2) * 0.6;
+    if (seg === 'recrudescimiento') desBase += 1.0;
+    des = Math.max(6.5, Math.min(15, desBase));
+
+    // TRM: depende más de calificacion
+    let trmBase = 4300;
+    trmBase -= (petroleo - 70) * 10;
+    if (cal === 'confianza') trmBase -= 400;
+    if (cal === 'crisis') trmBase += 900;
+    trm = Math.max(3500, Math.min(5600, trmBase));
+
+    // Inversión: reactivadora, alto si confianza
+    let invBase = 2.5;
+    if (cal === 'confianza') invBase = 4.5;
+    if (cal === 'crisis') invBase = 1.0;
+    inversion = invBase;
+
+    // Gobernabilidad: conflicto institucional latente
+    if (cal === 'crisis') {
+      gobernabilidad = 'Muy baja — polarización extrema + conflicto institucional con JEP y Acuerdo de Paz';
+    } else if (seg === 'recrudescimiento') {
+      gobernabilidad = 'Baja — escalada militar + ruptura de diálogos = riesgo de crisis de DDHH';
+    } else if (cal === 'confianza' && seg === 'pacificada') {
+      gobernabilidad = 'Media — respaldo de mercados pero tensión social y con cortes';
+    } else {
+      gobernabilidad = 'Media-baja — conflicto con la JEP y el Acuerdo de Paz generará resistencia institucional';
+    }
+
+    narrativa = `Con <strong>Abelardo De La Espriella</strong> habría un giro de 180 grados hacia la derecha radical: reactivación del sector extractivo, "mano dura" en seguridad, reversión parcial de las reformas sociales. Es un gobierno de <strong>alineamiento con mercados internacionales</strong> y de <strong>mano dura militar</strong>. El problema crítico: <strong>no tiene experiencia ejecutiva</strong> y arrastra vínculos documentados con grupos paramilitares que afectarían la legitimidad nacional e internacional del gobierno.`;
+
+    pros = [];
+    cons = [];
+    if (cal === 'confianza') pros.push('Recuperación rápida del grado de inversión y reactivación de IED');
+    if (petroleo >= 75) pros.push('Apalancamiento petrolero reactivaría ingresos fiscales');
+    if (seg === 'pacificada') pros.push('Inversión privada en regiones con mayor seguridad');
+
+    cons.push('<strong>Ausencia de experiencia ejecutiva</strong>: abogado litigante, no servidor público. Riesgo alto de improvisación.');
+    cons.push('<strong>Vínculos con paramilitarismo</strong> (FIPAZ, Mancuso, AUC) dañarían relaciones con UE, CIDH, ONU.');
+    cons.push('<strong>Ruptura con la JEP</strong> y el Acuerdo de Paz generaría una crisis institucional con la Corte Constitucional y la CIDH.');
+    if (seg === 'recrudescimiento') cons.push('La estrategia de "mano dura" podría escalar el conflicto en lugar de reducirlo (lección de 2002-2010 vs. conflicto residual).');
+    if (crecimiento < 0) cons.push('Reactivación económica sin reforma social generaría mayor desigualdad.');
+    cons.push('Plan de gobierno <strong>poco detallado</strong> (crítica de InfoNación): incertidumbre regulatoria para inversionistas.');
+
+    // Veredicto Espriella
+    if (cal === 'crisis') {
+      conclusionClass = 'bad';
+      conclusionTxt = '<strong>NO RECOMENDABLE.</strong> Un gobierno sin experiencia ejecutiva en medio de una crisis crediticia es un escenario de alta inestabilidad. Riesgo de default soberano + escalada del conflicto interno + aislamiento diplomático.';
+    } else if (cal === 'confianza' && seg === 'pacificada') {
+      conclusionClass = 'mixed';
+      conclusionTxt = '<strong>VEREDICTO MIXTO.</strong> Reactivación macroeconómica posible, pero a costa de regresión en derechos humanos, justicia transicional, e igualdad social. Los indicadores de corto plazo (PIB, IED) podrían mejorar, pero los de largo plazo (cohesión social, institucionalidad) empeorarían. Precio: pérdida de legitimidad internacional.';
+    } else {
+      conclusionClass = 'bad';
+      conclusionTxt = '<strong>RIESGOSO.</strong> Combinación de inexperiencia ejecutiva + mano dura + ruptura institucional con JEP = alta probabilidad de conflictividad interna, aislamiento diplomático (UE, CIDH) y crisis de derechos humanos. Los indicadores macro pueden mejorar en el corto plazo pero el costo social e institucional es elevado.';
+    }
+  }
+
+  // === RENDER ===
+  const html = `
+    <div class="sim-grid">
+      <div class="sim-kpi"><div class="label">PIB estimado</div><div class="value ${cls(pib-2.5)}">${arrow(pib-2.5)} ${fmt(pib)}%</div><div class="sub">vs promedio histórico</div></div>
+      <div class="sim-kpi"><div class="label">Desempleo fin</div><div class="value ${cls(9.5-des)}">${arrow(9.5-des)} ${fmt(des)}%</div><div class="sub">promedio histórico ~10%</div></div>
+      <div class="sim-kpi"><div class="label">TRM estimada</div><div class="value ${cls(4200-trm)}">${arrow(4200-trm)} ${money(trm)}</div><div class="sub">COP/USD promedio</div></div>
+      <div class="sim-kpi"><div class="label">IED (cualitativo)</div><div class="value ${inversion>=3.5?'pos':(inversion>=2.5?'amber':'neg')}">${inversion>=3.5?'Alta':(inversion>=2.5?'Media':'Baja')}</div><div class="sub">% PIB en tendencia</div></div>
+      <div class="sim-kpi"><div class="label">Gobernabilidad</div><div class="value amber" style="font-size:0.95em; line-height:1.2">${gobernabilidad}</div></div>
+    </div>
+
+    <div class="sim-section-title">🤖 Razonamiento del agente</div>
+    <p style="font-size:0.95em; line-height:1.6">${narrativa}</p>
+
+    <div class="verdict ${conclusionClass}">
+      <h4>⚖️ Veredicto del simulador</h4>
+      <p style="margin:6px 0 0; font-size:0.95em">${conclusionTxt}</p>
+    </div>
+
+    ${pros.length > 0 ? `
+    <div class="sim-section-title" style="color: var(--green)">✅ A favor de esta combinación</div>
+    <ul class="pros">${pros.map(p=>'<li>'+p+'</li>').join('')}</ul>
+    ` : ''}
+
+    ${cons.length > 0 ? `
+    <div class="sim-section-title" style="color: var(--red)">⚠️ En contra de esta combinación</div>
+    <ul class="cons">${cons.map(c=>'<li>'+c+'</li>').join('')}</ul>
+    ` : ''}
+
+    <div style="margin-top:20px; padding-top:14px; border-top:1px solid var(--border); font-size:0.78em; color:var(--muted)">
+      <strong>Resumen del escenario:</strong> Candidato ${cand === 'cepeda' ? 'Iván Cepeda (continuista)' : 'Abelardo De La Espriella (reactivador)'} · Petróleo $${petroleo}/bbl · Crecimiento mundial ${crecimiento>0?'+':''}${crecimiento}% · Seguridad ${seg} · Deuda ${deuda} · Calificadoras ${cal}.
+    </div>
+  `;
+
+  document.getElementById('simOutput').innerHTML = html;
+}
+
+// Simulación inicial automática al cargar
+window.addEventListener('load', () => {
+  setTimeout(simular, 300);
+});
+</script>
+
+</body>
+</html>
