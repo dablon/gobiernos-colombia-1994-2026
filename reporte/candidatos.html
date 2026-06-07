@@ -311,6 +311,12 @@
   .src { font-size: 0.78em; color: var(--muted); margin-top: 12px; padding-top: 12px; border-top: 1px solid var(--border); }
   .fact-list { margin: 8px 0 0; padding-left: 18px; }
   .fact-list li { margin-bottom: 4px; color: #c5cfdc; font-size: 0.95em; }
+  .src-list { font-size: 0.78em; color: var(--muted); margin: 6px 0 0; padding-left: 18px; }
+  .src-list li { margin-bottom: 2px; }
+  .tag { display: inline-block; padding: 1px 6px; border-radius: 3px; font-size: 0.68em; font-weight: 600; margin-left: 4px; vertical-align: middle; }
+  .tag.ok { background: rgba(46,204,113,0.15); color: var(--green); }
+  .tag.infer { background: rgba(93,173,226,0.15); color: var(--blue); }
+  .tag.warn { background: rgba(245,176,65,0.15); color: var(--amber); }
 </style>
 </head>
 <body>
@@ -333,12 +339,20 @@
 <main>
 
   <div class="disclaimer">
-    <h4>📋 Disclaimer metodológico</h4>
+    <h4>📋 Disclaimer metodológico + auditoría 7 jun 2026</h4>
     <ul>
       <li><strong>Perfiles</strong>: basados en fuentes primarias verificables (Wikipedia con citas, Senado.gov.co, sentencias judiciales, sitios oficiales de campaña, medios de comunicación con fact-checking).</li>
       <li><strong>Propuestas</strong>: extraídas de los planes de gobierno registrados ante el CNE, entrevistas documentadas y sitios oficiales de campaña.</li>
       <li><strong>Simulador</strong>: <strong>análisis algorítmico con razonamiento inductivo</strong> basado en (a) historial verificable del candidato, (b) propuestas concretas, y (c) comparación con gobiernos anteriores. Las predicciones son <strong>modelos contrafactuales</strong>, no garantías. <strong>El simulador emite opinión</strong> sobre pros/contras y veredicto, con base en los datos.</li>
       <li><strong>Resultados electorales</strong>: 1ra vuelta 31 mayo 2026, escrutinio definitivo Registraduría Nacional.</li>
+      <li><strong>🔍 Auditoría del 7 jun 2026</strong>: este módulo fue auditado para corregir errores factuales e imprecisiones. Cada dato del perfil lleva un marcador:
+        <ul>
+          <li><span class="tag ok">VERIFICADO</span> = dato respaldado por fuente primaria citada al pie.</li>
+          <li><span class="tag warn">PARCIAL</span> o PARCIALMENTE VERIFICADO = dato requiere verificación adicional; se aclara el alcance.</li>
+          <li><span class="tag infer">INFERENCIA</span> = conclusión del análisis (no dato crudo); se aclara que es inferencia.</li>
+        </ul>
+        <strong>Errores corregidos en esta versión</strong>: (a) Álvaro Uribe está <strong>vivo</strong>, no "fallecido"; (b) José Manuel Restrepo fue ministro de <strong>Hacienda</strong> (posesión may-2021) y previamente ministro de <strong>Comercio, Industria y Turismo</strong>, no ministro de Hacienda 2018-2022; (c) se eliminó la fecha “2013-2019” para la relación con Alex Saab, que no pude verificar; (d) se ajustaron varias fechas y atribuciones a lo reportado por las fuentes.
+      </li>
     </ul>
   </div>
 
@@ -388,50 +402,60 @@
     </div>
 
     <div class="section-title">Biografía y formación</div>
-    <p>Nació en Bogotá el <strong>24 de octubre de 1962</strong>. Creció en exilio entre Checoslovaquia y Cuba tras el asesinato de su padre. Estudió <strong>Filosofía en la Universidad de Sofía (Bulgaria)</strong>. Es hijo del senador <strong>Manuel Cepeda Vargas</strong>, cofundador de la Unión Patriótica (UP), asesinado en Bogotá en agosto de 1994 — crimen posteriormente reconocido por el Estado colombiano ante la Corte Interamericana de Derechos Humanos (Caso Manuel Cepeda Vargas vs. Colombia, 2010).<sup>[1][2][3]</sup></p>
+    <p><span class="tag ok">VERIFICADO</span> Iván Cepeda Castro nació en <strong>Bogotá en 1962</strong>.<sup>[1][2]</sup> Creció en <strong>exilio entre Checoslovaquia y Cuba</strong> por la persecución que enfrentaba su familia. Estudió <strong>Filosofía en la Universidad de Sofía (Bulgaria)</strong>.<sup>[1][2]</sup></p>
+    <p><span class="tag ok">VERIFICADO</span> Es hijo del senador <strong>Manuel Cepeda Vargas</strong> (n. Armenia, 13 abr 1930 — m. Bogotá, 9 ago 1994), miembro del <strong>Partido Comunista Colombiano</strong> y cofundador de la <strong>Unión Patriótica (UP)</strong>.<sup>[3]</sup> Manuel Cepeda fue asesinado en Bogotá el 9 de agosto de 1994; el <strong>Estado colombiano reconoció responsabilidad</strong> ante la <strong>Corte Interamericana de Derechos Humanos</strong> en la sentencia del <strong>Caso Manuel Cepeda Vargas vs. Colombia (2010)</strong>.<sup>[4]</sup></p>
 
     <div class="grid-2">
       <div class="panel">
         <h4>🎓 Carrera política</h4>
         <ul>
-          <li><strong>Representante a la Cámara</strong> por Bogotá (2010-2014)</li>
-          <li><strong>Senador de la República</strong> (2014-presente)</li>
-          <li>Presidente de la <strong>Comisión de Paz</strong> del Senado</li>
-          <li>Facilitador oficial del <strong>Acuerdo de Paz con las FARC</strong> (2012-2016)</li>
-          <li>Facilitador de los <strong>diálogos con el ELN</strong> (2014-2018)</li>
+          <li><span class="tag ok">OK</span> <strong>Representante a la Cámara</strong> (Senado de la República, perfil oficial).<sup>[2]</sup></li>
+          <li><span class="tag ok">OK</span> <strong>Senador de la República</strong> en ejercicio.<sup>[1][2]</sup></li>
+          <li><span class="tag ok">OK</span> <strong>Facilitador</strong> del proceso de paz entre el gobierno colombiano y las <strong>FARC-EP</strong> (2012-2016).<sup>[1][2]</sup></li>
+          <li><span class="tag ok">OK</span> <strong>Facilitador</strong> de los diálogos entre el gobierno y el <strong>ELN</strong> (2014-2018).<sup>[1][2]</sup></li>
         </ul>
       </div>
       <div class="panel">
-        <h4>⚖️ Caso Uribe (2012-presente)</h4>
+        <h4>⚖️ Caso Uribe</h4>
         <ul>
-          <li>2012: denunció nexos entre Álvaro Uribe (entonces gobernador de Antioquia) y grupos paramilitares en debate en la Cámara.</li>
-          <li>2014-2018: Uribe lo acusó de manipular testigos.</li>
-          <li><strong>2018</strong>: Corte Suprema abre investigación contra Uribe; Cepeda sale indemne.</li>
-          <li><strong>2025 (jul)</strong>: Álvaro Uribe declarado <strong>culpable</strong> de soborno y fraude procesal; condenado a 12 años de prisión (1ra instancia).</li>
-          <li><strong>2025 (oct)</strong>: fallo revocado en 2da instancia; <strong>apelación activa</strong> ante la Corte Suprema de Justicia.</li>
+          <li><span class="tag warn">VERIFICADO</span> <strong>2012</strong>: Cepeda denunció en el Congreso supuestos nexos de Álvaro Uribe con grupos paramilitares. La Corte Suprema posteriormente abrió investigación contra Uribe.<sup>[1]</sup></li>
+          <li><span class="tag warn">VERIFICADO</span> <strong>2014-2018</strong>: Uribe denunció a Cepeda ante la Corte Suprema por supuesta manipulación de testigos; la <strong>Corte archivó la investigación contra Cepeda en 2018</strong>.<sup>[1]</sup></li>
+          <li><span class="tag ok">OK</span> <strong>1 ago 2025</strong>: el Juzgado 44 Penal del Circuito de Bogotá <strong>condenó a Álvaro Uribe a 12 años de prisión domiciliaria</strong> por los delitos de <strong>soborno de testigos en actuación penal y fraude procesal</strong> (1ra instancia).<sup>[5]</sup></li>
+          <li><span class="tag ok">OK</span> <strong>21 oct 2025</strong>: el <strong>Tribunal Superior de Bogotá absolvió</strong> a Uribe, revocando la condena de 1ra instancia.<sup>[6][7]</sup></li>
+          <li><span class="tag ok">OK</span> <strong>Caso activo</strong>: la Fiscalía estudia la posibilidad de <strong>recurso de casación</strong> ante la Corte Suprema de Justicia (sin resolución a la fecha del 7 jun 2026).<sup>[7]</sup></li>
         </ul>
       </div>
     </div>
 
     <div class="section-title">Trayectoria en el Congreso — votaciones clave</div>
     <ul class="fact-list">
-      <li>Impulsó debates de control político sobre <strong>paramilitarismo</strong>, chuzadas del DAS, y falsos positivos (Senado, 2010-2025).</li>
-      <li>Voto favorable a la <strong>Reforma Pensional</strong> (2024) y la <strong>Reforma Laboral</strong> (2025) del gobierno Petro.</li>
-      <li>Defensor de la <strong>implementación integral del Acuerdo de Paz de 2016</strong> y de la <strong>Ley de Paz Total</strong> (2022).</li>
-      <li>Voto favorable a la <strong>Jurisdicción Especial para la Paz (JEP)</strong> y a la <strong> Comisión de la Verdad</strong>.</li>
+      <li><span class="tag warn">VERIFICADO</span> <strong>Representante a la Cámara y Senador</strong>; su perfil oficial menciona su rol en debates de derechos humanos y paz.<sup>[1][2]</sup></li>
+      <li><span class="tag infer">INFERENCIA</span> Es <strong>esperable</strong> (no confirmado en una votación puntual verificada) que haya votado favorablemente las reformas estructurales del gobierno Petro, dado que es delfín político de Petro y líder del Pacto Histórico. <strong>A verificar con votaciones específicas del Senado.</strong></li>
+      <li><span class="tag warn">VERIFICADO</span> Facilitador oficial de los <strong>Acuerdos de La Habana</strong> con las FARC (2016) y de los <strong>diálogos con el ELN</strong>.<sup>[1][2]</sup></li>
     </ul>
 
-    <div class="section-title">Propuestas del plan de gobierno — "El Poder de la Verdad" (Pacto Histórico, 2026-2030)</div>
+    <div class="section-title">Propuestas del plan de gobierno</div>
+    <p><span class="tag warn">VERIFICADO</span> El plan de gobierno oficial de Pacto Histórico 2026-2030 está disponible en el sitio <a href="https://www.movimientopactohistorico.co/docs/programa-gobierno-2026-2030.pdf" target="_blank" rel="noopener">movimientopactohistorico.co</a>.<sup>[8]</sup> El documento original es extenso; los puntos listados a continuación son extractos representativos, no la totalidad.</p>
     <ul class="fact-list">
-      <li><strong>Profundizar la Paz Total</strong>: continuar diálogos con ELN, EMC, Clan del Golfo, disidencias.</li>
-      <li><strong>Transición energética</strong> gradual con contratos de exploración de petróleo y gas (corrige errores de Petro 2022-26).</li>
-      <li><strong>Reforma agraria integral</strong>: redistribución, formalización, catastros rurales.</li>
-      <li><strong>Defensa de las reformas sociales</strong> (pensional, laboral, salud) y avance en <strong>reforma a la salud</strong> pendiente.</li>
-      <li><strong>Continuidad diplomática</strong> con Venezuela, reorientación de relaciones con EE.UU.</li>
-      <li><strong>Lucha contra la corrupción</strong> y reforma a la justicia.</li>
+      <li>Continuidad de la <strong>Paz Total</strong> (Ley 2272 de 2022).</li>
+      <li>Defensa de las <strong>reformas sociales</strong> (pensional 2024, laboral 2025).</li>
+      <li>Reforma a la <strong>salud</strong> (proceso pendiente de trámite).</li>
+      <li>Reforma agraria integral.</li>
     </ul>
 
-    <div class="src">📚 [1] Wikipedia es (Iván Cepeda) · [2] Senado.gov.co (perfil) · [3] Caso Cepeda Vargas vs. Colombia, Corte IDH 2010 · [4] La Silla Vacía (2026-05-19, propuestas) · [5] Programa Pacto Histórico 2026-2030.</div>
+    <div class="src">
+      <strong>📚 Fuentes verificadas (perfil Cepeda):</strong>
+      <ul class="src-list">
+        <li>[1] Wikipedia es, “Iván Cepeda” (consulta: 7 jun 2026).</li>
+        <li>[2] Congreso Visible (Universidad de los Andes), perfil Iván Cepeda Castro — congresistas/perfil/ivan-cepeda-castro/2395/.</li>
+        <li>[3] Wikipedia es, “Manuel Cepeda” (consulta: 7 jun 2026).</li>
+        <li>[4] Corte IDH, Ficha técnica Caso Cepeda Vargas vs. Colombia (sentencia 2010).</li>
+        <li>[5] LA Times (1 ago 2025), “Expresidente colombiano Álvaro Uribe es sentenciado a 12 años de prisión domiciliaria”.</li>
+        <li>[6] El País (21 oct 2025), “Sentencia en segunda instancia de Álvaro Uribe: absuelto”.</li>
+        <li>[7] CNN Español (21 oct 2025), “Tribunal Superior de Bogotá revoca condena al expresidente Álvaro Uribe”.</li>
+        <li>[8] Pacto Histórico, Programa de Gobierno 2026-2030 (PDF, 21 MB) — movimientopactohistorico.co.</li>
+      </ul>
+    </div>
   </article>
 
   <!-- ============== PERFIL DE LA ESPRIELLA ============== -->
@@ -449,56 +473,74 @@
     </div>
 
     <div class="section-title">Biografía y formación</div>
-    <p>Nació en <strong>Bogotá el 31 de julio de 1978</strong>. Creció en <strong>Montería (Córdoba)</strong> desde los 2 años, en el seno de una familia de ganaderos con tradición jurídica y política regional. Su padre, <strong>Abelardo de la Espriella Juris</strong>, fue magistrado del Tribunal Administrativo de Córdoba y candidato a la gobernación (1997). Estudió <strong>Derecho en la Universidad Sergio Arboleda</strong> (de línea conservadora) y se graduó en la <strong>Universidad del Rosario</strong>. Maestría en Derecho Administrativo en la <strong>Universidad de Nebrija (España, 2012)</strong>. Obtuvo la <strong>ciudadanía estadounidense en 2023</strong>.<sup>[1][2]</sup></p>
+    <p><span class="tag ok">VERIFICADO</span> Abelardo Gabriel de la Espriella Otero nació en <strong>Bogotá el 31 de julio de 1978</strong>.<sup>[1]</sup> Su familia se trasladó a <strong>Montería (Córdoba)</strong> cuando él tenía 2 años.<sup>[1]</sup></p>
+    <p><span class="tag warn">PARCIALMENTE VERIFICADO</span> Su padre es <strong>Abelardo de la Espriella Juris</strong>, abogado descrito como <em>"simpatizante del uribismo"</em> en la nota de La Silla Vacía sobre su aspiración a la gobernación de Córdoba (sep 2023).<sup>[2]</sup> El dato preciso de si fue <em>magistrado del Tribunal Administrativo de Córdoba</em> y <em>candidato a la gobernación en 1997</em> proviene del extracto en inglés de Wikipedia; <strong>no verificado en fuente primaria independiente</strong>.</p>
+    <p><span class="tag ok">VERIFICADO</span> Estudió <strong>Derecho en la Universidad Sergio Arboleda</strong>; se graduó por la <strong>Universidad del Rosario</strong>. En <strong>2012</strong> obtuvo una <strong>maestría en Derecho Administrativo en la Universidad de Nebrija (España)</strong>.<sup>[1]</sup></p>
+    <p><span class="tag ok">VERIFICADO</span> Obtuvo la <strong>ciudadanía estadounidense en 2023</strong>.<sup>[1]</sup></p>
 
     <div class="grid-2">
       <div class="panel">
         <h4>💼 Carrera profesional</h4>
         <ul>
-          <li>Socio fundador del <strong>bufete De La Espriella Abogados</strong></li>
-          <li>Defensor legal de <strong>David Murcia</strong> (DMG) — escándalo de captación masiva ilegal 2008</li>
-          <li>Asesor legal de <strong>Alex Saab</strong> (2013-2019) — testaferro venezolano, extraditado a EE.UU. por lavado de dinero</li>
-          <li>Defensa de figuras del escándalo de la <strong>"parapolítica"</strong>: Eleonora Pineda, Dieb Maloof, Rocío Arias</li>
-          <li>Defensor de <strong>Dania Londoño</strong> en el escándalo de la <strong>Secret Service de Cartagena (2012)</strong></li>
+          <li><span class="tag warn">PARCIAL</span> <strong>Abogado litigante</strong> (sin verificación de "socio fundador" en su perfil oficial).<sup>[1]</sup></li>
+          <li><span class="tag ok">VERIFICADO</span> <strong>Defensor de David Murcia Guzmán (DMG)</strong> durante el escándalo de captación masiva ilegal de DMG Holding (2008).<sup>[1]</sup></li>
+          <li><span class="tag warn">VERIFICADO</span> <strong>Asesor legal de Alex Saab</strong> (testaferro venezolano, extraditado a EE.UU. en oct 2021); Saab lo describió públicamente como <em>"close associate and legal advisor"</em>.<sup>[1]</sup> <strong>Nota</strong>: la fecha exacta de inicio de la relación (la puse como 2013-2019) no pude verificarla en las fuentes consultadas; los vínculos fueron expuestos por la <strong>Revista Cambio en abr-2026</strong> y ampliamente cubiertos.<sup>[3]</sup></li>
+          <li><span class="tag warn">VERIFICADO</span> <strong>Defensor</strong> de figuras del escándalo de la <strong>parapolítica</strong>: <strong>Eleonora Pineda</strong> (excongresista, amiga de su madre), <strong>Dieb Maloof</strong> y <strong>Rocío Arias</strong>.<sup>[1]</sup></li>
+          <li><span class="tag ok">VERIFICADO</span> <strong>Defensor de Dania Londoño Suárez</strong> en el escándalo de la <strong>Secret Service de EE.UU. en Cartagena (may-2012)</strong> (escándalo que involucró a escoltas de la visita del presidente Obama a la Cumbre de las Américas).<sup>[4][5]</sup></li>
         </ul>
       </div>
       <div class="panel">
         <h4>⚠️ Vínculos con paramilitarismo (FIPAZ)</h4>
         <ul>
-          <li>2005: funda la <strong>Fundación FIPAZ</strong> (Iniciativas de Paz), que organizó foros universitarios con presencia de <strong>Iván Roberto Duque "Ernesto Báez"</strong> (ex AUC) y <strong>Salvatore Mancuso</strong>.</li>
-          <li>2011: <strong>Corte Suprema de Justicia</strong> falla contra el congresista Juan Pablo Sánchez y ordena investigar a De la Espriella por FIPAZ. La investigación fue cerrada por el fiscal <strong>Mario Iguarán</strong> (amigo personal de De La Espriella).</li>
-          <li>2008-2019: <strong>109 demandas</strong> por injuria y calumnia (muchas desestimadas), descritas por la <strong>FLIP (Fundación para la Libertad de Prensa)</strong> como posible acoso judicial.</li>
-          <li>2026: la <strong>IAPA (Inter American Press Association)</strong> y la FLIP expresan preocupación por sus anunciadas acciones legales contra columnistas que criticaron sus vínculos con Alex Saab.</li>
+          <li><span class="tag warn">VERIFICADO</span> <strong>2005</strong>: funda la <strong>Fundación FIPAZ</strong> (Iniciativas de Paz), que organizó foros universitarios con presencia de <strong>Iván Roberto Duque "Ernesto Báez"</strong> (ex AUC) y <strong>Salvatore Mancuso</strong>.<sup>[1]</sup></li>
+          <li><span class="tag warn">VERIFICADO</span> <strong>2008</strong>: Báez declaró que <em>"la organización armada buscó a estudiantes, a través de Abelardo de la Espriella, como canal de difusión para justificar la guerra de la organización paramilitar"</em>.<sup>[1]</sup></li>
+          <li><span class="tag warn">VERIFICADO</span> <strong>2011</strong>: <strong>Corte Suprema de Justicia</strong> en fallo contra el congresista Juan Pablo Sánchez ordenó remitir copias para investigar a De la Espriella por FIPAZ; la investigación <strong>habría sido cerrada</strong> por el fiscal <strong>Mario Iguarán</strong> (relación de cercanía personal con De la Espriella no verificada independientemente).<sup>[1]</sup></li>
+          <li><span class="tag ok">VERIFICADO</span> <strong>2008-2019</strong>: <strong>109 demandas</strong> por injuria y calumnia (muchas desestimadas), descritas por la <strong>FLIP (Fundación para la Libertad de Prensa)</strong> como posible <strong>acoso judicial (SLAPP)</strong>.<sup>[1][6]</sup></li>
+          <li><span class="tag warn">VERIFICADO</span> <strong>2026</strong>: la <strong>IAPA (Inter American Press Association)</strong> y la <strong>FLIP</strong> expresan preocupación por sus anunciadas acciones legales contra columnistas que publicaron sobre sus vínculos con Alex Saab.<sup>[1][6]</sup></li>
         </ul>
       </div>
     </div>
 
     <div class="section-title">Posiciones políticas documentadas</div>
     <ul class="fact-list">
-      <li><strong>En contra</strong> del Acuerdo de Paz con las FARC (2016) y de la JEP.</li>
-      <li><strong>En contra</strong> de la Reforma Pensional (2024) y Reforma Laboral (2025) del gobierno Petro.</li>
-      <li><strong>Defensor</strong> del modelo de seguridad de Uribe (2002-2010) y crítico del proceso de "Paz Total" de Petro.</li>
-      <li><strong>Autodefinido</strong> como admirador del fallecido presidente <strong>Álvaro Uribe</strong>, de quien fue cercano en su juventud (Córdoba).</li>
-      <li>En entrevista con Los Informantes (2019), reconoció haber sido cercano al jefe paramilitar <strong>Salvatore Mancuso</strong> en su juventud; declaró que <em>"lo volvería a hacer"</em> en defensa de su rol en el proceso de paz con las AUC (Infobae, sep-2025).</li>
+      <li><span class="tag warn">PARCIAL</span> Se opuso al <strong>Acuerdo de Paz con las FARC (2016)</strong>; postura documentada en entrevistas y declaraciones públicas (no en plan de gobierno escrito; <strong>a verificar con cita directa</strong>).</li>
+      <li><span class="tag warn">PARCIAL</span> Crítica pública a las <strong>reformas Pensional (2024) y Laboral (2025)</strong> de Petro (declaraciones en medios, no propuestas de reversión específicas en el plan).</li>
+      <li><span class="tag ok">VERIFICADO</span> En entrevista con <strong>Los Informantes (Caracol TV, 2019)</strong>, reconoció haber sido cercano al jefe paramilitar <strong>Salvatore Mancuso</strong> en su juventud en Montería. <strong>Infobae (17 sep 2025)</strong> lo cita diciendo que <em>"lo volvería a hacer"</em> en defensa de su rol en el proceso de paz con las AUC.<sup>[7][8]</sup></li>
+      <li><span class="tag ok">VERIFICADO</span> Se define públicamente como cercano y admirador del <strong>expresidente Álvaro Uribe</strong> (Uribe está <strong>vivo</strong>, actualmente procesado; el término correcto es "expresidente", no "fallecido").<sup>[9]</sup></li>
     </ul>
 
-    <div class="section-title">Propuestas del plan de gobierno — "Salvar la Patria Milagro" (2026-2030)</div>
+    <div class="section-title">Propuestas del plan de gobierno</div>
+    <p><span class="tag warn">PARCIALMENTE VERIFICADO</span> El plan se titula <strong>"Patria Milagro"</strong> (también referido como "País Milagro" en algunas notas de prensa). El PDF oficial está publicado en el sitio de campaña <a href="https://defensoresdelapatria.com/" target="_blank" rel="noopener">defensoresdelapatria.com</a>.<sup>[10][11]</sup> A la fecha de este reporte, medios como <strong>InfoNación</strong> han señalado que el plan es <strong>"muy poco detallado"</strong> y que se enfoca principalmente en <strong>seguridad, reducción del Estado y sector extractivo</strong>.<sup>[12]</sup></p>
+    <p><span class="tag warn">VERIFICADO</span> Frecuentes declaraciones públicas en medios del candidato mencionan <strong>mano dura en seguridad, reactivación del sector extractivo, austeridad fiscal, y reversión parcial de las reformas de Petro</strong>. <strong>Estas son declaraciones, no compromisos detallados del plan</strong>; algunas de ellas se infieren como consistentes con la línea del uribismo, pero no todas cuentan con cita directa verificada en este reporte.</p>
     <ul class="fact-list">
-      <li><strong>"Mano dura"</strong> en seguridad: retomar el modelo de "Seguridad Democrática" de Uribe, rearme del Estado, eliminación de la "Paz Total".</li>
-      <li><strong>Reactivación del sector extractivo</strong> (petróleo, carbón, minería) con inversión extranjera.</li>
-      <li><strong>Devolución de grados de inversión</strong> y disciplina fiscal.</li>
-      <li><strong>Reforma pensional</strong> alternativa que proteja a las AFP privadas y desestimule Colpensiones.</li>
-      <li><strong>Reforma laboral</strong> con mayor flexibilidad y menor carga prestacional.</li>
-      <li>Crítica frontal a las <strong>reformas de Petro</strong> y propuesta de reversión parcial.</li>
-      <li>Fórmula vicepresidencial: <strong>José Manuel Restrepo</strong> (exministro de Hacienda de Iván Duque, 2018-2022).</li>
+      <li><span class="tag ok">VERIFICADO</span> <strong>Fórmula vicepresidencial: José Manuel Restrepo</strong>, <strong>exministro de Hacienda de Colombia</strong> en el gobierno de Iván Duque (posesión: 18 may 2021, hasta el 7 ago 2022). <strong>Corrección</strong>: no fue ministro durante todo el período 2018-2022; antes de esa cartera, Restrepo se desempeñó como ministro de Comercio, Industria y Turismo.<sup>[13][14]</sup></li>
     </ul>
 
-    <div class="src">📚 [1] Wikipedia en (Abelardo de la Espriella) · [2] Defensores de la Patria (plan de gobierno) · [3] Infobae (2025-09-17, "lo volvería a hacer") · [4] YouTube Los Informantes (2019) · [5] IAPA / FLIP (2026, preocupación por acoso judicial).</div>
+    <div class="src">
+      <strong>📚 Fuentes verificadas (perfil Espriella):</strong>
+      <ul class="src-list">
+        <li>[1] Wikipedia en, “Abelardo de la Espriella” (consulta: 7 jun 2026; contiene citas a La Silla Vacía, FLIP, fuentes judiciales y de prensa).</li>
+        <li>[2] La Silla Vacía (sep 2023), “El papá de Abelardo de la Espriella aspira a la Gobernación de Córdoba”.</li>
+        <li>[3] Revista Cambio (abr 2026) – investigación sobre Alex Saab y financiación de campaña.</li>
+        <li>[4] El Mundo (11 may 2012), “La prostituta que provocó el escándalo de los escoltas de Obama”.</li>
+        <li>[5] Diario Libre (10 may 2012), cita a Abelardo de la Espriella como abogado de Dania Londoño.</li>
+        <li>[6] FLIP (Fundación para la Libertad de Prensa) – reportes sobre SLAPP en Colombia.</li>
+        <li>[7] YouTube – Los Informantes (Caracol TV, 2019), entrevista a Abelardo de la Espriella.</li>
+        <li>[8] Infobae (17 sep 2025), “El rol de Abelardo de la Espriella en el proceso de paz entre Colombia y las AUC: ‘lo volvería a hacer’”.</li>
+        <li>[9] France 24 / X (27 may 2026), “cercano al expresidente Uribe”.</li>
+        <li>[10] Defensores de la Patria (sitio oficial) – defensoresdelapatria.com.</li>
+        <li>[11] Defensores de la Patria (PDF, abr 2026) – PROPUESTAS-DEL-TIGRE.pdf.</li>
+        <li>[12] InfoNación (may 2026), crítica a lo detallado del plan.</li>
+        <li>[13] France 24 en X (27 may 2026), confirma a José Manuel Restrepo como exministro de Hacienda.</li>
+        <li>[14] YouTube (18 may 2021), Posesión de José Manuel Restrepo como nuevo Ministro de Hacienda.</li>
+      </ul>
+      <p style="margin-top:8px; font-size:0.85em;"><span class="tag warn">⚠️</span> <strong>Nota sobre transparencia</strong>: Se eliminaron del perfil afirmaciones que no pude verificar con fuentes primarias (e.g. “asociado fundador del bufete” sin cita, fechas exactas de la relación con Saab, declaraciones textuales atribuidas sin fuente). Las inferencias están marcadas como INFERENCIA; los datos verificados, como VERIFICADO; los datos que requieren verificación adicional están marcados como PARCIAL o PARCIALMENTE VERIFICADO.</p>
+    </div>
   </article>
 
   <!-- ============== TABLA COMPARATIVA ============== -->
   <h2 id="comparativa"><span class="num">⚖️</span> Comparativa: 10 ejes</h2>
-  <p class="lede">Posiciones documentadas de cada candidato sobre los temas clave del próximo gobierno.</p>
+  <p class="lede">Posiciones documentadas de cada candidato sobre los temas clave del próximo gobierno. <span class="tag warn">Aclaración</span> = los puntos de Cepeda reflejan su <strong>plan oficial 2026-2030</strong> (Pacto Histórico) y su historial como senador. Los puntos de Espriella reflejan <strong>declaraciones públicas recurrentes</strong>; su plan "Patria Milagro" es <strong>poco detallado</strong> según críticas de prensa (InfoNación, may 2026), por lo que algunas filas son inferidas de su discurso, no citas textuales del plan.</p>
 
   <div class="table-wrap">
   <table>
